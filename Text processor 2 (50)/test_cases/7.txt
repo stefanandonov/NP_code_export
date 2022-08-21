@@ -1,0 +1,20 @@
+INPUT:
+Napredno programiranje
+napredno rabotenje
+
+OUTPUT:
+===PRINT VECTORS===
+[1, 1, 0]
+[1, 0, 1]
+PRINT FIRST 20 WORDS SORTED ASCENDING BY FREQUENCY 
+programiranje : 1
+rabotenje : 1
+napredno : 2
+PRINT FIRST 20 WORDS SORTED DESCENDING BY FREQUENCY
+napredno : 2
+programiranje : 1
+rabotenje : 1
+===MOST SIMILAR TEXTS===
+Napredno programiranje
+napredno rabotenje
+0.5000000000

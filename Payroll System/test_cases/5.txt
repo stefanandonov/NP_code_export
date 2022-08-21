@@ -1,0 +1,55 @@
+INPUT:
+F;72926a;level7;5;6;8;1
+F;c8b1bc;level5;3;8;3;4;6;7;1;3;7;4;7
+F;e911a6;level6;3;4;5;8;3;8;7;5;5
+H;157f3d;level10;63.14
+F;b4ba13;level6;8;3;3;2;2
+F;363bba;level4;3;1;4;2
+F;1b6f52;level7;8;5;3;4;5;7;6
+F;38a77b;level3;6;7;1;7
+F;b0b200;level7;8;5;4;8;5;5;5;1;3;8;1;2
+F;596ed2;level10;1;6;4;7;6;4;8;5;2
+F;ef8875;level8;7;3;7;1;5;5;5
+H;862dd9;level4;41.16
+H;44fb60;level3;48.74
+F;7bda21;level10;2;2;5;8;5;6;7
+F;3c4d1a;level7;2;7;1;4;7;2;6;1
+F;0e7a7f;level4;1;4;8;7
+H;881177;level5;63.19
+H;19b391;level8;41.42
+F;9ffa75;level8;4;7;2;3;6;5;1;3;4;4;3
+H;2aba0f;level6;40.47
+
+OUTPUT:
+READING OF THE EMPLOYEES DATA
+PRINTING EMPLOYEES BY LEVEL
+LEVEL: level10
+Employees: 
+Employee ID: 157f3d Level: level10 Salary: 2390.72 Regular hours: 40.00 Overtime hours: 23.14
+Employee ID: 596ed2 Level: level10 Salary: 1290.00 Tickets count: 9 Tickets points: 43
+Employee ID: 7bda21 Level: level10 Salary: 1050.00 Tickets count: 7 Tickets points: 35
+------------
+LEVEL: level5
+Employees: 
+Employee ID: 881177 Level: level5 Salary: 1570.49 Regular hours: 40.00 Overtime hours: 23.19
+Employee ID: c8b1bc Level: level5 Salary: 927.50 Tickets count: 11 Tickets points: 53
+------------
+LEVEL: level6
+Employees: 
+Employee ID: e911a6 Level: level6 Salary: 960.00 Tickets count: 9 Tickets points: 48
+Employee ID: 2aba0f Level: level6 Salary: 944.36 Regular hours: 40.00 Overtime hours: 0.47
+Employee ID: b4ba13 Level: level6 Salary: 360.00 Tickets count: 5 Tickets points: 18
+------------
+LEVEL: level7
+Employees: 
+Employee ID: b0b200 Level: level7 Salary: 1237.50 Tickets count: 12 Tickets points: 55
+Employee ID: 1b6f52 Level: level7 Salary: 855.00 Tickets count: 7 Tickets points: 38
+Employee ID: 3c4d1a Level: level7 Salary: 675.00 Tickets count: 8 Tickets points: 30
+Employee ID: 72926a Level: level7 Salary: 450.00 Tickets count: 4 Tickets points: 20
+------------
+LEVEL: level8
+Employees: 
+Employee ID: 19b391 Level: level8 Salary: 1162.79 Regular hours: 40.00 Overtime hours: 1.42
+Employee ID: 9ffa75 Level: level8 Salary: 1050.00 Tickets count: 11 Tickets points: 42
+Employee ID: ef8875 Level: level8 Salary: 825.00 Tickets count: 7 Tickets points: 33
+------------

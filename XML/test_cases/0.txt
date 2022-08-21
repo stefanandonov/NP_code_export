@@ -1,0 +1,9 @@
+INPUT:
+2
+
+OUTPUT:
+<name type="redoven">
+	<first-name>trajce</first-name>
+	<last-name>trajkovski</last-name>
+</name>
+

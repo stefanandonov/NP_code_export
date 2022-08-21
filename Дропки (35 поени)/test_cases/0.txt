@@ -1,0 +1,11 @@
+INPUT:
+2 8
+4 8
+1 5
+
+OUTPUT:
+0.25
+3.00 / 4.00
+7.00 / 10.00
+9.00 / 20.00
+Denominator cannot be zero

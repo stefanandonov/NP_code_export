@@ -1,0 +1,19 @@
+INPUT:
+0
+2 FKaebb
+1 tLBsphCNBdAWnCvb
+4 
+5 0
+5 0
+0 pYGrDqIMhnJEtcADsK
+0 rIHTsFkyVc
+2 Zpw
+4 
+1 wdjYfNqcH
+6
+
+OUTPUT:
+false
+tLBsphCNBdAWnCvb
+false
+tLBsphCNBdAWnCvbpYGrDqIMhnJEtcADsKrIHTsFkyVc

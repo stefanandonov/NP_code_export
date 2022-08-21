@@ -1,0 +1,146 @@
+INPUT:
+Kavadarci;003;Ilinka;19
+Veles;006;Ivan;27
+Strumica;003;Mitko;23
+Skopje;003;Ilinka;28
+Strumica;000;Ilinka;20
+Gostivar;002;Jasmina;23
+Skopje;004;Ilinka;15
+Kumanovo;003;Martina;28
+Prilep;007;Ana;16
+Veles;005;Katarina;22
+Strumica;005;Jasmina;16
+Skopje;001;Martina;21
+Kumanovo;005;Tamara;26
+Veles;000;Ivan;24
+Skopje;003;Tamara;21
+Veles;000;Martina;23
+Strumica;000;Martina;23
+Prilep;003;Tamara;22
+Radovish;001;Jasmina;15
+Skopje;003;Tamara;26
+Gostivar;003;Ilinka;21
+Prilep;003;Jovan;22
+Radovish;004;Jovan;28
+Prilep;005;Jasmina;30
+Bitola;000;Katarina;27
+Kumanovo;001;Mitko;23
+Bitola;006;Ivan;28
+Gostivar;007;Ilinka;30
+Prilep;003;Natasha;21
+Prilep;001;Ace;15
+Gostivar;006;Tamara;25
+Kavadarci;000;Jovan;15
+Kavadarci;007;Ivan;17
+Veles;003;Ana;24
+Bitola;002;Ace;26
+Strumica;005;Martina;23
+Kumanovo;004;Ace;24
+Kavadarci;002;Martina;25
+Veles;006;Ace;23
+Prilep;006;Ace;20
+Bitola;004;Ivan;26
+Kumanovo;002;Martina;24
+Strumica;004;Martina;27
+Gevgelija;004;Ilinka;26
+Prilep;005;Jovan;19
+Gevgelija;001;Natasha;22
+Gevgelija;003;Natasha;19
+Prilep;001;Jovan;21
+Gostivar;001;Ilinka;26
+Skopje;003;Ana;25
+Gevgelija;001;Ivan;23
+Bitola;002;Ilinka;27
+Radovish;007;Jovan;25
+Veles;004;Martina;30
+Kavadarci;002;Jovan;30
+Kavadarci;006;Ilinka;19
+Kavadarci;002;Jasmina;20
+Bitola;005;Natasha;26
+Strumica;002;Ilinka;29
+Veles;004;Jovan;17
+Veles;001;Ilinka;17
+Bitola;002;Jasmina;15
+Bitola;000;Jovan;26
+Prilep;003;Katarina;17
+Kavadarci;007;Jasmina;20
+Strumica;002;Ana;23
+Prilep;005;Ilinka;20
+Bitola;002;Ilinka;29
+Kavadarci;002;Natasha;15
+Bitola;003;Katarina;17
+Bitola;001;Natasha;18
+Strumica;000;Mitko;24
+Bitola;001;Ace;24
+Kumanovo;000;Martina;25
+Gostivar;007;Katarina;27
+Skopje
+Kumanovo
+Gevgelija
+Strumica
+Radovish
+Veles
+Kavadarci
+Gostivar
+Bitola
+Prilep
+
+OUTPUT:
++++++ Skopje +++++
+004 Ilinka 15
+003 Ilinka 28
+001 Martina 21
++++++ Kumanovo +++++
+004 Ace 24
+002 Martina 24
+000 Martina 25
+003 Martina 28
+001 Mitko 23
+005 Tamara 26
++++++ Gevgelija +++++
+004 Ilinka 26
+003 Natasha 19
+001 Natasha 22
++++++ Strumica +++++
+000 Ilinka 20
+002 Ilinka 29
+005 Jasmina 16
+004 Martina 27
+003 Mitko 23
++++++ Radovish +++++
+001 Jasmina 15
+007 Jovan 25
+004 Jovan 28
++++++ Veles +++++
+003 Ana 24
+001 Ilinka 17
+000 Ivan 24
+006 Ivan 27
+005 Katarina 22
+004 Martina 30
++++++ Kavadarci +++++
+003 Ilinka 19
+006 Ilinka 19
+007 Ivan 17
+000 Jovan 15
+002 Martina 25
++++++ Gostivar +++++
+003 Ilinka 21
+001 Ilinka 26
+007 Ilinka 30
+002 Jasmina 23
+006 Tamara 25
++++++ Bitola +++++
+002 Ace 26
+004 Ivan 26
+006 Ivan 28
+003 Katarina 17
+000 Katarina 27
+001 Natasha 18
+005 Natasha 26
++++++ Prilep +++++
+001 Ace 15
+006 Ace 20
+007 Ana 16
+005 Jasmina 30
+003 Tamara 22

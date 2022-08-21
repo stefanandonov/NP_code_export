@@ -1,0 +1,16 @@
+INPUT:
+Ана
+2000
+12
+true
+2
+
+OUTPUT:
+Applicant
+Name: Ана
+Credit score: 2000
+Experience: 12
+Criminal record: Yes
+
+Evaluation type: MORE_CREDIT_SCORE
+Applicant is ACCEPTED

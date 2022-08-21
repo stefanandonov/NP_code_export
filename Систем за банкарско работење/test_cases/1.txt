@@ -1,0 +1,5 @@
+INPUT:
+equals
+
+OUTPUT:
+All your equals methods work properly.

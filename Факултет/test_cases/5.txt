@@ -1,0 +1,76 @@
+INPUT:
+11
+8 9 9 9 8 8 8 8 5 6 9 7 6 5 7 9 7 7 6 9 9 10 9 7 8 8 9 5 5 10 10 9 9 10 8 8 6 10 6 5 7 10 7 10 9 7 8 5 8 9 8 7 6 7 9 7 10 9 7 9 8 6 8 6 10 10 8 10 9 8 9 9 8 8 9 5 5 9 10 5 6 9 5 9 10 5 5 7 9 8 6 9 10 8 9 10 9 9 9 7 5 9 8 8 9 8 6 6 6 7 10 5 5 6 8 8 10 7 7 5 8 9 8 10 6 6 9 10 5 9 6 9 5 6 5 6 9 10 9 5 5 6 6 6 7 7 6 8 10 5 5 9 9 9 7 8 8 6 8 6 9 10 6 9 7 6 6 6 10 10 6 5 9 5 6 5 9 6 7 5 7 9 8 9 6 8 5 7 8 6 5 7 6 10 6 8 8 10 8 7 5 6 6 5 6 8 5 8 7 7 8 6 10 10 8 6 5 5 8 10 6 7 6 7 5 8 7 9 7 10 7 7 7 10 6 6 10 5 7 6 8 7 8 6 7 6 5 8 8 5 6 6 10 10 9 5 5 8 5 8
+
+OUTPUT:
+INTEGRATION TEST
+LOGS
+Student with ID student11 graduated with average grade 6.83 in 3 years.
+Student with ID student12 graduated with average grade 7.21 in 4 years.
+Student with ID student13 graduated with average grade 7.33 in 3 years.
+Student with ID student14 graduated with average grade 6.92 in 4 years.
+DETAILED REPORT FOR STUDENT
+Student: student2
+Term 1
+Courses: 2
+Average grade for term: 8.00
+Term 2
+Courses: 3
+Average grade for term: 7.33
+Term 3
+Courses: 2
+Average grade for term: 9.50
+Term 4
+Courses: 3
+Average grade for term: 8.00
+Term 5
+Courses: 2
+Average grade for term: 8.50
+Term 6
+Courses: 3
+Average grade for term: 6.67
+Term 7
+Courses: 2
+Average grade for term: 9.50
+Term 8
+Courses: 3
+Average grade for term: 9.00
+Average grade: 8.20
+Courses attended: course1,course10,course11,course12,course13,course14,course15,course16,course17,course18,course19,course2,course20,course3,course4,course5,course6,course7,course8,course9
+The graduated students are really deleted
+FIRST N STUDENTS
+Student: student2 Courses passed: 20 Average grade: 8.20
+Student: student4 Courses passed: 20 Average grade: 8.10
+Student: student6 Courses passed: 20 Average grade: 7.95
+Student: student8 Courses passed: 20 Average grade: 7.50
+Student: student10 Courses passed: 20 Average grade: 7.30
+Student: student5 Courses passed: 15 Average grade: 7.73
+Student: student3 Courses passed: 15 Average grade: 7.67
+Student: student1 Courses passed: 15 Average grade: 7.47
+Student: student9 Courses passed: 15 Average grade: 7.00
+Student: student7 Courses passed: 15 Average grade: 6.93
+COURSES
+course24 2 5.00
+course22 2 6.50
+course23 2 7.00
+course21 2 7.50
+course20 7 7.86
+course19 7 8.14
+course16 9 6.89
+course17 9 7.78
+course18 9 8.44
+course13 14 7.00
+course10 14 7.21
+course11 14 7.21
+course1 14 7.29
+course14 14 7.29
+course3 14 7.29
+course5 14 7.29
+course4 14 7.36
+course6 14 7.36
+course12 14 7.50
+course2 14 7.50
+course15 14 7.57
+course9 14 7.57
+course8 14 7.64
+course7 14 8.00

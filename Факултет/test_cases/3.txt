@@ -1,0 +1,9 @@
+INPUT:
+4
+
+OUTPUT:
+Testing addGrade for graduation
+LOGS
+Student with ID 123 graduated with average grade 7.50 in 3 years.
+Student with ID 1234 graduated with average grade 9.00 in 4 years.
+PRINT STUDENTS (there shouldn't be anything after this line!

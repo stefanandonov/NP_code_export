@@ -1,0 +1,16 @@
+INPUT:
+Ивица
+1000
+12
+false
+3
+
+OUTPUT:
+Applicant
+Name: Ивица
+Credit score: 1000
+Experience: 12
+Criminal record: No
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_EXPERIENCE
+Applicant is ACCEPTED

@@ -1,0 +1,32 @@
+INPUT:
+3
+2020-11-18 02:20:20 [dag-scheduler-event-loop] INFO FairSchedulableBuilder: Added task set TaskSet_550.0 tasks to pool 8528611190673175966
+2020-11-18 02:20:20 [dispatcher-event-loop-3] INFO TaskSetManager: Starting task 0.0 in stage 550.0 (TID 4051, 10.162.242.30, executor 1, partition 0, PROCESS_LOCAL)
+2020-11-18 02:20:20 [dispatcher-event-loop-3] INFO TaskSetManager: Starting task 1.0 in stage 550.0 (TID 4052, 10.162.235.85, executor 0, partition 1, PROCESS_LOCAL)
+3
+ERROR Some_short_message-8 8878539449911250943
+ERROR Some_loooooooooooooooooooooooooong_dummy_message_that_should_be_more_than_100_charsszzzzzzzzzzzzzzzz-64 7026192678309265809
+INFO Some_short_message-13 2051624829434088144
+
+OUTPUT:
+===REAL LOGS SYSTEM RESULTS===
+RESULTS FROM THE FIRST LOG PROCESSOR
+1605666020100 [INFO] FairSchedulableBuilder: Added task set TaskSet_550.0 tasks to pool 8528611190673175966
+1605666020101 [INFO] TaskSetManager: Starting task 0.0 in stage 550.0 (TID 4051, 10.162.242.30, executor 1, partition 0, PROCESS_LOCAL)
+1605666020102 [INFO] TaskSetManager: Starting task 1.0 in stage 550.0 (TID 4052, 10.162.235.85, executor 0, partition 1, PROCESS_LOCAL)
+RESULTS FROM THE SECOND LOG PROCESSOR
+1605666020100 [INFO] FairSchedulableBuilder: Added task set TaskSet_550.0 tasks to pool 8528611190673175966
+RESULTS FROM THE THIRD LOG PROCESSOR
+1605666020100 [INFO] FairSchedulableBuilder: Added task set TaskSet_550.0 tasks to pool 8528611190673175966
+1605666020101 [INFO] TaskSetManager: Starting task 0.0 in stage 550.0 (TID 4051, 10.162.242.30, executor 1, partition 0, PROCESS_LOCAL)
+1605666020102 [INFO] TaskSetManager: Starting task 1.0 in stage 550.0 (TID 4052, 10.162.235.85, executor 0, partition 1, PROCESS_LOCAL)
+===DUMMY LOGS SYSTEM RESULTS===
+RESULTS FROM THE FIRST LOG PROCESSOR
+DummyLog{type='INFO', message='Some_short_message-13', timestamp=2051624829434088144}
+RESULTS FROM THE SECOND LOG PROCESSOR
+DummyLog{type='ERROR', message='Some_short_message-8', timestamp=8878539449911250943}
+DummyLog{type='INFO', message='Some_short_message-13', timestamp=2051624829434088144}
+RESULTS FROM THE THIRD LOG PROCESSOR
+DummyLog{type='INFO', message='Some_short_message-13', timestamp=2051624829434088144}
+DummyLog{type='ERROR', message='Some_loooooooooooooooooooooooooong_dummy_message_that_should_be_more_than_100_charsszzzzzzzzzzzzzzzz-64', timestamp=7026192678309265809}
+DummyLog{type='ERROR', message='Some_short_message-8', timestamp=8878539449911250943}

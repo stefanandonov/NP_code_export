@@ -1,0 +1,336 @@
+INPUT:
+acres
+alerting
+alerts
+altering
+alters
+ambled
+angered
+antlers
+antrels
+arced
+arrest
+arse
+artiest
+artiste
+arts
+attires
+attunes
+bedlam
+beldam
+blamed
+cadre
+canter
+capers
+cared
+cares
+caret
+carets
+caster
+cater
+cedar
+centra
+claimed
+crate
+crates
+dales
+deals
+decimal
+declaim
+deist
+deltas
+derange
+desalt
+destain
+detains
+diets
+drapes
+drawer
+earns
+ears
+east
+eats
+edits
+emits
+enlist
+enraged
+eras
+esprit
+ester
+estral
+estrange
+filters
+fliters
+gapers
+gasper
+grandee
+grantees
+grapes
+greatens
+grenade
+inlets
+instead
+integral
+items
+lades
+lambed
+lapse
+lased
+lasted
+laster
+laves
+leads
+leaps
+leapt
+least
+lepta
+lifters
+listen
+mates
+meats
+medalic
+medical
+merit
+merits
+mister
+miter
+miters
+mites
+mitre
+mitres
+nares
+nears
+nectar
+negaters
+notes
+nutates
+onset
+opts
+pacers
+pagers
+pales
+palest
+parers
+pares
+parleys
+parse
+parsec
+parsed
+parser
+parses
+parsley
+parts
+passer
+paste
+pastel
+pates
+peals
+pears
+persist
+petal
+petals
+plate
+plates
+players
+pleas
+pleat
+pleats
+pores
+poser
+post
+pots
+priest
+priests
+prose
+raced
+races
+rapers
+rapes
+rarest
+rasped
+rasper
+raster
+raters
+rats
+react
+reacts
+reagents
+reaps
+recant
+recaps
+recast
+recta
+redraw
+reins
+relating
+remit
+remits
+rentals
+replays
+reset
+resin
+retests
+reward
+rinse
+ripest
+risen
+ropes
+sainted
+salted
+saltern
+salve
+saner
+sate
+scare
+scrape
+sear
+seat
+sepal
+septa
+sera
+serac
+sergeant
+setters
+silent
+siren
+skate
+slate
+slated
+slave
+smite
+smiter
+snare
+spacer
+spader
+spare
+spared
+sparely
+sparer
+spares
+sparge
+sparse
+spate
+spear
+spears
+spore
+spot
+sprat
+spread
+spriest
+sprite
+sprites
+stained
+stake
+stale
+staler
+staple
+star
+starer
+steak
+steal
+steam
+steer
+steno
+sternal
+stied
+stifler
+stone
+stop
+strap
+streets
+striate
+stripe
+stripes
+takes
+tales
+tames
+tapes
+tarps
+tars
+tastier
+tautens
+teaks
+teals
+teams
+teas
+terse
+tersest
+tesla
+testers
+tetanus
+tides
+timer
+timers
+times
+tinsel
+tones
+tops
+trace
+traces
+trance
+traps
+trees
+triangle
+trifles
+tsar
+unstate
+vales
+valse
+veals
+warder
+warred
+
+OUTPUT:
+acres cares races scare serac
+alerting altering integral relating triangle
+alerts alters estral laster staler
+ambled bedlam beldam blamed lambed
+angered derange enraged grandee grenade
+antlers antrels rentals saltern sternal
+arced cadre cared cedar raced
+arrest rarest raster raters starer
+arse ears eras sear sera
+artiest artiste attires striate tastier
+arts rats star tars tsar
+attunes nutates tautens tetanus unstate
+canter centra nectar recant trance
+capers pacers parsec recaps scrape spacer
+caret cater crate react recta trace
+carets caster crates reacts recast traces
+claimed decimal declaim medalic medical
+dales deals lades lased leads
+deist diets edits stied tides
+deltas desalt lasted salted slated
+destain detains instead sainted stained
+drapes parsed rasped spader spared spread
+drawer redraw reward warder warred
+earns nares nears saner snare
+east eats sate seat teas
+emits items mites smite times
+enlist inlets listen silent tinsel
+esprit priest ripest sprite stripe
+ester reset steer terse trees
+estrange grantees greatens negaters reagents sergeant
+filters fliters lifters stifler trifles
+gapers gasper grapes pagers sparge
+lapse leaps pales peals pleas sepal
+laves salve slave vales valse veals
+leapt lepta petal plate pleat
+least slate stale steal tales teals tesla
+mates meats steam tames teams
+merit miter mitre remit timer
+merits mister miters mitres remits smiter timers
+notes onset steno stone tones
+opts post pots spot stop tops
+palest pastel petals plates pleats staple
+parers parser rapers rasper sparer
+pares parse pears rapes reaps spare spear
+parleys parsley players replays sparely
+parses passer spares sparse spears
+parts sprat strap tarps traps
+paste pates septa spate tapes
+persist priests spriest sprites stripes
+pores poser prose ropes spore
+reins resin rinse risen siren
+retests setters streets tersest testers
+skate stake steak takes teaks

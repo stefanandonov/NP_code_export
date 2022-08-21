@@ -1,0 +1,5 @@
+INPUT:
+3
+
+OUTPUT:
+You implementation finished in less then 3 seconds, well done!

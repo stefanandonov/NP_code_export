@@ -1,0 +1,5 @@
+INPUT:
+3 100
+
+OUTPUT:
+Compared to the control queue the results were the same? - true

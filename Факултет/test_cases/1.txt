@@ -1,0 +1,15 @@
+INPUT:
+1
+
+OUTPUT:
+TESTING addStudent AND printFirstNStudents
+Student: student9 Courses passed: 0 Average grade: 5.00
+Student: student8 Courses passed: 0 Average grade: 5.00
+Student: student7 Courses passed: 0 Average grade: 5.00
+Student: student6 Courses passed: 0 Average grade: 5.00
+Student: student5 Courses passed: 0 Average grade: 5.00
+Student: student4 Courses passed: 0 Average grade: 5.00
+Student: student3 Courses passed: 0 Average grade: 5.00
+Student: student2 Courses passed: 0 Average grade: 5.00
+Student: student1 Courses passed: 0 Average grade: 5.00
+Student: student0 Courses passed: 0 Average grade: 5.00

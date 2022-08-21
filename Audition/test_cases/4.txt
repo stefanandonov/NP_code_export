@@ -1,0 +1,75 @@
+INPUT:
+Gevgelija;003;Natasha;27
+Veles;001;Martina;27
+Kavadarci;002;Martina;16
+Gostivar;002;Tamara;19
+Gostivar;002;Ivan;15
+Radovish;003;Jasmina;19
+Strumica;001;Jasmina;27
+Radovish;003;Ana;23
+Strumica;000;Jovan;15
+Bitola;003;Ace;22
+Gostivar;001;Tamara;20
+Kumanovo;003;Jovan;30
+Kavadarci;002;Ilinka;30
+Strumica;001;Ana;17
+Gostivar;001;Ivan;21
+Strumica;003;Ace;25
+Kavadarci;002;Martina;20
+Skopje;003;Katarina;17
+Gevgelija;001;Tamara;22
+Kavadarci;001;Jovan;21
+Kavadarci;000;Ana;29
+Gevgelija;000;Ilinka;15
+Radovish;000;Katarina;16
+Skopje;003;Ana;23
+Strumica;001;Ace;19
+Radovish;001;Jasmina;20
+Prilep;001;Ivan;16
+Kavadarci;003;Jasmina;18
+Kumanovo;001;Katarina;21
+Kumanovo;002;Jasmina;22
+Skopje
+Kumanovo
+Gevgelija
+Strumica
+Radovish
+Veles
+Kavadarci
+Gostivar
+Bitola
+Prilep
+
+OUTPUT:
++++++ Skopje +++++
+003 Katarina 17
++++++ Kumanovo +++++
+002 Jasmina 22
+003 Jovan 30
+001 Katarina 21
++++++ Gevgelija +++++
+000 Ilinka 15
+003 Natasha 27
+001 Tamara 22
++++++ Strumica +++++
+003 Ace 25
+001 Jasmina 27
+000 Jovan 15
++++++ Radovish +++++
+003 Jasmina 19
+001 Jasmina 20
+000 Katarina 16
++++++ Veles +++++
+001 Martina 27
++++++ Kavadarci +++++
+000 Ana 29
+003 Jasmina 18
+001 Jovan 21
+002 Martina 16
++++++ Gostivar +++++
+002 Tamara 19
+001 Tamara 20
++++++ Bitola +++++
+003 Ace 22
++++++ Prilep +++++
+001 Ivan 16

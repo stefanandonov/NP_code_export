@@ -1,0 +1,31 @@
+INPUT:
+polyploidy
+F
+Chumbawumba
+polygon
+F
+
+OUTPUT:
+Question 1.  3 points.
+The possession of more than two sets of chromosomes is termed?
+That is correct!  You get 3 points.
+Your score is 3
+Question 2.  1 points.
+Erling Kagge skiied into the north pole alone on January 7, 1993.
+Enter 'T' for true or 'F' for false.
+That is correct!  You get 1 points.
+Your score is 4
+Question 3.  2 points.
+1997 British band that produced 'Tub Thumper'
+That is correct!  You get 2 points.
+Your score is 6
+Question 4.  2 points.
+I am the geometric figure most like a lost parrot
+That is correct!  You get 2 points.
+Your score is 8
+Question 5.  1 points.
+Generics were introducted to Java starting at version 5.0.
+Enter 'T' for true or 'F' for false.
+Wrong, the correct answer is T
+Your score is 8
+Game over!  Thanks for playing!

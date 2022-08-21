@@ -1,0 +1,41 @@
+INPUT:
+1
+ addRoom room1
+ addRoom room2
+ addRoom room3
+ registerAndJoin user1 room1
+ registerAndJoin user2 room1
+ print room1
+ register user3
+ register user4 room3
+ joinRoom user2 room2
+ joinRoom user2 room3
+ followFriend user4 user2
+ print room1
+ print room2
+ print room3
+stop
+
+OUTPUT:
+room1
+user1
+user2
+
+
+room1
+user1
+user2
+user4
+
+
+room2
+user2
+user3
+user4
+
+
+room3
+user2
+user4
+
+

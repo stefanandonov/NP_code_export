@@ -1,0 +1,60 @@
+INPUT:
+33
+CREATE_FACULTY FINKI
+7
+Petar Jovanov Bitola 25 17996023
+Marko Nikolov Stip 19 9328607
+Sanja Trajanova Strumica 29 16214624
+Marija Mihova Skopje 23 64218237
+Mile Mihov Strumica 27 59843963
+Petar Mihov Skopje 19 90603182
+Filip Trajanov Skopje 19 62887393
+ADD_PHONE_CONTACT 9328607 2013-03-19 071/160-503
+ADD_PHONE_CONTACT 17996023 2003-05-03 076/329-291
+ADD_PHONE_CONTACT 62887393 2009-08-02 071/564-046
+ADD_EMAIL_CONTACT 90603182 2011-06-02 aunnchamgpq@cs.org.mk
+ADD_EMAIL_CONTACT 64218237 2000-10-11 tejqz@cs.org.mk
+ADD_EMAIL_CONTACT 90603182 2009-04-27 amsdkofr@gmail.com
+ADD_EMAIL_CONTACT 17996023 2006-03-07 gfdqphpeqcgioxk@gmail.com
+ADD_EMAIL_CONTACT 90603182 2000-03-18 pvqfsqggbw@hotmail.com
+ADD_EMAIL_CONTACT 16214624 2010-02-04 ovjxtrcaiaywpdx@yahoo.com
+ADD_PHONE_CONTACT 59843963 2008-04-03 075/980-283
+ADD_EMAIL_CONTACT 17996023 2006-06-24 qubhmlupjjn@finki.ukim.mk
+ADD_EMAIL_CONTACT 16214624 2002-12-08 possqv@finki.ukim.mk
+ADD_EMAIL_CONTACT 90603182 2001-09-13 bkbfu@gmail.com
+ADD_PHONE_CONTACT 90603182 2011-12-18 071/664-073
+ADD_EMAIL_CONTACT 64218237 2000-10-10 rggnkhja@cs.org.mk
+ADD_EMAIL_CONTACT 64218237 2011-04-16 dvgvjgbuqk@hotmail.com
+ADD_EMAIL_CONTACT 62887393 2014-02-17 vckqbsiegewejp@finki.ukim.mk
+ADD_PHONE_CONTACT 59843963 2010-05-19 070/034-511
+ADD_PHONE_CONTACT 9328607 2014-08-05 075/499-257
+ADD_EMAIL_CONTACT 59843963 2007-07-06 rrdaudzeupt@cs.org.mk
+CHECK_DATES
+ADD_PHONE_CONTACT 64218237 2014-08-14 075/832-018
+ADD_PHONE_CONTACT 62887393 2014-05-09 077/547-726
+CHECK_DATES
+ADD_PHONE_CONTACT 64218237 2007-06-29 076/118-586
+ADD_EMAIL_CONTACT 17996023 2012-10-26 tqflgvnlneil@gmail.com
+CHECK_DATES
+ADD_EMAIL_CONTACT 17996023 2000-10-22 dkedtqdoy@gmail.com
+ADD_PHONE_CONTACT 17996023 2011-04-09 071/015-129
+CHECK_SIMPLE
+CHECK_SIMPLE
+PRINT_FACULTY_METHODS
+
+OUTPUT:
+Latest contact: 070/034-511 (TMOBILE)
+Number of email and phone contacts: 1 2
+Comparing dates: false
+Latest contact: 077/547-726 (VIP)
+Number of email and phone contacts: 1 2
+Comparing dates: true
+Latest contact: tqflgvnlneil@gmail.com
+Number of email and phone contacts: 3 1
+Comparing dates: true
+Average number of contacts: 3.71
+Number of students from Bitola: 1
+Average number of contacts: 3.71
+Number of students from Bitola: 1
+Faculty: {"fakultet":"FINKI", "studenti":[{"ime":"Petar", "prezime":"Jovanov", "vozrast":25, "grad":"Bitola", "indeks":17996023, "telefonskiKontakti":["076/329-291", "071/015-129"], "emailKontakti":["gfdqphpeqcgioxk@gmail.com", "qubhmlupjjn@finki.ukim.mk", "tqflgvnlneil@gmail.com", "dkedtqdoy@gmail.com"]}, {"ime":"Marko", "prezime":"Nikolov", "vozrast":19, "grad":"Stip", "indeks":9328607, "telefonskiKontakti":["071/160-503", "075/499-257"], "emailKontakti":[]}, {"ime":"Sanja", "prezime":"Trajanova", "vozrast":29, "grad":"Strumica", "indeks":16214624, "telefonskiKontakti":[], "emailKontakti":["ovjxtrcaiaywpdx@yahoo.com", "possqv@finki.ukim.mk"]}, {"ime":"Marija", "prezime":"Mihova", "vozrast":23, "grad":"Skopje", "indeks":64218237, "telefonskiKontakti":["075/832-018", "076/118-586"], "emailKontakti":["tejqz@cs.org.mk", "rggnkhja@cs.org.mk", "dvgvjgbuqk@hotmail.com"]}, {"ime":"Mile", "prezime":"Mihov", "vozrast":27, "grad":"Strumica", "indeks":59843963, "telefonskiKontakti":["075/980-283", "070/034-511"], "emailKontakti":["rrdaudzeupt@cs.org.mk"]}, {"ime":"Petar", "prezime":"Mihov", "vozrast":19, "grad":"Skopje", "indeks":90603182, "telefonskiKontakti":["071/664-073"], "emailKontakti":["aunnchamgpq@cs.org.mk", "amsdkofr@gmail.com", "pvqfsqggbw@hotmail.com", "bkbfu@gmail.com"]}, {"ime":"Filip", "prezime":"Trajanov", "vozrast":19, "grad":"Skopje", "indeks":62887393, "telefonskiKontakti":["071/564-046", "077/547-726"], "emailKontakti":["vckqbsiegewejp@finki.ukim.mk"]}]}
+Student with most contacts: {"ime":"Petar", "prezime":"Jovanov", "vozrast":25, "grad":"Bitola", "indeks":17996023, "telefonskiKontakti":["076/329-291", "071/015-129"], "emailKontakti":["gfdqphpeqcgioxk@gmail.com", "qubhmlupjjn@finki.ukim.mk", "tqflgvnlneil@gmail.com", "dkedtqdoy@gmail.com"]}

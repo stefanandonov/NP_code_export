@@ -1,0 +1,7 @@
+INPUT:
+1
+F;Ana;level8;1;2;3;4;5;6;7;8 500
+1
+
+OUTPUT:
+Employee ID: Ana Level: level8 Salary: 1418.00 Tickets count: 8 Tickets points: 36 Bonus: 500.00

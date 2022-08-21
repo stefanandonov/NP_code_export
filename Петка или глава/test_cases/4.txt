@@ -1,0 +1,6 @@
+INPUT:
+50
+
+OUTPUT:
+YES
+YES

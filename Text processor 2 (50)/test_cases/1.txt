@@ -1,0 +1,60 @@
+INPUT:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu ex ac leo ullamcorper feugiat. Suspendisse elementum tincidunt purus, ut elementum risus pellentesque ac. In congue consectetur euismod. Fusce pellentesque turpis sed sagittis condimentum. Nullam in tristique ipsum, vitae rhoncus justo. Suspendisse potenti. Pellentesque vehicula at urna sed tincidunt.
+Proin eros nulla, suscipit et magna vitae, facilisis viverra dolor. Morbi congue tellus at arcu tristique tincidunt. Nunc volutpat efficitur nisl, ac accumsan massa condimentum quis. Fusce sollicitudin porttitor dignissim. Sed fermentum, neque sagittis ultrices hendrerit, ipsum urna interdum velit, vitae vestibulum purus augue ac orci. Pellentesque ex massa, malesuada sit amet vulputate eget, euismod non sapien. Sed semper risus ut elit imperdiet, vitae porta libero laoreet.
+Nunc mattis ut odio id pharetra. Duis porttitor odio eros. Curabitur id eros et tellus ullamcorper placerat. Phasellus posuere risus lectus, in suscipit risus placerat vitae. Vivamus facilisis fermentum nisi ac pretium. Duis eu purus diam. Vivamus sit amet sapien maximus, aliquet sem in, vehicula enim. Donec ante ex, suscipit vel faucibus at, lobortis sit amet metus. Nunc eget egestas justo.
+Praesent quis blandit nisl, et dignissim tellus. In a mauris sed augue ultrices egestas. Praesent blandit placerat sem. Donec maximus condimentum est, eu iaculis tellus elementum eu. Ut tristique est nec tincidunt lobortis. Pellentesque luctus posuere augue, non finibus elit faucibus vel. Nullam vel tempor tortor. Praesent dapibus malesuada tellus. Curabitur at eleifend leo, pharetra congue odio. Ut nunc tellus, posuere quis auctor sed, porta et nisi. Nulla hendrerit, est non blandit molestie, augue sem luctus dui, eget efficitur eros est eget erat. Nunc non tempus est. Nullam ut erat ut tellus convallis iaculis eu sit amet nibh. Aenean lorem tellus, congue eget lorem in, rhoncus fringilla magna. Maecenas elementum purus vel turpis pellentesque congue.
+Donec non eros ut justo ultricies pulvinar nec et ante. Mauris faucibus purus nec nisi maximus iaculis. Aliquam ac tempor nunc, nec egestas ipsum. Praesent iaculis leo ut nulla laoreet, at tincidunt lectus suscipit. Suspendisse dignissim nisl a diam euismod tristique. Fusce sit amet mattis ex. In tincidunt, dui non facilisis vehicula, neque justo iaculis est, a vulputate tortor lorem nec urna.
+
+OUTPUT:
+===PRINT VECTORS===
+[0, 2, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 2, 0, 2, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 2, 0, 0, 1, 0, 0, 2, 0, 0, 0, 2, 0, 1, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+[0, 2, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 1, 2, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 3, 0, 1, 1, 1]
+[0, 1, 0, 0, 0, 0, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 2, 0, 1, 1, 0, 0, 0, 1, 0, 2, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 2, 0, 0, 1, 1, 2, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 1, 0, 1, 0, 2, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 2, 0, 0, 0]
+[1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 3, 3, 1, 3, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 3, 1, 2, 1, 0, 2, 1, 5, 2, 3, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 2, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 1, 2, 2, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 3, 1, 2, 2, 1, 0, 2, 1, 0, 1, 1, 0, 2, 0, 3, 0, 0, 0, 1, 2, 1, 0, 0, 0, 2, 2, 0, 1, 0, 0, 0, 6, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0]
+[2, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 3, 0, 0, 1, 0, 1, 2, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 4, 1, 0, 1, 1, 2, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 2, 1, 1, 0, 0, 0, 1, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+PRINT FIRST 20 WORDS SORTED ASCENDING BY FREQUENCY 
+accumsan : 1
+adipiscing : 1
+aenean : 1
+aliquam : 1
+aliquet : 1
+arcu : 1
+auctor : 1
+convallis : 1
+dapibus : 1
+eleifend : 1
+enim : 1
+feugiat : 1
+finibus : 1
+fringilla : 1
+imperdiet : 1
+interdum : 1
+libero : 1
+maecenas : 1
+metus : 1
+molestie : 1
+PRINT FIRST 20 WORDS SORTED DESCENDING BY FREQUENCY
+ut : 9
+tellus : 8
+in : 7
+nunc : 7
+ac : 6
+amet : 6
+est : 6
+non : 6
+pellentesque : 6
+sed : 6
+sit : 6
+tincidunt : 6
+at : 5
+congue : 5
+eget : 5
+eros : 5
+et : 5
+eu : 5
+iaculis : 5
+nec : 5
+===MOST SIMILAR TEXTS===
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu ex ac leo ullamcorper feugiat. Suspendisse elementum tincidunt purus, ut elementum risus pellentesque ac. In congue consectetur euismod. Fusce pellentesque turpis sed sagittis condimentum. Nullam in tristique ipsum, vitae rhoncus justo. Suspendisse potenti. Pellentesque vehicula at urna sed tincidunt.
+Proin eros nulla, suscipit et magna vitae, facilisis viverra dolor. Morbi congue tellus at arcu tristique tincidunt. Nunc volutpat efficitur nisl, ac accumsan massa condimentum quis. Fusce sollicitudin porttitor dignissim. Sed fermentum, neque sagittis ultrices hendrerit, ipsum urna interdum velit, vitae vestibulum purus augue ac orci. Pellentesque ex massa, malesuada sit amet vulputate eget, euismod non sapien. Sed semper risus ut elit imperdiet, vitae porta libero laoreet.
+0.4673317896

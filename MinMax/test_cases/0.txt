@@ -1,0 +1,18 @@
+INPUT:
+5
+hello
+yes
+yes
+no
+hello
+12
+12
+11
+10
+5
+
+OUTPUT:
+hello yes 1
+
+5 12 2
+

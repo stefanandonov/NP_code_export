@@ -1,0 +1,43 @@
+INPUT:
+11
+1984:Classics:11.86
+A Brief History of Time:Cosmology:21.66
+A Heartbreaking Work of Staggering Genius:Biographies:22.87
+A Long Way Gone Memoirs of a Boy Soldier:Biographies:15.18
+The Bad Beginning Or, Orphans!:Cosmology:10.87
+A Wrinkle in Time:Classics:14.34
+Selected Stories, 1968-1994:Children:2.54
+Alice's Adventures in Wonderland:Children:12.34
+Angela's Ashes A Memoir:Biographies:14.19
+Laugh-Out-Loud Jokes for Kids:Children:2.99
+Yes Please:Biographies:14.50
+
+OUTPUT:
+=== PRINT BY CATEGORY ===
+CATEGORY: Biographies
+A Heartbreaking Work of Staggering Genius (Biographies) 22.87
+A Long Way Gone Memoirs of a Boy Soldier (Biographies) 15.18
+Angela's Ashes A Memoir (Biographies) 14.19
+Yes Please (Biographies) 14.50
+CATEGORY: Children
+Alice's Adventures in Wonderland (Children) 12.34
+Laugh-Out-Loud Jokes for Kids (Children) 2.99
+Selected Stories, 1968-1994 (Children) 2.54
+CATEGORY: Classics
+1984 (Classics) 11.86
+A Wrinkle in Time (Classics) 14.34
+CATEGORY: Cosmology
+A Brief History of Time (Cosmology) 21.66
+The Bad Beginning Or, Orphans! (Cosmology) 10.87
+=== TOP N BY PRICE ===
+Selected Stories, 1968-1994 (Children) 2.54
+Laugh-Out-Loud Jokes for Kids (Children) 2.99
+The Bad Beginning Or, Orphans! (Cosmology) 10.87
+1984 (Classics) 11.86
+Alice's Adventures in Wonderland (Children) 12.34
+Angela's Ashes A Memoir (Biographies) 14.19
+A Wrinkle in Time (Classics) 14.34
+Yes Please (Biographies) 14.50
+A Long Way Gone Memoirs of a Boy Soldier (Biographies) 15.18
+A Brief History of Time (Cosmology) 21.66
+A Heartbreaking Work of Staggering Genius (Biographies) 22.87

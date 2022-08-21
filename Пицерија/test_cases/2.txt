@@ -1,0 +1,15 @@
+INPUT:
+2 Pizza Standard 1 Pizza Vegetarian 1 Pizza Pepperoni 1 Extra Coke 2 Extra Ketchup 2 Extra Coke stop 3 1 2 stop
+
+OUTPUT:
+46
+  1.Standard       x 1   10$
+  2.Vegetarian     x 1    8$
+  3.Pepperoni      x 1   12$
+  4.Coke           x 2   10$
+  5.Ketchup        x 2    6$
+Total:                   46$
+22
+  1.Standard       x 1   10$
+  2.Pepperoni      x 1   12$
+Total:                   22$

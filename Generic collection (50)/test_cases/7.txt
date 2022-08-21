@@ -1,0 +1,39 @@
+INPUT:
+3
+20
+7 3 2016-09-18T20:16:21 cat3
+4 9 2012-08-04T11:48:08 cat5
+5 9 2018-05-04T11:59:01 cat3
+8 3 2002-06-11T17:27:02 cat3
+5 2 2018-06-29T22:02:59 cat1
+1 1 2016-08-20T22:19:36 cat2
+1 5 2008-04-22T08:26:32 cat3
+0 4 2011-08-05T04:20:07 cat1
+8 7 2004-10-04T01:39:14 cat3
+8 2 2019-09-05T20:08:19 cat4
+6 2 2020-07-06T15:03:46 cat4
+6 3 2010-03-05T14:47:23 cat1
+5 5 2003-08-02T20:13:58 cat1
+0 2 2019-08-18T12:44:58 cat6
+8 9 2019-03-20T16:03:50 cat3
+0 6 2015-04-17T13:14:36 cat2
+0 2 2003-04-19T00:01:36 cat3
+9 5 2010-04-27T09:13:18 cat6
+4 8 2003-12-07T22:42:36 cat5
+0 6 2015-07-05T09:17:18 cat6
+1
+
+OUTPUT:
+TwoIntegersElement{value1=9, value2=5, timestamp=2010-04-27T09:13:18}
+TwoIntegersElement{value1=8, value2=9, timestamp=2019-03-20T16:03:50}
+TwoIntegersElement{value1=8, value2=2, timestamp=2019-09-05T20:08:19}
+TwoIntegersElement{value1=7, value2=3, timestamp=2016-09-18T20:16:21}
+TwoIntegersElement{value1=6, value2=3, timestamp=2010-03-05T14:47:23}
+TwoIntegersElement{value1=5, value2=9, timestamp=2018-05-04T11:59:01}
+TwoIntegersElement{value1=5, value2=2, timestamp=2018-06-29T22:02:59}
+TwoIntegersElement{value1=4, value2=9, timestamp=2012-08-04T11:48:08}
+TwoIntegersElement{value1=1, value2=5, timestamp=2008-04-22T08:26:32}
+TwoIntegersElement{value1=1, value2=1, timestamp=2016-08-20T22:19:36}
+TwoIntegersElement{value1=0, value2=6, timestamp=2015-04-17T13:14:36}
+TwoIntegersElement{value1=0, value2=4, timestamp=2011-08-05T04:20:07}
+TwoIntegersElement{value1=0, value2=2, timestamp=2019-08-18T12:44:58}

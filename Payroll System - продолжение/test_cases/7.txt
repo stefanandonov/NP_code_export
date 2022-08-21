@@ -1,0 +1,12 @@
+INPUT:
+3
+H;Stefan;level1;45.0 10%
+F;Gjorgji;level2;1;5;10;6 
+F;Ana;level8;1;2;3;4;5;6;7;8 500
+5
+3
+
+OUTPUT:
+Employee ID: Ana Level: level8 Salary: 1418.00 Tickets count: 8 Tickets points: 36 Bonus: 500.00
+Employee ID: Stefan Level: level1 Salary: 689.70 Regular hours: 40.00 Overtime hours: 5.00 Bonus: 62.70
+Employee ID: Gjorgji Level: level2 Salary: 231.00 Tickets count: 4 Tickets points: 22

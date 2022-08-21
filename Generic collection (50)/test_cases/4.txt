@@ -1,0 +1,23 @@
+INPUT:
+1
+10
+63 2006-07-22T00:37:27 cat1
+97 2015-10-01T23:19:12 cat4
+43 2016-06-18T08:14:39 cat3
+85 2012-03-04T05:10:08 cat3
+42 2003-04-15T02:05:15 cat2
+11 2010-03-07T23:50:43 cat5
+46 2018-11-08T07:15:31 cat4
+12 2009-04-08T06:55:42 cat1
+84 2006-09-29T11:23:21 cat4
+6 2007-06-04T11:24:16 cat1
+2 
+2
+cat1 
+cat2
+
+OUTPUT:
+IntegerElement{value=63, timestamp=2006-07-22T00:37:27}
+IntegerElement{value=42, timestamp=2003-04-15T02:05:15}
+IntegerElement{value=12, timestamp=2009-04-08T06:55:42}
+IntegerElement{value=6, timestamp=2007-06-04T11:24:16}

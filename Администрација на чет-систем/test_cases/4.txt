@@ -1,0 +1,152 @@
+INPUT:
+1
+addRoom room1
+registerAndJoin user1 room1
+removeRoom room1
+followFriend user1 user1
+register user2
+register user3
+followFriend user2 user1
+followFriend user1 user3
+addRoom room1
+registerAndJoin user4 room1
+leaveRoom user2 room1
+print room1
+print room1
+register user5
+register user6
+leaveRoom user3 room1
+removeRoom room1
+register user7
+register user8
+register user9
+followFriend user2 user9
+addRoom room1
+addRoom room2
+joinRoom user9 room1
+followFriend user2 user7
+register user10
+removeRoom room2
+leaveRoom user7 room1
+removeRoom room1
+followFriend user9 user5
+addRoom room1
+register user11
+followFriend user5 user6
+registerAndJoin user12 room1
+print room1
+leaveRoom user8 room1
+followFriend user5 user8
+removeRoom room1
+addRoom room1
+registerAndJoin user13 room1
+removeRoom room1
+followFriend user3 user6
+addRoom room1
+registerAndJoin user14 room1
+removeRoom room1
+addRoom room1
+followFriend user11 user7
+followFriend user7 user5
+leaveRoom user7 room1
+addRoom room2
+removeRoom room2
+addRoom room2
+register user15
+leaveRoom user11 room2
+joinRoom user14 room1
+register user16
+register user17
+joinRoom user17 room1
+register user18
+joinRoom user6 room1
+removeRoom room2
+addRoom room2
+registerAndJoin user19 room1
+registerAndJoin user20 room1
+print room2
+registerAndJoin user21 room1
+register user22
+register user23
+registerAndJoin user24 room2
+removeRoom room2
+leaveRoom user10 room1
+addRoom room2
+register user25
+joinRoom user9 room2
+leaveRoom user9 room1
+registerAndJoin user26 room2
+leaveRoom user8 room1
+joinRoom user12 room2
+followFriend user21 user15
+addRoom room3
+leaveRoom user7 room3
+removeRoom room3
+print room2
+leaveRoom user16 room1
+addRoom room3
+print room2
+addRoom room4
+registerAndJoin user27 room4
+registerAndJoin user28 room4
+followFriend user7 user27
+register user29
+print room1
+addRoom room5
+register user30
+register user31
+addRoom room6
+print room4
+leaveRoom user7 room4
+joinRoom user27 room3
+registerAndJoin user32 room1
+stop
+
+OUTPUT:
+room1
+user4
+
+
+room1
+user4
+
+
+room1
+user11
+user12
+
+
+room2
+EMPTY
+
+
+room2
+user12
+user25
+user26
+user9
+
+
+room2
+user12
+user25
+user26
+user9
+
+
+room1
+user14
+user15
+user17
+user19
+user20
+user21
+user6
+
+
+room4
+user27
+user28
+user7
+
+

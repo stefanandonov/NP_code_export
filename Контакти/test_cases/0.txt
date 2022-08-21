@@ -1,0 +1,190 @@
+INPUT:
+113
+CREATE_FACULTY FEIT
+17
+Bojan Petrov Strumica 21 10168263
+Filip Jovanov Ohrid 25 69645468
+Ina Jovanova Ohrid 30 53933488
+Petar Mihov Ohrid 18 85650362
+Ina Nikolova Stip 21 18567291
+Marko Trajanov Strumica 29 51675531
+Filip Stankov Bitola 30 32368415
+Ina Mihova Strumica 29 4962448
+Marija Stankova Bitola 18 48638978
+Marko Stankov Ohrid 30 80801950
+Emil Nikolov Stip 22 31152932
+Stojan Petrov Strumica 18 40102003
+Darko Mihov Skopje 30 87315706
+Petar Petrov Bitola 24 55480749
+Sanja Stankova Bitola 30 77407183
+Sanja Mihova Ohrid 18 24260228
+Marta Stankova Ohrid 25 95048756
+ADD_EMAIL_CONTACT 87315706 2012-04-23 nldisgkcixo@finki.ukim.mk
+ADD_PHONE_CONTACT 4962448 2014-05-16 077/903-792
+ADD_EMAIL_CONTACT 10168263 2008-12-17 oogerrzixfrimq@cs.org.mk
+ADD_EMAIL_CONTACT 53933488 2002-11-24 rwsqw@cs.org.mk
+ADD_PHONE_CONTACT 40102003 2003-08-05 078/926-310
+ADD_PHONE_CONTACT 4962448 2011-09-01 078/498-119
+ADD_PHONE_CONTACT 51675531 2007-09-12 078/900-807
+ADD_EMAIL_CONTACT 24260228 2010-02-15 qeqrmlxkn@finki.ukim.mk
+ADD_EMAIL_CONTACT 77407183 2005-05-03 mistfrko@finki.ukim.mk
+ADD_EMAIL_CONTACT 18567291 2009-09-13 suqaejolsjlu@hotmail.com
+ADD_PHONE_CONTACT 69645468 2009-11-01 077/469-490
+ADD_PHONE_CONTACT 80801950 2008-04-03 077/753-577
+ADD_PHONE_CONTACT 85650362 2000-07-07 076/784-096
+ADD_EMAIL_CONTACT 53933488 2009-06-05 rpswlwdqkp@hotmail.com
+ADD_PHONE_CONTACT 69645468 2005-10-06 071/559-988
+ADD_EMAIL_CONTACT 4962448 2007-12-18 cicbjcbb@finki.ukim.mk
+ADD_PHONE_CONTACT 51675531 2001-05-09 078/968-470
+ADD_PHONE_CONTACT 95048756 2008-08-17 070/887-999
+ADD_PHONE_CONTACT 55480749 2002-08-02 076/190-874
+ADD_EMAIL_CONTACT 95048756 2003-10-04 rgqjrpq@cs.org.mk
+ADD_EMAIL_CONTACT 24260228 2008-01-26 obtao@finki.ukim.mk
+ADD_EMAIL_CONTACT 32368415 2013-03-18 zwmooomx@cs.org.mk
+ADD_EMAIL_CONTACT 40102003 2009-05-26 wndgbptlzqwp@gmail.com
+ADD_PHONE_CONTACT 4962448 2014-10-28 070/503-510
+ADD_PHONE_CONTACT 10168263 2012-07-15 077/414-765
+ADD_EMAIL_CONTACT 40102003 2003-07-06 ahxrq@gmail.com
+ADD_PHONE_CONTACT 87315706 2005-02-15 075/403-790
+ADD_EMAIL_CONTACT 95048756 2010-05-10 pcwnyvedgfy@finki.ukim.mk
+ADD_EMAIL_CONTACT 51675531 2000-04-22 kcrjfisrqpf@yahoo.com
+ADD_EMAIL_CONTACT 51675531 2002-04-11 guapkrbgblt@cs.org.mk
+ADD_EMAIL_CONTACT 85650362 2001-01-30 znbwnivmygtcosy@cs.org.mk
+ADD_PHONE_CONTACT 55480749 2008-09-25 071/971-011
+ADD_EMAIL_CONTACT 55480749 2002-06-26 zfmmerjcrchaie@cs.org.mk
+ADD_EMAIL_CONTACT 53933488 2010-12-05 ftqnohaun@hotmail.com
+ADD_PHONE_CONTACT 80801950 2011-05-15 077/771-895
+ADD_PHONE_CONTACT 80801950 2014-05-12 071/586-885
+ADD_EMAIL_CONTACT 69645468 2007-06-27 tpmagi@yahoo.com
+ADD_PHONE_CONTACT 55480749 2003-09-26 075/883-330
+ADD_PHONE_CONTACT 18567291 2003-06-04 071/594-559
+ADD_EMAIL_CONTACT 18567291 2014-02-01 vyotnplhjxboakf@finki.ukim.mk
+ADD_EMAIL_CONTACT 51675531 2011-07-21 xrqwtsjltqpwf@hotmail.com
+ADD_EMAIL_CONTACT 18567291 2003-09-22 otpnnpzc@gmail.com
+ADD_PHONE_CONTACT 51675531 2014-06-21 078/122-156
+ADD_EMAIL_CONTACT 53933488 2001-12-15 iullbtfvvedkclz@hotmail.com
+ADD_EMAIL_CONTACT 80801950 2010-03-03 vxpwrl@finki.ukim.mk
+ADD_EMAIL_CONTACT 40102003 2002-02-29 dbdswbf@hotmail.com
+ADD_PHONE_CONTACT 31152932 2000-12-11 075/265-425
+ADD_EMAIL_CONTACT 87315706 2004-03-28 dduqdozffcwrxls@hotmail.com
+ADD_EMAIL_CONTACT 32368415 2013-05-29 eedtegvwwbxb@hotmail.com
+ADD_PHONE_CONTACT 77407183 2007-12-13 078/653-903
+ADD_EMAIL_CONTACT 24260228 2006-01-02 yciybudfjhyzx@cs.org.mk
+ADD_EMAIL_CONTACT 51675531 2006-06-08 mdadpktjimxb@gmail.com
+ADD_PHONE_CONTACT 87315706 2010-01-10 076/079-299
+ADD_PHONE_CONTACT 31152932 2006-01-06 071/269-960
+ADD_PHONE_CONTACT 87315706 2002-02-12 077/039-439
+ADD_PHONE_CONTACT 85650362 2005-09-29 070/682-516
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 95048756 2001-01-14 075/251-300
+ADD_EMAIL_CONTACT 24260228 2006-11-06 xtdnr@yahoo.com
+ADD_PHONE_CONTACT 95048756 2012-03-29 078/488-929
+CHECK_DATES
+ADD_EMAIL_CONTACT 87315706 2004-10-26 aemudj@finki.ukim.mk
+ADD_EMAIL_CONTACT 31152932 2014-10-20 atbbbhjcndeax@gmail.com
+ADD_PHONE_CONTACT 53933488 2008-11-12 076/512-810
+ADD_PHONE_CONTACT 31152932 2000-11-08 070/855-487
+CHECK_DATES
+ADD_EMAIL_CONTACT 51675531 2001-12-16 wiisycribp@yahoo.com
+ADD_PHONE_CONTACT 51675531 2011-09-22 075/363-876
+ADD_PHONE_CONTACT 95048756 2008-06-19 071/252-909
+CHECK_DATES
+CHECK_DATES
+CHECK_DATES
+CHECK_DATES
+CHECK_DATES
+ADD_PHONE_CONTACT 53933488 2001-07-09 078/348-579
+ADD_PHONE_CONTACT 80801950 2001-09-08 077/843-791
+CHECK_DATES
+ADD_EMAIL_CONTACT 24260228 2001-03-19 zvleqiisawr@yahoo.com
+CHECK_DATES
+CHECK_DATES
+ADD_PHONE_CONTACT 4962448 2008-12-22 071/819-436
+ADD_PHONE_CONTACT 24260228 2003-06-02 076/257-564
+ADD_PHONE_CONTACT 53933488 2009-07-07 077/972-923
+CHECK_DATES
+ADD_PHONE_CONTACT 69645468 2010-02-10 070/647-434
+ADD_PHONE_CONTACT 4962448 2008-01-19 070/355-507
+CHECK_SIMPLE
+ADD_EMAIL_CONTACT 85650362 2004-03-24 zkgism@hotmail.com
+ADD_PHONE_CONTACT 51675531 2005-05-25 076/538-535
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 51675531 2014-02-28 078/589-985
+CHECK_SIMPLE
+ADD_EMAIL_CONTACT 85650362 2000-02-08 qvtsalm@cs.org.mk
+CHECK_DATES
+ADD_PHONE_CONTACT 48638978 2007-04-02 071/966-527
+ADD_PHONE_CONTACT 51675531 2004-12-11 077/618-906
+ADD_EMAIL_CONTACT 18567291 2002-05-02 oltnwnnivez@yahoo.com
+ADD_PHONE_CONTACT 87315706 2007-05-12 076/492-020
+ADD_EMAIL_CONTACT 24260228 2006-02-09 fbgjeqjqz@finki.ukim.mk
+CHECK_DATES
+CHECK_DATES
+ADD_EMAIL_CONTACT 32368415 2010-08-17 yutvnqgdjhpqpa@finki.ukim.mk
+CHECK_DATES
+ADD_EMAIL_CONTACT 95048756 2010-07-06 lizhwhapwgfokk@hotmail.com
+CHECK_DATES
+CHECK_DATES
+CHECK_DATES
+CHECK_DATES
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 40102003 2005-04-21 071/013-724
+CHECK_DATES
+CHECK_DATES
+
+OUTPUT:
+Average number of contacts: 3.29
+Number of students from Stip: 2
+Latest contact: 078/488-929 (VIP)
+Number of email and phone contacts: 2 3
+Comparing dates: false
+Latest contact: atbbbhjcndeax@gmail.com
+Number of email and phone contacts: 1 3
+Comparing dates: true
+Latest contact: 078/488-929 (VIP)
+Number of email and phone contacts: 2 4
+Comparing dates: false
+Latest contact: 078/488-929 (VIP)
+Number of email and phone contacts: 2 4
+Comparing dates: false
+Latest contact: 078/488-929 (VIP)
+Number of email and phone contacts: 2 4
+Comparing dates: false
+Latest contact: 078/488-929 (VIP)
+Number of email and phone contacts: 2 4
+Comparing dates: false
+Latest contact: 078/488-929 (VIP)
+Number of email and phone contacts: 2 4
+Comparing dates: false
+Latest contact: ftqnohaun@hotmail.com
+Number of email and phone contacts: 4 2
+Comparing dates: false
+Latest contact: qeqrmlxkn@finki.ukim.mk
+Latest contact: qeqrmlxkn@finki.ukim.mk
+Latest contact: 070/503-510 (TMOBILE)
+Number of email and phone contacts: 1 4
+Comparing dates: false
+Average number of contacts: 4.35
+Number of students from Strumica: 4
+Average number of contacts: 4.47
+Number of students from Strumica: 4
+Average number of contacts: 4.53
+Number of students from Strumica: 4
+Latest contact: 070/682-516 (TMOBILE)
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Latest contact: qeqrmlxkn@finki.ukim.mk
+Number of email and phone contacts: 6 1
+Comparing dates: true
+Latest contact: qeqrmlxkn@finki.ukim.mk
+Number of email and phone contacts: 6 1
+Comparing dates: false
+Latest contact: eedtegvwwbxb@hotmail.com
+Latest contact: eedtegvwwbxb@hotmail.com
+Latest contact: eedtegvwwbxb@hotmail.com
+Latest contact: eedtegvwwbxb@hotmail.com
+Latest contact: eedtegvwwbxb@hotmail.com
+Average number of contacts: 5.00
+Number of students from Bitola: 4
+Latest contact: eedtegvwwbxb@hotmail.com
+Latest contact: eedtegvwwbxb@hotmail.com

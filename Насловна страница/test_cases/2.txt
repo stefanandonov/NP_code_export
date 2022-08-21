@@ -1,0 +1,51 @@
+INPUT:
+Technology Science Sport
+3
+Booksellers Resisting Amazon’s Disruption
+15
+There is the slow-motion crackup of electronics showroom Best Buy. There is Amazon’s rumored entry into the wine business, which is already agitating competitors. And there is the merger of Random House and Penguin, an effort to create a mega-publisher sufficiently hefty to negotiate with the retailer on equal terms.
+0
+Chinese Messaging App Gains Ground Elsewhere
+28
+Chinese Internet companies have long struggled to establish their products beyond the country’s borders. In 2007 China’s dominant search engine, Baidu, announced an ambitious plan to break into the Japanese search engine market; as of last year, the company said it had lost more than $108 million trying.
+1
+Shadow Marathon Quenches a Desire to Run
+12
+Some called it the shadow race. Others the underground marathon. 
+0
+2
+Protecting the City, Before Next Time
+72
+http://www.nytimes.com/2012/11/04/nyregion/protecting-new-york-city-before-next-time.html?ref=science
+1432
+0
+After Getting Back to Normal, Big Job Is Facing New Reality
+16
+http://www.nytimes.com/2012/11/04/nyregion/after-getting-back-to-normal-the-big-job-is-to-face-a-new-reality.html?ref=science
+2783
+1
+Science
+
+OUTPUT:
+Booksellers Resisting Amazon’s Disruption
+15
+There is the slow-motion crackup of electronics showroom Best Buy. There is Amaz
+Chinese Messaging App Gains Ground Elsewhere
+28
+Chinese Internet companies have long struggled to establish their products beyon
+Shadow Marathon Quenches a Desire to Run
+12
+Some called it the shadow race. Others the underground marathon. 
+Protecting the City, Before Next Time
+72
+http://www.nytimes.com/2012/11/04/nyregion/protecting-new-york-city-before-next-time.html?ref=science
+1432
+After Getting Back to Normal, Big Job Is Facing New Reality
+16
+http://www.nytimes.com/2012/11/04/nyregion/after-getting-back-to-normal-the-big-job-is-to-face-a-new-reality.html?ref=science
+2783
+
+3
+2
+0
+2

@@ -1,0 +1,146 @@
+INPUT:
+1
+register user1
+followFriend user1 user1
+register user2
+followFriend user2 user2
+register user3
+addRoom room1
+registerAndJoin user4 room1
+addRoom room2
+addRoom room3
+leaveRoom user3 room2
+addRoom room4
+joinRoom user4 room4
+leaveRoom user3 room4
+joinRoom user1 room2
+joinRoom user1 room3
+registerAndJoin user5 room4
+removeRoom room4
+joinRoom user1 room3
+followFriend user1 user4
+joinRoom user1 room2
+register user6
+addRoom room4
+leaveRoom user4 room4
+removeRoom room4
+register user7
+removeRoom room3
+leaveRoom user6 room2
+register user8
+removeRoom room2
+registerAndJoin user9 room1
+joinRoom user9 room1
+joinRoom user1 room1
+register user10
+leaveRoom user5 room1
+joinRoom user1 room1
+print room1
+followFriend user1 user6
+removeRoom room1
+register user11
+followFriend user4 user5
+addRoom room1
+register user12
+addRoom room2
+print room1
+print room1
+register user13
+print room1
+registerAndJoin user14 room1
+registerAndJoin user15 room2
+addRoom room3
+addRoom room4
+joinRoom user7 room3
+leaveRoom user5 room4
+followFriend user5 user12
+leaveRoom user15 room3
+print room4
+leaveRoom user1 room1
+joinRoom user12 room1
+removeRoom room4
+print room2
+removeRoom room3
+addRoom room3
+print room2
+register user16
+removeRoom room3
+followFriend user10 user2
+removeRoom room2
+joinRoom user11 room1
+leaveRoom user2 room1
+removeRoom room1
+addRoom room1
+joinRoom user2 room1
+register user17
+removeRoom room1
+addRoom room1
+removeRoom room1
+addRoom room1
+print room1
+addRoom room2
+registerAndJoin user18 room1
+removeRoom room2
+print room1
+addRoom room2
+removeRoom room2
+removeRoom room1
+followFriend user14 user11
+followFriend user11 user18
+followFriend user1 user9
+addRoom room1
+joinRoom user15 room1
+joinRoom user10 room1
+followFriend user8 user15
+registerAndJoin user19 room1
+joinRoom user19 room1
+register user20
+followFriend user12 user8
+removeRoom room1
+register user21
+followFriend user7 user3
+addRoom room1
+stop
+
+OUTPUT:
+room1
+user1
+user10
+user4
+user9
+
+
+room1
+user12
+
+
+room1
+user12
+
+
+room1
+user12
+
+
+room4
+EMPTY
+
+
+room2
+user13
+user15
+
+
+room2
+user13
+user15
+
+
+room1
+EMPTY
+
+
+room1
+user18
+
+

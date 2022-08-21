@@ -1,0 +1,16 @@
+INPUT:
+Митко
+600
+7
+true
+1
+
+OUTPUT:
+Applicant
+Name: Митко
+Credit score: 600
+Experience: 7
+Criminal record: Yes
+
+Evaluation type: MORE_EXPERIENCE
+Applicant is REJECTED

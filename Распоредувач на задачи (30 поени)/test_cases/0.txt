@@ -1,0 +1,77 @@
+INPUT:
+28
+283 975 946 738 882 175 55 814 47 28 552 689 462 967 12 523 644 973 439 978 973 193 653 757 655 441 514 234
+9
+65 351 130 252 278 281 899 763 141
+500
+
+OUTPUT:
+PT -> 65
+PT -> 351
+PT -> 130
+PT -> 252
+PT -> 278
+PT -> 281
+PT -> 899
+PT -> 763
+PT -> 141
+=== Ordered tasks ===
+Timed tasks
+TT -> 12
+TT -> 28
+TT -> 47
+TT -> 55
+TT -> 175
+TT -> 193
+TT -> 234
+TT -> 283
+TT -> 439
+TT -> 441
+TT -> 462
+TT -> 514
+TT -> 523
+TT -> 552
+TT -> 644
+TT -> 653
+TT -> 655
+TT -> 689
+TT -> 738
+TT -> 757
+TT -> 814
+TT -> 882
+TT -> 946
+TT -> 967
+TT -> 973
+TT -> 973
+TT -> 975
+TT -> 978
+Priority tasks
+PT -> 65
+PT -> 130
+PT -> 141
+PT -> 252
+PT -> 278
+PT -> 281
+PT -> 351
+PT -> 763
+PT -> 899
+=== Filtered time tasks with order less then 500 ===
+TT -> 283
+TT -> 175
+TT -> 55
+TT -> 47
+TT -> 28
+TT -> 462
+TT -> 12
+TT -> 439
+TT -> 193
+TT -> 441
+TT -> 234
+=== Filtered priority tasks with order less then 500 ===
+PT -> 65
+PT -> 351
+PT -> 130
+PT -> 252
+PT -> 278
+PT -> 281
+PT -> 141

@@ -1,0 +1,71 @@
+INPUT:
+26
+ad 1:3:9:8:0
+laborum 8:3:9:9:5
+ea 0:0:9:6:0
+ullam 6:6:0:1:2
+magnam 5:5:4:4:4
+consequatur 1:7:2:5:0
+eum 1:0:2:1:9
+reprehenderit 4:0:4:5:1
+est 5:2:6:5:5
+sit 6:5:1:1:7
+aut 4:4:4:4:3
+quod 6:5:4:6:8
+doloremque 0:2:1:8:1
+vel 2:1:2:0:1
+necessitatibus 9:7:9:5:9
+non 3:0:6:0:7
+dolorum 1:6:5:3:7
+quaerat 1:1:4:0:7
+qui 0:0:5:4:4
+deserunt 8:5:0:2:9
+cupiditate 4:7:6:7:1
+magni 3:2:5:8:0
+neque 5:0:4:3:3
+rerum 9:8:8:4:5
+modi 3:6:0:8:0
+autem 6:5:0:8:7
+38
+magni
+necessitatibus
+rerum
+autem
+magnam
+sed
+neque
+ea
+est
+cupiditate
+occaecati
+molestiae
+doloremque
+velit
+reprehenderit
+non
+eum
+ullam
+sit
+consequatur
+quaerat
+soluta
+deserunt
+accusantium
+quod
+in
+est
+sit
+ad
+qui
+vel
+ad
+dolorum
+laborum
+modi
+aut
+sit
+maxime
+21
+
+OUTPUT:
+91,93,93,93,94,95,95,99,99,98,98,93,95,99,94,96,96,92

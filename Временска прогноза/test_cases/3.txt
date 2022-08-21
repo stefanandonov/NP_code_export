@@ -1,0 +1,39 @@
+INPUT:
+1 2 3
+4 5 6
+4 5 6
+1 2 3 1
+1 2 3 2
+1 2 3
+4 5 6 3
+4 8 9 4
+1 2 3
+
+OUTPUT:
+
+Temperature: 1.0F
+Humidity: 2.0%
+Forecast: Improving
+
+Temperature: 4.0F
+Humidity: 5.0%
+Forecast: Improving
+
+Temperature: 4.0F
+Humidity: 5.0%
+Forecast: Same
+
+Temperature: 1.0F
+Humidity: 2.0%
+Forecast: Cooler
+
+Temperature: 1.0F
+Humidity: 2.0%
+
+
+
+Forecast: Improving
+
+Temperature: 1.0F
+Humidity: 2.0%
+Forecast: Cooler

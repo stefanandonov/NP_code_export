@@ -1,0 +1,121 @@
+INPUT:
+30
+Hartsfield Jackson Atlanta International;United States;ATL;95462867
+Beijing Capital International;China;PEK;81929359
+London Heathrow;United Kingdom;LHR;70037417
+Tokyo International;Japan;HND;66795178
+Chicago O’Hare International;United States;ORD;66633503
+Los Angeles International;United States;LAX;63688121
+Charles de Gaulle International;France;CDG;61611934
+Dallas Fort Worth International;United States;DFW;58591842
+Soekarno-Hatta International;Indonesia;CGK;57772762
+Dubai International;United Arab Emirates;DXB;57684550
+Frankfurt am Main International;Germany;FRA;57520001
+Hong Kong International Kai Tak;Hong Kong;HKG;56057751
+Denver International;United States;DEN;53156278
+Suvarnabhumi;Thailand;BKK;53002328
+Singapore Changi International;Singapore;SIN;51181804
+Amsterdam Schiphol;Netherlands;AMS;51035590
+John F Kennedy International;United States;JFK;49291765
+Guangzhou Baiyun International;China;CAN;48548430
+Madrid Barajas International;Spain;MAD;45176978
+Atatürk International;Turkey;IST;45124831
+Shanghai Pudong International;China;PVG;44880164
+San Francisco International;United States;SFO;44399885
+Charlotte Douglas International;United States;CLT;41228372
+McCarran International;United States;LAS;40799830
+Phoenix Sky Harbor International;United States;PHX;40421611
+George Bush Intercontinental Houston;United States;IAH;39891444
+Kuala Lumpur International;Malaysia;KUL;39887866
+Miami International;United States;MIA;39467444
+Incheon International;South Korea;ICN;39154375
+Munich International;Germany;MUC;38360604
+72
+MIA;CDG;1140;66
+PHX;HND;831;96
+AMS;DFW;1030;159
+FRA;JFK;367;226
+SIN;CAN;925;47
+ATL;LAS;1236;260
+HND;PVG;1273;256
+PEK;LAS;1237;297
+JFK;HKG;377;108
+SFO;DXB;48;47
+ORD;CLT;826;97
+CLT;IST;831;216
+PHX;ATL;22;153
+MUC;BKK;740;151
+PVG;CDG;455;296
+CDG;BKK;805;267
+PHX;CAN;352;170
+HKG;DEN;255;39
+IAH;SIN;574;254
+MAD;DXB;960;56
+IST;AMS;750;205
+IST;JFK;1187;64
+PEK;DEN;1348;219
+MUC;ICN;298;41
+CGK;CDG;917;287
+SIN;MAD;35;55
+SIN;BKK;499;141
+LAX;CAN;833;205
+LAX;CAN;1316;274
+ORD;PVG;744;117
+CGK;DEN;1068;144
+LAS;ORD;851;210
+KUL;SIN;420;231
+HND;AMS;884;272
+MAD;IST;763;153
+ATL;IAH;194;89
+HND;PEK;299;110
+MAD;DFW;1137;226
+FRA;HKG;372;83
+LHR;DXB;268;77
+LAX;ORD;994;300
+MAD;BKK;698;152
+AMS;SFO;38;78
+SFO;MAD;444;184
+LAX;PVG;1355;211
+PHX;CLT;338;239
+BKK;CLT;1135;235
+DFW;HKG;688;34
+HND;DFW;1048;292
+PHX;DXB;55;277
+KUL;PVG;760;51
+DEN;ATL;212;94
+ORD;FRA;449;94
+PEK;IAH;1208;233
+FRA;HKG;862;278
+ICN;SFO;1394;102
+CAN;SIN;1194;109
+IST;JFK;1392;237
+JFK;HND;1373;145
+HKG;DXB;847;39
+ICN;HKG;390;286
+CAN;CDG;842;182
+SFO;PEK;59;88
+CDG;DXB;417;104
+MUC;JFK;1296;210
+MAD;KUL;565;184
+KUL;PEK;944;127
+ORD;SIN;1194;186
+MUC;JFK;299;169
+IST;JFK;1061;87
+KUL;DXB;1204;282
+DFW;KUL;542;270
+3 25
+
+OUTPUT:
+===== FLIGHTS FROM HND =====
+Tokyo International (HND)
+Japan
+66795178
+1. HND-AMS 14:44-19:16 4h32m
+2. HND-DFW 17:28-22:20 4h52m
+3. HND-PEK 04:59-06:49 1h50m
+4. HND-PVG 21:13-01:29 +1d 4h16m
+===== DIRECT FLIGHTS FROM HND TO IAH =====
+No flights from HND to IAH
+===== DIRECT FLIGHTS TO ATL =====
+PHX-ATL 00:22-02:55 2h33m
+DEN-ATL 03:32-05:06 1h34m

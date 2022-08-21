@@ -1,0 +1,41 @@
+INPUT:
+20
+2013
+Taksirat 15;Skopje;01.12.2013 22:00
+Rush Premiera;Cineplex;12.12.2013 11:00
+Vinoskop;Vero Centar;12.12.2013 21:00
+Skopje Gori;Kale;12.12.2013 22:30
+Brucoshka Zabava;FINKI;12.12.2013 11:00
+Bela Nokj;Skopje;12.06.2012 18:30
+Stand Up;Expo Center;15.04.2013 19:30
+Cinedays;Kino Milenium;13.11.2013 14:00
+Koncert Arhangel;Boris Trajkovski;19.06.2013 19:45
+Skopje Jazz Festival;Univerzalna Sala;15.04.2013 22:30
+Taksirat 15;Skopje;01.10.2013 22:00
+Rush Premiera;Cineplex;11.08.2013 11:00
+Vinoskop;Vero Centar;14.09.2013 21:00
+Skopje Gori;Kale;16.09.2013 22:30
+Brucoshka Zabava;FINKI;02.03.2013 11:00
+Bela Nokj;Skopje;19.07.2012 18:30
+Stand Up;Expo Center;18.02.2013 19:30
+Cinedays;Kino Milenium;13.03.2013 14:00
+Koncert Arhangel;Boris Trajkovski;24.06.2013 19:45
+Skopje Jazz Festival;Univerzalna Sala;18.01.2013 22:30
+17.07.2013 00:00
+
+OUTPUT:
+Wrong date: Tue Jun 12 18:30:00 UTC 2012
+Wrong date: Thu Jul 19 18:30:00 UTC 2012
+No events on this day!
+1 : 1
+2 : 1
+3 : 2
+4 : 2
+5 : 0
+6 : 2
+7 : 0
+8 : 1
+9 : 2
+10 : 1
+11 : 1
+12 : 5

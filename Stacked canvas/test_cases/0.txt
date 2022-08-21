@@ -1,0 +1,75 @@
+INPUT:
+1 c1 RED 7
+1 c2 GREEN 12
+1 c3 RED 3
+2 r1 BLUE 4 7
+2 r2 GREEN 10 8
+1 c4 RED 5
+2 r3 RED 6 7
+1 c5 GREEN 14
+2 r4 BLUE 6 3
+3 c4 1.4
+3 r2 0.4
+3 c2 2.1
+
+OUTPUT:
+ORIGNAL:
+C: c5   GREEN         615.75
+C: c2   GREEN         452.39
+C: c1   RED           153.94
+R: r2   GREEN          80.00
+C: c4   RED            78.54
+R: r3   RED            42.00
+C: c3   RED            28.27
+R: r1   BLUE           28.00
+R: r4   BLUE           18.00
+AFTER SCALING: c4 1.40
+C: c5   GREEN         615.75
+C: c2   GREEN         452.39
+C: c1   RED           153.94
+C: c4   RED           153.94
+R: r2   GREEN          80.00
+R: r3   RED            42.00
+C: c3   RED            28.27
+R: r1   BLUE           28.00
+R: r4   BLUE           18.00
+ORIGNAL:
+C: c5   GREEN         615.75
+C: c2   GREEN         452.39
+C: c1   RED           153.94
+C: c4   RED           153.94
+R: r2   GREEN          80.00
+R: r3   RED            42.00
+C: c3   RED            28.27
+R: r1   BLUE           28.00
+R: r4   BLUE           18.00
+AFTER SCALING: r2 0.40
+C: c5   GREEN         615.75
+C: c2   GREEN         452.39
+C: c1   RED           153.94
+C: c4   RED           153.94
+R: r3   RED            42.00
+C: c3   RED            28.27
+R: r1   BLUE           28.00
+R: r4   BLUE           18.00
+R: r2   GREEN          12.80
+ORIGNAL:
+C: c5   GREEN         615.75
+C: c2   GREEN         452.39
+C: c1   RED           153.94
+C: c4   RED           153.94
+R: r3   RED            42.00
+C: c3   RED            28.27
+R: r1   BLUE           28.00
+R: r4   BLUE           18.00
+R: r2   GREEN          12.80
+AFTER SCALING: c2 2.10
+C: c2   GREEN        1995.04
+C: c5   GREEN         615.75
+C: c1   RED           153.94
+C: c4   RED           153.94
+R: r3   RED            42.00
+C: c3   RED            28.27
+R: r1   BLUE           28.00
+R: r4   BLUE           18.00
+R: r2   GREEN          12.80

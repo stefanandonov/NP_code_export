@@ -1,0 +1,131 @@
+INPUT:
+NP
+2
+1
+pred
+2
+1
+prv
+6
+0
+1 123
+0
+2 1838
+0
+3 12333
+0
+4 89899
+0
+5 1234
+0
+6 1777
+1
+vtor
+5
+0
+1 19831
+0
+2 12314
+0
+3 1233
+0
+4 99009
+0
+5 12312
+1
+vezbhi
+2
+1
+prv
+4
+0
+aud1 1245
+0
+aud2 9890
+0
+aud3 123
+0
+aud4 2345
+1
+vtor
+4
+0
+aud5 12455
+0
+aud6 1230000
+0
+aud7 899
+1
+ispitni
+2
+0
+prva 1234
+0
+vtora 12345
+
+OUTPUT:
+===READING FILES FROM INPUT===
+===PRINTING FILE SYSTEM INFO===
+Folder name:       root Folder size:    1522439
+	Folder name:         NP Folder size:    1522439
+		Folder name:       pred Folder size:     251903
+			Folder name:        prv Folder size:     107204
+				File name:          1 File size:        123
+				File name:          2 File size:       1838
+				File name:          3 File size:      12333
+				File name:          4 File size:      89899
+				File name:          5 File size:       1234
+				File name:          6 File size:       1777
+			Folder name:       vtor Folder size:     144699
+				File name:          1 File size:      19831
+				File name:          2 File size:      12314
+				File name:          3 File size:       1233
+				File name:          4 File size:      99009
+				File name:          5 File size:      12312
+		Folder name:     vezbhi Folder size:    1270536
+			Folder name:        prv Folder size:      13603
+				File name:       aud1 File size:       1245
+				File name:       aud2 File size:       9890
+				File name:       aud3 File size:        123
+				File name:       aud4 File size:       2345
+			Folder name:       vtor Folder size:    1256933
+				File name:       aud5 File size:      12455
+				File name:       aud6 File size:    1230000
+				File name:       aud7 File size:        899
+				Folder name:    ispitni Folder size:      13579
+					File name:       prva File size:       1234
+					File name:      vtora File size:      12345
+
+===PRINTING FILE SYSTEM INFO AFTER SORTING===
+Folder name:       root Folder size:    1522439
+	Folder name:         NP Folder size:    1522439
+		Folder name:       pred Folder size:     251903
+			Folder name:        prv Folder size:     107204
+				File name:          1 File size:        123
+				File name:          5 File size:       1234
+				File name:          6 File size:       1777
+				File name:          2 File size:       1838
+				File name:          3 File size:      12333
+				File name:          4 File size:      89899
+			Folder name:       vtor Folder size:     144699
+				File name:          3 File size:       1233
+				File name:          5 File size:      12312
+				File name:          2 File size:      12314
+				File name:          1 File size:      19831
+				File name:          4 File size:      99009
+		Folder name:     vezbhi Folder size:    1270536
+			Folder name:        prv Folder size:      13603
+				File name:       aud3 File size:        123
+				File name:       aud1 File size:       1245
+				File name:       aud4 File size:       2345
+				File name:       aud2 File size:       9890
+			Folder name:       vtor Folder size:    1256933
+				File name:       aud7 File size:        899
+				File name:       aud5 File size:      12455
+				Folder name:    ispitni Folder size:      13579
+					File name:       prva File size:       1234
+					File name:      vtora File size:      12345
+				File name:       aud6 File size:    1230000
+
+===PRINTING THE SIZE OF THE LARGEST FILE IN THE FILE SYSTEM===
+1230000

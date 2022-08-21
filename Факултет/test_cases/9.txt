@@ -1,0 +1,7 @@
+INPUT:
+2
+
+OUTPUT:
+TESTING addGrade and exception
+Term 7 is not possible for student with ID 123
+Term 9 is not possible for student with ID 1234

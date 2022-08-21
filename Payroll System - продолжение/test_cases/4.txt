@@ -1,0 +1,46 @@
+INPUT:
+30
+F;fd8695;level10;5;3;5;8;3;1;3;7;4 7.50%
+H;f6d65b;level9;54.65
+H;bfaa6d;level2;42.27
+F;dfe446;level2;8;1;3;3;4;6;2;3;7;3;4 202
+H;ac5b5f;level1;65.07 3.50%
+H;ecac95;level4;76.55
+H;f31e1b;level9;53.03 487
+H;77153e;level8;62.61
+H;1777f4;level10;31.92
+H;af2ce5;level6;23.24
+F;f63d46;level5;2;4;6;8;8;5;7;3;4;6;1;3
+F;365fc4;level10;1;1;8;1;7;6;5;6;6 197
+F;725246;level3;1;4;5;5;5;5;3;2;3;1;5
+H;9da232;level8;43.89
+F;eb003a;level9;5;5;1;7;7 632
+F;dce037;level10;7;8;3;4;5;7;6 7.50%
+F;7dccfc;level10;2;5;4;8;1;4;3;2;1;4;2
+F;6171bf;level5;6;1;7;3;2;4;4
+H;403761;level4;75.20
+H;ae27dc;level6;34.05
+H;732bd9;level8;39.47 9.00%
+H;a663ee;level2;31.64
+H;2a37f6;level10;75.06 12.50%
+H;422303;level9;55.39
+H;e85572;level7;43.93 450
+H;78b26c;level4;37.79 509
+F;f8b564;level9;2;8;7;8;1
+H;a389e8;level4;32.04 2.50%
+H;60d828;level7;41.64
+F;7c2d97;level9;2;8;4;1;8;8;8;7 845
+5
+10
+
+OUTPUT:
+Employee ID: 7c2d97 Level: level9 Salary: 2133.00 Tickets count: 8 Tickets points: 46 Bonus: 845.00
+Employee ID: eb003a Level: level9 Salary: 1332.00 Tickets count: 5 Tickets points: 25 Bonus: 632.00
+Employee ID: 78b26c Level: level4 Salary: 1257.24 Regular hours: 37.79 Overtime hours: 0.00 Bonus: 509.00
+Employee ID: f31e1b Level: level9 Salary: 2320.99 Regular hours: 40.00 Overtime hours: 13.03 Bonus: 487.00
+Employee ID: e85572 Level: level7 Salary: 1661.63 Regular hours: 40.00 Overtime hours: 3.93 Bonus: 450.00
+Employee ID: 2a37f6 Level: level10 Salary: 3437.40 Regular hours: 40.00 Overtime hours: 35.06 Bonus: 381.93
+Employee ID: dfe446 Level: level2 Salary: 664.00 Tickets count: 11 Tickets points: 44 Bonus: 202.00
+Employee ID: 365fc4 Level: level10 Salary: 1447.50 Tickets count: 9 Tickets points: 41 Bonus: 197.00
+Employee ID: 732bd9 Level: level8 Salary: 1230.44 Regular hours: 39.47 Overtime hours: 0.00 Bonus: 101.60
+Employee ID: dce037 Level: level10 Salary: 1311.50 Tickets count: 7 Tickets points: 40 Bonus: 91.50

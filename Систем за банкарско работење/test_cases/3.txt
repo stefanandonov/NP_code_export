@@ -1,0 +1,129 @@
+INPUT:
+typical_usage
+Banka na RM
+2
+Andrej
+100.00$
+Gajduk
+100.00$
+print
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+print
+stop
+
+OUTPUT:
+Name: Banka na RM
+
+Name: Andrej
+Balance: 100.00$
+Name: Gajduk
+Balance: 100.00$
+
+Total provisions: 0.00$
+Total transfers: 0.00$
+
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? true
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? false
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? false
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? false
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? false
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? false
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? false
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? false
+Name: Banka na RM
+
+Name: Andrej
+Balance: 0.00$
+Name: Gajduk
+Balance: 150.00$
+
+Total provisions: 50.00$
+Total transfers: 50.00$
+

@@ -1,0 +1,6 @@
+INPUT:
+testReading
+3 0 1 2
+
+OUTPUT:
+[0, 1, 2]

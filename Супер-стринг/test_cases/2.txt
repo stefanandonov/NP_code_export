@@ -1,0 +1,15 @@
+INPUT:
+0
+0 'ag'
+1 'f'
+0 'd'
+0 'ag'
+1 'ag'
+4
+5 1
+4
+6
+
+OUTPUT:
+'ag''f''ag''d''ag'
+'f''ag''d''ag'

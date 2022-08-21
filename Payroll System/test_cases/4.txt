@@ -1,0 +1,10 @@
+INPUT:
+H;1ff293;level7;41.93
+
+OUTPUT:
+READING OF THE EMPLOYEES DATA
+PRINTING EMPLOYEES BY LEVEL
+LEVEL: level7
+Employees: 
+Employee ID: 1ff293 Level: level7 Salary: 1089.53 Regular hours: 40.00 Overtime hours: 1.93
+------------

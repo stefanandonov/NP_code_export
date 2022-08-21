@@ -1,0 +1,13 @@
+INPUT:
+4
+READ
+4 2 1
+-1.10 -1.33 5.49 6.95
+COUNT_ROWS
+COUNT_COLUMNS
+SORTED_ARRAY
+
+OUTPUT:
+Rows: 2
+Columns: 1
+Sorted array: [6.95, 5.49]

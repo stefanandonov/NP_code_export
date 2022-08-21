@@ -1,0 +1,75 @@
+INPUT:
+35
+CREATE_FACULTY Mashinski fakultet
+6
+Mile Mihov Strumica 27 55510425
+Ema Stankova Bitola 28 751597
+Darko Jovanov Strumica 28 69275428
+Emil Stankov Skopje 25 90022720
+Ina Jovanova Ohrid 24 76217637
+Mile Nikolov Bitola 26 40740157
+ADD_EMAIL_CONTACT 69275428 2010-07-03 owjitkdldenwcjp@yahoo.com
+ADD_EMAIL_CONTACT 55510425 2003-06-18 keegbiyauv@gmail.com
+ADD_EMAIL_CONTACT 90022720 2003-09-18 rwyrsnhzl@gmail.com
+ADD_PHONE_CONTACT 751597 2010-10-09 075/344-566
+ADD_EMAIL_CONTACT 76217637 2003-11-03 vibdqyunvikvzvc@hotmail.com
+ADD_PHONE_CONTACT 40740157 2002-04-16 076/178-915
+ADD_EMAIL_CONTACT 751597 2012-12-25 ffrcoxhtbohvem@hotmail.com
+ADD_EMAIL_CONTACT 55510425 2003-04-19 rzskbqowyz@yahoo.com
+ADD_PHONE_CONTACT 40740157 2006-04-25 070/652-108
+ADD_PHONE_CONTACT 76217637 2007-06-10 075/928-956
+ADD_PHONE_CONTACT 90022720 2008-04-25 077/760-437
+ADD_EMAIL_CONTACT 751597 2002-11-07 fklwyiasd@finki.ukim.mk
+ADD_PHONE_CONTACT 90022720 2003-10-05 075/463-312
+ADD_PHONE_CONTACT 751597 2013-12-06 076/347-196
+ADD_PHONE_CONTACT 55510425 2001-07-28 077/022-390
+ADD_EMAIL_CONTACT 55510425 2009-05-02 intcxudpngd@gmail.com
+ADD_EMAIL_CONTACT 90022720 2010-07-04 bnfavoejmn@gmail.com
+CHECK_DATES
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 76217637 2006-02-25 070/134-371
+CHECK_SIMPLE
+ADD_EMAIL_CONTACT 90022720 2000-08-06 snmxjf@cs.org.mk
+ADD_PHONE_CONTACT 76217637 2013-02-30 071/288-093
+CHECK_DATES
+CHECK_DATES
+CHECK_DATES
+CHECK_SIMPLE
+ADD_EMAIL_CONTACT 751597 2012-10-14 bhenbmpozta@finki.ukim.mk
+ADD_EMAIL_CONTACT 55510425 2008-01-06 ejntbkzovopk@yahoo.com
+CHECK_DATES
+CHECK_DATES
+ADD_PHONE_CONTACT 76217637 2008-12-07 076/120-714
+CHECK_DATES
+PRINT_FACULTY_METHODS
+
+OUTPUT:
+Latest contact: intcxudpngd@gmail.com
+Number of email and phone contacts: 3 1
+Comparing dates: true
+Average number of contacts: 2.83
+Number of students from Strumica: 2
+Average number of contacts: 3.00
+Number of students from Strumica: 2
+Latest contact: bnfavoejmn@gmail.com
+Number of email and phone contacts: 3 2
+Comparing dates: true
+Latest contact: bnfavoejmn@gmail.com
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Latest contact: bnfavoejmn@gmail.com
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Average number of contacts: 3.33
+Number of students from Skopje: 1
+Latest contact: 076/347-196 (ONE)
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Latest contact: 076/347-196 (ONE)
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Latest contact: 076/347-196 (ONE)
+Number of email and phone contacts: 3 2
+Comparing dates: false
+Faculty: {"fakultet":"Mashinski fakultet", "studenti":[{"ime":"Mile", "prezime":"Mihov", "vozrast":27, "grad":"Strumica", "indeks":55510425, "telefonskiKontakti":["077/022-390"], "emailKontakti":["keegbiyauv@gmail.com", "rzskbqowyz@yahoo.com", "intcxudpngd@gmail.com", "ejntbkzovopk@yahoo.com"]}, {"ime":"Ema", "prezime":"Stankova", "vozrast":28, "grad":"Bitola", "indeks":751597, "telefonskiKontakti":["075/344-566", "076/347-196"], "emailKontakti":["ffrcoxhtbohvem@hotmail.com", "fklwyiasd@finki.ukim.mk", "bhenbmpozta@finki.ukim.mk"]}, {"ime":"Darko", "prezime":"Jovanov", "vozrast":28, "grad":"Strumica", "indeks":69275428, "telefonskiKontakti":[], "emailKontakti":["owjitkdldenwcjp@yahoo.com"]}, {"ime":"Emil", "prezime":"Stankov", "vozrast":25, "grad":"Skopje", "indeks":90022720, "telefonskiKontakti":["077/760-437", "075/463-312"], "emailKontakti":["rwyrsnhzl@gmail.com", "bnfavoejmn@gmail.com", "snmxjf@cs.org.mk"]}, {"ime":"Ina", "prezime":"Jovanova", "vozrast":24, "grad":"Ohrid", "indeks":76217637, "telefonskiKontakti":["075/928-956", "070/134-371", "071/288-093", "076/120-714"], "emailKontakti":["vibdqyunvikvzvc@hotmail.com"]}, {"ime":"Mile", "prezime":"Nikolov", "vozrast":26, "grad":"Bitola", "indeks":40740157, "telefonskiKontakti":["076/178-915", "070/652-108"], "emailKontakti":[]}]}
+Student with most contacts: {"ime":"Emil", "prezime":"Stankov", "vozrast":25, "grad":"Skopje", "indeks":90022720, "telefonskiKontakti":["077/760-437", "075/463-312"], "emailKontakti":["rwyrsnhzl@gmail.com", "bnfavoejmn@gmail.com", "snmxjf@cs.org.mk"]}

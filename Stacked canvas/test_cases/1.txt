@@ -1,0 +1,68 @@
+INPUT:
+1 11 GREEN 7
+2 21 RED 5 3
+2 22 GREEN 6 7
+2 23 BLUE 5 2
+1 12 RED 9
+1 13 RED 10
+2 24 BLUE 6 6
+2 25 BLUE 2 3
+3 21 5.1
+3 24 0.3
+3 11 4
+
+OUTPUT:
+ORIGNAL:
+C: 13   RED           314.16
+C: 12   RED           254.47
+C: 11   GREEN         153.94
+R: 22   GREEN          42.00
+R: 24   BLUE           36.00
+R: 21   RED            15.00
+R: 23   BLUE           10.00
+R: 25   BLUE            6.00
+AFTER SCALING: 21 5.10
+R: 21   RED           390.15
+C: 13   RED           314.16
+C: 12   RED           254.47
+C: 11   GREEN         153.94
+R: 22   GREEN          42.00
+R: 24   BLUE           36.00
+R: 23   BLUE           10.00
+R: 25   BLUE            6.00
+ORIGNAL:
+R: 21   RED           390.15
+C: 13   RED           314.16
+C: 12   RED           254.47
+C: 11   GREEN         153.94
+R: 22   GREEN          42.00
+R: 24   BLUE           36.00
+R: 23   BLUE           10.00
+R: 25   BLUE            6.00
+AFTER SCALING: 24 0.30
+R: 21   RED           390.15
+C: 13   RED           314.16
+C: 12   RED           254.47
+C: 11   GREEN         153.94
+R: 22   GREEN          42.00
+R: 23   BLUE           10.00
+R: 25   BLUE            6.00
+R: 24   BLUE            3.24
+ORIGNAL:
+R: 21   RED           390.15
+C: 13   RED           314.16
+C: 12   RED           254.47
+C: 11   GREEN         153.94
+R: 22   GREEN          42.00
+R: 23   BLUE           10.00
+R: 25   BLUE            6.00
+R: 24   BLUE            3.24
+AFTER SCALING: 11 4.00
+C: 11   GREEN        2463.01
+R: 21   RED           390.15
+C: 13   RED           314.16
+C: 12   RED           254.47
+R: 22   GREEN          42.00
+R: 23   BLUE           10.00
+R: 25   BLUE            6.00
+R: 24   BLUE            3.24

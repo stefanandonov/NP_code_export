@@ -1,0 +1,11 @@
+INPUT:
+1 1891423 47503856 78931259 sample test
+
+OUTPUT:
+1891423
+47503856
+78931259
+Queue inspect? - sample
+Queue peek? - sample
+Queue inspect? - test
+Queue peek? - sample

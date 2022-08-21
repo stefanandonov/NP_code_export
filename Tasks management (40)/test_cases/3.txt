@@ -1,0 +1,61 @@
+INPUT:
+School,NP,lab 1 po NP,2020-06-23T23:59:59.000,1
+School,NP,lab 2 po NP,2020-06-27T23:59:59.000
+School,NP,lab 3 po NP,2020-07-04T23:59:59.000,2
+School,NP,lab 4 po NP,2020-07-11T23:59:59.000
+School,NP,prepare for June exam :)
+School,NP,solve all exercises,3
+work,Netcetera,new feature for the web app,2020-06-28T16:00:00.000,1
+work,Netcetera,research for ML algorithms,2020-06-28T16:00:00.000
+work,Netcetera,unit testing,2020-07-15T16:00:00.000,2
+
+OUTPUT:
+Tasks reading
+By categories with priority
+SCHOOL
+Task{name='NP', description='lab 1 po NP', deadline=2020-06-23T23:59:59, priority=1}
+Task{name='NP', description='lab 3 po NP', deadline=2020-07-04T23:59:59, priority=2}
+Task{name='NP', description='solve all exercises', priority=3}
+Task{name='NP', description='lab 2 po NP', deadline=2020-06-27T23:59:59}
+Task{name='NP', description='lab 4 po NP', deadline=2020-07-11T23:59:59}
+Task{name='NP', description='prepare for June exam :)'}
+WORK
+Task{name='Netcetera', description='new feature for the web app', deadline=2020-06-28T16:00, priority=1}
+Task{name='Netcetera', description='unit testing', deadline=2020-07-15T16:00, priority=2}
+Task{name='Netcetera', description='research for ML algorithms', deadline=2020-06-28T16:00}
+-------------------------
+By categories without priority
+SCHOOL
+Task{name='NP', description='lab 1 po NP', deadline=2020-06-23T23:59:59, priority=1}
+Task{name='NP', description='lab 2 po NP', deadline=2020-06-27T23:59:59}
+Task{name='NP', description='lab 3 po NP', deadline=2020-07-04T23:59:59, priority=2}
+Task{name='NP', description='lab 4 po NP', deadline=2020-07-11T23:59:59}
+Task{name='NP', description='prepare for June exam :)'}
+Task{name='NP', description='solve all exercises', priority=3}
+WORK
+Task{name='Netcetera', description='new feature for the web app', deadline=2020-06-28T16:00, priority=1}
+Task{name='Netcetera', description='research for ML algorithms', deadline=2020-06-28T16:00}
+Task{name='Netcetera', description='unit testing', deadline=2020-07-15T16:00, priority=2}
+-------------------------
+All tasks without priority
+Task{name='NP', description='lab 1 po NP', deadline=2020-06-23T23:59:59, priority=1}
+Task{name='NP', description='lab 2 po NP', deadline=2020-06-27T23:59:59}
+Task{name='Netcetera', description='new feature for the web app', deadline=2020-06-28T16:00, priority=1}
+Task{name='Netcetera', description='research for ML algorithms', deadline=2020-06-28T16:00}
+Task{name='NP', description='lab 3 po NP', deadline=2020-07-04T23:59:59, priority=2}
+Task{name='NP', description='lab 4 po NP', deadline=2020-07-11T23:59:59}
+Task{name='Netcetera', description='unit testing', deadline=2020-07-15T16:00, priority=2}
+Task{name='NP', description='prepare for June exam :)'}
+Task{name='NP', description='solve all exercises', priority=3}
+-------------------------
+All tasks with priority
+Task{name='NP', description='lab 1 po NP', deadline=2020-06-23T23:59:59, priority=1}
+Task{name='Netcetera', description='new feature for the web app', deadline=2020-06-28T16:00, priority=1}
+Task{name='NP', description='lab 3 po NP', deadline=2020-07-04T23:59:59, priority=2}
+Task{name='Netcetera', description='unit testing', deadline=2020-07-15T16:00, priority=2}
+Task{name='NP', description='solve all exercises', priority=3}
+Task{name='NP', description='lab 2 po NP', deadline=2020-06-27T23:59:59}
+Task{name='Netcetera', description='research for ML algorithms', deadline=2020-06-28T16:00}
+Task{name='NP', description='lab 4 po NP', deadline=2020-07-11T23:59:59}
+Task{name='NP', description='prepare for June exam :)'}
+-------------------------

@@ -1,0 +1,18 @@
+INPUT:
+H;e6df09;level2;45.01
+H;2fe4f0;level10;64.31
+F;3e03dd;level3;8;7;4;7;6;7;1;1;4;1;6
+H;238dcf;level9;35.09
+F;af2ee3;level4;6;2;7;7;7;7
+
+OUTPUT:
+READING OF THE EMPLOYEES DATA
+PRINTING EMPLOYEES BY LEVEL
+LEVEL: level10
+Employees: 
+Employee ID: 2fe4f0 Level: level10 Salary: 2446.88 Regular hours: 40.00 Overtime hours: 24.31
+------------
+LEVEL: level9
+Employees: 
+Employee ID: 238dcf Level: level9 Salary: 1045.68 Regular hours: 35.09 Overtime hours: 0.00
+------------

@@ -1,0 +1,102 @@
+INPUT:
+41
+exercitationem 9:9:4:0:4
+natus 6:0:0:2:6
+ullam 7:9:3:2:9
+sed 7:2:8:1:0
+et 7:5:9:5:6
+totam 1:9:3:5:2
+eum 0:2:0:7:8
+reprehenderit 4:7:8:0:9
+est 9:5:1:9:3
+dicta 2:5:6:0:2
+quis 6:1:1:3:5
+voluptates 0:9:0:4:7
+excepturi 4:2:5:4:2
+repellat 6:8:2:5:5
+quasi 5:2:8:0:7
+laboriosam 7:4:4:6:7
+voluptatem 4:6:4:1:3
+explicabo 7:6:1:3:9
+tenetur 0:2:9:9:2
+magni 4:0:4:6:7
+aut 6:9:8:3:1
+dolorum 8:4:8:6:5
+voluptas 9:8:0:3:5
+debitis 5:4:9:9:9
+sint 0:0:6:9:5
+velit 5:4:9:4:7
+hic 8:7:0:1:7
+qui 4:3:2:1:8
+reiciendis 3:8:2:8:3
+earum 0:5:7:7:4
+a 4:9:5:4:5
+fugiat 5:3:7:9:2
+accusamus 0:1:6:6:1
+ut 3:3:5:9:8
+cumque 4:1:7:1:6
+eos 6:1:1:7:3
+rerum 5:3:7:0:8
+dolor 6:0:3:8:3
+voluptate 7:4:2:2:3
+maxime 4:7:5:8:6
+odio 4:4:3:5:1
+54
+aut
+voluptatem
+placeat
+voluptas
+debitis
+dimta
+hic
+dolor
+in
+maxime
+voluptate
+excepturi
+tenetur
+aut
+qui
+maxime
+est
+eos
+a
+motam
+quasi
+sint
+dolorum
+qui
+reiciendis
+rerum
+accusamus
+cumque
+ullam
+red
+rerum
+odio
+explicabo
+voluptates
+earum
+delit
+eum
+laboriosam
+minima
+reprehenderit
+fuwiat
+quo
+et
+et
+exercitationem
+temporibus
+quae
+ut
+quis
+repellat
+tenetur
+magni
+ornis
+natus
+19
+
+OUTPUT:
+101,100,101,100,103,95,98,97,95,94,92,95,98,97,105,104,102,104,109,111,111,113,113,113,111,114,110,114,113,112,112,109,110,108,106,108

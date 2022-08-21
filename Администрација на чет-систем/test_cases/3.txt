@@ -1,0 +1,20 @@
+INPUT:
+1
+ addRoom room1
+ addRoom room2
+ registerAndJoin user1 room1
+ registerAndJoin user2 room1
+ print room1
+ print room2
+stop
+
+OUTPUT:
+room1
+user1
+user2
+
+
+room2
+EMPTY
+
+

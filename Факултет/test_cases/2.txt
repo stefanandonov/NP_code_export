@@ -1,0 +1,7 @@
+INPUT:
+3
+
+OUTPUT:
+TESTING addGrade and exception
+Student 123 already has 3 grades in term 1
+Student 1234 already has 3 grades in term 1

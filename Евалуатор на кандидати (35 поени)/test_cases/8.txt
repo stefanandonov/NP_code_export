@@ -1,0 +1,16 @@
+INPUT:
+Петре
+400
+5
+true
+5
+
+OUTPUT:
+Applicant
+Name: Петре
+Credit score: 400
+Experience: 5
+Criminal record: Yes
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_CREDIT_SCORE
+Applicant is REJECTED

@@ -1,0 +1,14 @@
+INPUT:
+1 Pizza Standard 2 Pizza Vegetarian 1 Extra Coke 3 Extra Coke stop Pizza Standard 1 Extra Coke 2  Extra Coke stop
+
+OUTPUT:
+43
+  1.Standard       x 2   20$
+  2.Vegetarian     x 1    8$
+  3.Coke           x 3   15$
+Total:                   43$
+28
+  1.Standard       x 1   10$
+  2.Vegetarian     x 1    8$
+  3.Coke           x 2   10$
+Total:                   28$

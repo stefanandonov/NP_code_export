@@ -1,0 +1,33 @@
+INPUT:
+10
+2013
+Taksirat 15;Skopje;01.12.2013 22:00
+Rush Premiera;Cineplex;12.12.2013 11:00
+Vinoskop;Vero Centar;12.12.2013 21:00
+Skopje Gori;Kale;12.12.2013 22:30
+Brucoshka Zabava;FINKI;12.12.2013 11:00
+Bela Nokj;Skopje;12.06.2012 18:30
+Stand Up;Expo Center;15.04.2013 19:30
+Cinedays;Kino Milenium;13.11.2013 14:00
+Koncert Arhangel;Boris Trajkovski;19.06.2013 19:45
+Skopje Jazz Festival;Univerzalna Sala;18.07.2013 22:30
+12.12.2013 00:00
+
+OUTPUT:
+Wrong date: Tue Jun 12 18:30:00 UTC 2012
+12 Dec, 2013 11:00 at FINKI, Brucoshka Zabava
+12 Dec, 2013 11:00 at Cineplex, Rush Premiera
+12 Dec, 2013 21:00 at Vero Centar, Vinoskop
+12 Dec, 2013 22:30 at Kale, Skopje Gori
+1 : 0
+2 : 0
+3 : 0
+4 : 1
+5 : 0
+6 : 1
+7 : 1
+8 : 0
+9 : 0
+10 : 0
+11 : 1
+12 : 5

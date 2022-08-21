@@ -1,0 +1,7 @@
+INPUT:
+3 before_inside last before_outside after_inside1 after_inside2 next after_outside
+
+OUTPUT:
+next
+last
+after_inside1 , after_inside2 , before_inside , last , next , 

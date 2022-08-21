@@ -1,0 +1,87 @@
+INPUT:
+8
+Old Trafford
+A;100
+B;100
+C;100
+D;100
+E;100
+F;100
+G;100
+H;100
+50
+E;72;1
+H;25;1
+B;67;1
+B;56;2
+G;62;2
+E;69;2
+G;40;1
+A;16;0
+C;78;1
+A;67;1
+A;13;0
+A;88;1
+G;42;0
+B;70;0
+C;8;2
+G;85;0
+D;54;1
+C;3;2
+D;94;2
+A;98;1
+G;37;0
+A;86;1
+G;44;2
+A;71;1
+H;66;2
+B;98;0
+D;90;2
+E;61;2
+G;34;0
+D;96;2
+B;4;0
+H;58;0
+F;3;2
+G;73;2
+H;42;0
+G;6;2
+B;74;0
+A;14;2
+A;93;0
+D;51;0
+C;10;2
+B;88;0
+C;71;1
+H;13;1
+H;1;2
+G;37;1
+B;43;0
+A;44;2
+D;29;0
+B;22;1
+
+OUTPUT:
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatNotAllowedException
+SeatTakenException
+SeatNotAllowedException
+E	99/100	1.0%
+F	99/100	1.0%
+C	98/100	2.0%
+D	97/100	3.0%
+H	96/100	4.0%
+A	92/100	8.0%
+B	92/100	8.0%
+G	92/100	8.0%

@@ -1,0 +1,123 @@
+INPUT:
+Bournemouth;Man Utd;1;5
+Burnley;Swansea;4;3
+Chelsea;West Ham;2;5
+Crystal Palace;West Brom;1;2
+Everton;Tottenham;0;0
+Hull;Leicester;5;0
+Man City;Sunderland;5;1
+Middlesbrough;Stoke;2;2
+Southampton;Watford;3;1
+Leicester;Arsenal;4;1
+Liverpool;Burnley;2;1
+Man Utd;Southampton;0;1
+Stoke;Man City;1;3
+Sunderland;Middlesbrough;0;4
+Swansea;Hull;5;0
+Tottenham;Crystal Palace;2;3
+Watford;Chelsea;2;1
+West Brom;Everton;4;4
+West Ham;Bournemouth;3;2
+Chelsea;Burnley;4;4
+Crystal Palace;Bournemouth;5;1
+Everton;Stoke;4;5
+Hull;Man Utd;5;5
+Leicester;Swansea;4;5
+Man City;West Ham;2;5
+Southampton;Sunderland;5;5
+Tottenham;Liverpool;5;4
+Watford;Arsenal;3;4
+West Brom;Middlesbrough;4;3
+Arsenal;Southampton;0;1
+Bournemouth;West Brom;5;4
+Burnley;Hull;0;4
+Liverpool;Leicester;0;3
+Man Utd;Man City;3;1
+Middlesbrough;Crystal Palace;0;3
+Stoke;Tottenham;3;3
+Sunderland;Everton;2;3
+Swansea;Chelsea;5;3
+West Ham;Watford;0;1
+Chelsea;Liverpool;4;5
+Crystal Palace;Stoke;3;4
+Everton;Middlesbrough;5;5
+Hull;Arsenal;2;1
+Leicester;Burnley;0;4
+Man City;Bournemouth;2;4
+Southampton;Swansea;3;1
+Tottenham;Sunderland;3;0
+Watford;Man Utd;2;0
+West Brom;West Ham;4;2
+Arsenal;Chelsea;1;4
+Bournemouth;Everton;0;0
+Burnley;Watford;0;0
+Liverpool;Hull;4;3
+Man Utd;Leicester;1;0
+Middlesbrough;Tottenham;4;2
+Stoke;West Brom;0;5
+Sunderland;Crystal Palace;2;3
+Swansea;Man City;4;1
+West Ham;Southampton;5;0
+Burnley;Arsenal;3;3
+Everton;Crystal Palace;3;3
+Hull;Chelsea;0;4
+Leicester;Southampton;4;1
+Man Utd;Stoke;0;5
+Sunderland;West Brom;0;5
+Swansea;Liverpool;4;4
+Tottenham;Man City;0;1
+Watford;Bournemouth;1;2
+West Ham;Middlesbrough;5;3
+Arsenal;Swansea;1;1
+Bournemouth;Hull;0;1
+Chelsea;Leicester;4;5
+Crystal Palace;West Ham;5;5
+Liverpool;Man Utd;1;5
+Man City;Everton;1;4
+Middlesbrough;Watford;4;0
+Southampton;Burnley;4;5
+Stoke;Sunderland;3;0
+West Brom;Tottenham;4;2
+Arsenal;Middlesbrough;2;1
+Bournemouth;Tottenham;1;3
+Burnley;Everton;4;3
+Chelsea;Man Utd;5;4
+Hull;Stoke;1;1
+Leicester;Crystal Palace;1;4
+Liverpool;West Brom;3;2
+Man City;Southampton;4;1
+Swansea;Watford;5;2
+West Ham;Sunderland;5;2
+Crystal Palace;Liverpool;3;2
+Everton;West Ham;3;3
+Man Utd;Burnley;1;2
+Middlesbrough;Bournemouth;5;2
+Southampton;Chelsea;5;3
+Stoke;Swansea;0;1
+Sunderland;Arsenal;4;5
+Tottenham;Leicester;3;0
+Watford;Hull;4;4
+
+OUTPUT:
+=== TABLE ===
+Team                   P    W    D    L  PTS
+ 1. West Ham          10    6    2    2   20
+ 2. Swansea           10    6    2    2   20
+ 3. Crystal Palace    10    6    2    2   20
+ 4. West Brom          9    6    1    2   19
+ 5. Burnley           10    5    3    2   18
+ 6. Southampton       10    5    1    4   16
+ 7. Stoke             10    4    3    3   15
+ 8. Hull              10    4    3    3   15
+ 9. Middlesbrough     10    4    2    4   14
+10. Tottenham         10    4    2    4   14
+11. Man Utd           10    4    1    5   13
+12. Liverpool          9    4    1    4   13
+13. Everton           10    2    6    2   12
+14. Man City           9    4    0    5   12
+15. Leicester         10    4    0    6   12
+16. Arsenal            9    3    2    4   11
+17. Watford           10    3    2    5   11
+18. Chelsea           10    3    1    6   10
+19. Bournemouth       10    3    1    6   10
+20. Sunderland        10    0    1    9    1

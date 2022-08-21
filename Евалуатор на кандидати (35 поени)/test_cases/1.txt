@@ -1,0 +1,9 @@
+INPUT:
+Петре
+400
+5
+true
+6
+
+OUTPUT:
+Invalid evaluation

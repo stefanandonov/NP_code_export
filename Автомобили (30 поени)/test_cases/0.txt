@@ -1,0 +1,59 @@
+INPUT:
+Fiat Punto 13500 65
+Ford Fiesta 14200 75
+VW Polo 13800 77
+Renault Clio 12100 96
+Mercedes SLK 450000 540
+Ford Mustang 25000 150
+Mazda 2 14200 74
+Citroen C2 12900 64
+Lamborgini Eventador 500000 550
+Ford Focus 16200 88
+VW Golf 17100 94
+Mazda 3 16500 91
+Renault Megan 16900 96
+Bugati Veyron 1200000 980
+Fiat Stilo 17100 92
+Ford Ka 11200 56
+ford
+
+OUTPUT:
+=== Sorted By Price ASC ===
+Ford Ka (56KW) 11200
+Renault Clio (96KW) 12100
+Citroen C2 (64KW) 12900
+Fiat Punto (65KW) 13500
+VW Polo (77KW) 13800
+Mazda 2 (74KW) 14200
+Ford Fiesta (75KW) 14200
+Ford Focus (88KW) 16200
+Mazda 3 (91KW) 16500
+Renault Megan (96KW) 16900
+Fiat Stilo (92KW) 17100
+VW Golf (94KW) 17100
+Ford Mustang (150KW) 25000
+Mercedes SLK (540KW) 450000
+Lamborgini Eventador (550KW) 500000
+Bugati Veyron (980KW) 1200000
+=== Sorted By Price DESC ===
+Bugati Veyron (980KW) 1200000
+Lamborgini Eventador (550KW) 500000
+Mercedes SLK (540KW) 450000
+Ford Mustang (150KW) 25000
+VW Golf (94KW) 17100
+Fiat Stilo (92KW) 17100
+Renault Megan (96KW) 16900
+Mazda 3 (91KW) 16500
+Ford Focus (88KW) 16200
+Ford Fiesta (75KW) 14200
+Mazda 2 (74KW) 14200
+VW Polo (77KW) 13800
+Fiat Punto (65KW) 13500
+Citroen C2 (64KW) 12900
+Renault Clio (96KW) 12100
+Ford Ka (56KW) 11200
+=== Filtered By Manufacturer: ford ===
+Ford Fiesta (75KW) 14200
+Ford Focus (88KW) 16200
+Ford Ka (56KW) 11200
+Ford Mustang (150KW) 25000

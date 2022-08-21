@@ -1,0 +1,77 @@
+INPUT:
+28
+READ
+27 9 2
+5.12 0.17 -2.53 -1.87 -9.16 -1.80 3.63 -8.11 -2.94 -0.22 -4.41 -9.17 -6.21 -0.44 -6.69 -8.35 6.00 5.99 0.72 4.47 1.50 -6.88 -9.01 3.52 -9.98 3.55 -0.19
+MAX_IN_ROW 15
+COUNT_ROWS
+SUM
+MAX_IN_COLUMN 2
+MAX_IN_ROW 7690
+SORTED_ARRAY
+SUM
+MAX_IN_ROW 818
+SUM
+PRINT
+COUNT_ROWS
+COUNT_COLUMNS
+COUNT_ROWS
+SUM
+SORTED_ARRAY
+DIMENSION
+COUNT_ROWS
+MAX_IN_ROW 4
+SUM
+DIMENSION
+PRINT
+MAX_IN_COLUMN 15
+COUNT_ROWS
+MAX_IN_COLUMN 21
+COUNT_COLUMNS
+DIMENSION
+MAX_IN_COLUMN 10
+
+OUTPUT:
+Exception caught: Invalid row number
+Rows: 9
+Sum: -35.80
+Max in column: 6.00
+Exception caught: Invalid row number
+Sorted array: [6.00, 5.99, 4.47, 3.55, 3.52, 1.50, 0.72, -0.19, -0.22, -0.44, -4.41, -6.21, -6.69, -6.88, -8.35, -9.01, -9.17, -9.98]
+Sum: -35.80
+Exception caught: Invalid row number
+Sum: -35.80
+-0.22	-4.41
+-9.17	-6.21
+-0.44	-6.69
+-8.35	6.00
+5.99	0.72
+4.47	1.50
+-6.88	-9.01
+3.52	-9.98
+3.55	-0.19
+Rows: 9
+Columns: 2
+Rows: 9
+Sum: -35.80
+Sorted array: [6.00, 5.99, 4.47, 3.55, 3.52, 1.50, 0.72, -0.19, -0.22, -0.44, -4.41, -6.21, -6.69, -6.88, -8.35, -9.01, -9.17, -9.98]
+Dimensions: [9 x 2]
+Rows: 9
+Max in row: 6.00
+Sum: -35.80
+Dimensions: [9 x 2]
+-0.22	-4.41
+-9.17	-6.21
+-0.44	-6.69
+-8.35	6.00
+5.99	0.72
+4.47	1.50
+-6.88	-9.01
+3.52	-9.98
+3.55	-0.19
+Exception caught: Invalid column number
+Rows: 9
+Exception caught: Invalid column number
+Columns: 2
+Dimensions: [9 x 2]
+Exception caught: Invalid column number

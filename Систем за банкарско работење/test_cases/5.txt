@@ -1,0 +1,60 @@
+INPUT:
+typical_usage
+Banka na RM
+2
+Andrej
+100.00$
+Gajduk
+100.00$
+print
+transaction
+FlatAmount
+10.00$
+10.00$
+0 1
+print
+transaction
+FlatPercent
+100.00$
+10
+1 0
+print
+stop
+
+OUTPUT:
+Name: Banka na RM
+
+Name: Andrej
+Balance: 100.00$
+Name: Gajduk
+Balance: 100.00$
+
+Total provisions: 0.00$
+Total transfers: 0.00$
+
+Transaction amount: 10.00$
+Transaction description: FlatAmount
+Transaction successful? true
+Name: Banka na RM
+
+Name: Andrej
+Balance: 80.00$
+Name: Gajduk
+Balance: 110.00$
+
+Total provisions: 10.00$
+Total transfers: 10.00$
+
+Transaction amount: 100.00$
+Transaction description: FlatPercent
+Transaction successful? true
+Name: Banka na RM
+
+Name: Andrej
+Balance: 180.00$
+Name: Gajduk
+Balance: 0.00$
+
+Total provisions: 20.00$
+Total transfers: 110.00$
+

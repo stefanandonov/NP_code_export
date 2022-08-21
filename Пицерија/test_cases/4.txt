@@ -1,0 +1,5 @@
+INPUT:
+0 Extra Ketchup
+
+OUTPUT:
+3

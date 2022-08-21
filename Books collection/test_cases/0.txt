@@ -1,0 +1,42 @@
+INPUT:
+11
+1984:A:11.3
+A Brief History of Time:A:25.66
+A Heartbreaking Work of Staggering Genius:A:21.87
+A Long Way Gone Memoirs of a Boy Soldier:B:15.18
+The Bad Beginning Or, Orphans!:A:12.87
+A Wrinkle in Time:B:14.34
+Selected Stories, 1968-1994:B:2.54
+Alice's Adventures in Wonderland:C:12.34
+Angela's Ashes A Memoir:C:18.19
+Laugh-Out-Loud Jokes for Kids:C:9.99
+Yes Please:C:11.50
+
+OUTPUT:
+=== PRINT BY CATEGORY ===
+CATEGORY: A
+1984 (A) 11.30
+A Brief History of Time (A) 25.66
+A Heartbreaking Work of Staggering Genius (A) 21.87
+The Bad Beginning Or, Orphans! (A) 12.87
+CATEGORY: B
+A Long Way Gone Memoirs of a Boy Soldier (B) 15.18
+A Wrinkle in Time (B) 14.34
+Selected Stories, 1968-1994 (B) 2.54
+CATEGORY: C
+Alice's Adventures in Wonderland (C) 12.34
+Angela's Ashes A Memoir (C) 18.19
+Laugh-Out-Loud Jokes for Kids (C) 9.99
+Yes Please (C) 11.50
+=== TOP N BY PRICE ===
+Selected Stories, 1968-1994 (B) 2.54
+Laugh-Out-Loud Jokes for Kids (C) 9.99
+1984 (A) 11.30
+Yes Please (C) 11.50
+Alice's Adventures in Wonderland (C) 12.34
+The Bad Beginning Or, Orphans! (A) 12.87
+A Wrinkle in Time (B) 14.34
+A Long Way Gone Memoirs of a Boy Soldier (B) 15.18
+Angela's Ashes A Memoir (C) 18.19
+A Heartbreaking Work of Staggering Genius (A) 21.87
+A Brief History of Time (A) 25.66

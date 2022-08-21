@@ -1,0 +1,59 @@
+INPUT:
+
+
+OUTPUT:
+MP3Player{currentSong = 0, songList = [Song{title=first-title, artist=first-artist}, Song{title=second-title, artist=second-artist}, Song{title=third-title, artist=third-artist}, Song{title=fourth-title, artist=fourth-artist}, Song{title=fifth-title, artist=fifth-artist}]}
+First test
+Song 0 is playing
+Song{title=first-title, artist=first-artist}
+Song is already playing
+Song{title=first-title, artist=first-artist}
+Song is already playing
+Song{title=first-title, artist=first-artist}
+Song 0 is paused
+Song{title=first-title, artist=first-artist}
+Song 0 is playing
+Song{title=first-title, artist=first-artist}
+Forward...
+Song{title=second-title, artist=second-artist}
+Song 1 is playing
+Song{title=second-title, artist=second-artist}
+Reward...
+Song{title=first-title, artist=first-artist}
+MP3Player{currentSong = 0, songList = [Song{title=first-title, artist=first-artist}, Song{title=second-title, artist=second-artist}, Song{title=third-title, artist=third-artist}, Song{title=fourth-title, artist=fourth-artist}, Song{title=fifth-title, artist=fifth-artist}]}
+Second test
+Songs are stopped
+Song{title=first-title, artist=first-artist}
+Songs are already stopped
+Song{title=first-title, artist=first-artist}
+Songs are already stopped
+Song{title=first-title, artist=first-artist}
+Song 0 is playing
+Song{title=first-title, artist=first-artist}
+Song 0 is paused
+Song{title=first-title, artist=first-artist}
+Forward...
+Song{title=second-title, artist=second-artist}
+Songs are stopped
+Song{title=first-title, artist=first-artist}
+Reward...
+Song{title=fifth-title, artist=fifth-artist}
+MP3Player{currentSong = 4, songList = [Song{title=first-title, artist=first-artist}, Song{title=second-title, artist=second-artist}, Song{title=third-title, artist=third-artist}, Song{title=fourth-title, artist=fourth-artist}, Song{title=fifth-title, artist=fifth-artist}]}
+Third test
+Forward...
+Song{title=first-title, artist=first-artist}
+Forward...
+Song{title=second-title, artist=second-artist}
+Forward...
+Song{title=third-title, artist=third-artist}
+Song 2 is playing
+Song{title=third-title, artist=third-artist}
+Forward...
+Song{title=fourth-title, artist=fourth-artist}
+Songs are stopped
+Song{title=first-title, artist=first-artist}
+Forward...
+Song{title=second-title, artist=second-artist}
+Reward...
+Song{title=first-title, artist=first-artist}
+MP3Player{currentSong = 0, songList = [Song{title=first-title, artist=first-artist}, Song{title=second-title, artist=second-artist}, Song{title=third-title, artist=third-artist}, Song{title=fourth-title, artist=fourth-artist}, Song{title=fifth-title, artist=fifth-artist}]}

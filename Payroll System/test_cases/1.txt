@@ -1,0 +1,66 @@
+INPUT:
+H;2ef14c;level7;62.35
+H;b5d66b;level7;50.21
+H;6a2051;level9;70.10
+H;da609b;level4;26.79
+H;75ad82;level6;61.77
+F;a2fe4f;level2;5;2;1;6;8;1;4;5;2;3
+F;e38a4e;level3;1;7;8;6;4;2;4
+H;7760cf;level2;22.56
+H;36d923;level7;48.89
+F;a1e0fe;level2;7;4;7;6
+F;a541c9;level8;5;3;1;8;6;6;4;3;2;3;3
+H;fa717c;level6;20.35
+H;806917;level9;50.75
+H;fc195c;level9;28.51
+F;f106a3;level6;8;6;7;7;1;7;3;4;7
+H;a534c2;level2;50.48
+F;207539;level1;8;8;7;4;8;8;4;4;2;6
+F;295ea3;level4;4;6;6;2;4
+H;9e651f;level9;32.87
+H;658644;level10;31.82
+H;a81bad;level2;48.92
+H;df5f1e;level8;72.93
+F;98f439;level10;2;5;7;1;8;2;7;7
+F;06bcf8;level10;5;1;2;7;3;5;5
+H;2911a1;level4;34.32
+F;d43a3b;level2;7;1;6;4;4;7;8
+H;c81916;level7;28.18
+H;06a0d7;level1;66.58
+H;31564c;level2;60.07
+H;a9b515;level3;23.26
+
+OUTPUT:
+READING OF THE EMPLOYEES DATA
+PRINTING EMPLOYEES BY LEVEL
+LEVEL: level10
+Employees: 
+Employee ID: 98f439 Level: level10 Salary: 1170.00 Tickets count: 8 Tickets points: 39
+Employee ID: 658644 Level: level10 Salary: 1018.24 Regular hours: 31.82 Overtime hours: 0.00
+Employee ID: 06bcf8 Level: level10 Salary: 840.00 Tickets count: 7 Tickets points: 28
+------------
+LEVEL: level6
+Employees: 
+Employee ID: 75ad82 Level: level6 Salary: 1685.60 Regular hours: 40.00 Overtime hours: 21.77
+Employee ID: f106a3 Level: level6 Salary: 1000.00 Tickets count: 9 Tickets points: 50
+Employee ID: fa717c Level: level6 Salary: 472.12 Regular hours: 20.35 Overtime hours: 0.00
+------------
+LEVEL: level7
+Employees: 
+Employee ID: 2ef14c Level: level7 Salary: 1867.54 Regular hours: 40.00 Overtime hours: 22.35
+Employee ID: b5d66b Level: level7 Salary: 1405.00 Regular hours: 40.00 Overtime hours: 10.21
+Employee ID: 36d923 Level: level7 Salary: 1354.71 Regular hours: 40.00 Overtime hours: 8.89
+Employee ID: c81916 Level: level7 Salary: 715.77 Regular hours: 28.18 Overtime hours: 0.00
+------------
+LEVEL: level8
+Employees: 
+Employee ID: df5f1e Level: level8 Salary: 2467.30 Regular hours: 40.00 Overtime hours: 32.93
+Employee ID: a541c9 Level: level8 Salary: 1100.00 Tickets count: 11 Tickets points: 44
+------------
+LEVEL: level9
+Employees: 
+Employee ID: 6a2051 Level: level9 Salary: 2537.47 Regular hours: 40.00 Overtime hours: 30.10
+Employee ID: 806917 Level: level9 Salary: 1672.53 Regular hours: 40.00 Overtime hours: 10.75
+Employee ID: 9e651f Level: level9 Salary: 979.53 Regular hours: 32.87 Overtime hours: 0.00
+Employee ID: fc195c Level: level9 Salary: 849.60 Regular hours: 28.51 Overtime hours: 0.00
+------------

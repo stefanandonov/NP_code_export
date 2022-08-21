@@ -1,0 +1,20 @@
+INPUT:
+6
+abc
+aab
+aab
+aba
+cba
+cba
+12
+11
+16
+12
+11
+11
+
+OUTPUT:
+aab cba 2
+
+11 16 2
+

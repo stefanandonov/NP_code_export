@@ -1,0 +1,45 @@
+INPUT:
+0
+3
+1
+0_1
+2
+0
+text 1222
+0
+text 127
+1
+0_2
+2
+1
+0_3
+0
+0
+0_3 16566
+0
+0_44 12341
+
+OUTPUT:
+===READING FILES FROM INPUT===
+There is already a file named text in the folder 0_1
+There is already a file named 0_3 in the folder 0_2
+===PRINTING FILE SYSTEM INFO===
+Folder name:       root Folder size:      13563
+	Folder name:          0 Folder size:      13563
+		Folder name:        0_1 Folder size:       1222
+			File name:       text File size:       1222
+		Folder name:        0_2 Folder size:          0
+			Folder name:        0_3 Folder size:          0
+		File name:       0_44 File size:      12341
+
+===PRINTING FILE SYSTEM INFO AFTER SORTING===
+Folder name:       root Folder size:      13563
+	Folder name:          0 Folder size:      13563
+		Folder name:        0_2 Folder size:          0
+			Folder name:        0_3 Folder size:          0
+		Folder name:        0_1 Folder size:       1222
+			File name:       text File size:       1222
+		File name:       0_44 File size:      12341
+
+===PRINTING THE SIZE OF THE LARGEST FILE IN THE FILE SYSTEM===
+12341

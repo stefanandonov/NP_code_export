@@ -1,0 +1,49 @@
+INPUT:
+18
+doloribus 6:6:0:5:5
+dolorum 9:3:6:1:3
+sed 6:4:9:4:7
+quis 7:9:5:1:2
+ut 9:9:8:6:6
+sint 6:7:8:7:7
+perferendis 0:0:0:2:8
+sunt 2:3:8:8:8
+accusantium 8:1:7:9:0
+facilis 2:9:4:7:5
+similique 2:7:2:2:0
+dicta 3:3:6:2:4
+molestiae 4:0:8:0:5
+quisquam 3:8:3:3:2
+voluptatem 6:4:3:5:6
+adipisci 0:5:2:1:9
+minus 9:3:9:6:0
+aut 2:9:7:4:5
+24
+sunt
+quis
+amet
+adipisci
+iste
+midus
+fasilis
+molestiae
+quas
+omnis
+sint
+aut
+quisquam
+ut
+consequatur
+voluptatem
+perferendis
+accusantium
+dolorum
+sunto
+doloribus
+sed
+dictar
+similidue
+1
+
+OUTPUT:
+8,9,5,9,5,5,5,8,5,5,8,9,8,9,5,6,8,9,9,5,6,9,5,5

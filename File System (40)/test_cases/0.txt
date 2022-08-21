@@ -1,0 +1,24 @@
+INPUT:
+test
+2
+0
+test 123
+1
+test
+0
+
+OUTPUT:
+===READING FILES FROM INPUT===
+There is already a file named test in the folder test
+===PRINTING FILE SYSTEM INFO===
+Folder name:       root Folder size:        123
+	Folder name:       test Folder size:        123
+		File name:       test File size:        123
+
+===PRINTING FILE SYSTEM INFO AFTER SORTING===
+Folder name:       root Folder size:        123
+	Folder name:       test Folder size:        123
+		File name:       test File size:        123
+
+===PRINTING THE SIZE OF THE LARGEST FILE IN THE FILE SYSTEM===
+123

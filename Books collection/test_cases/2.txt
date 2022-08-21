@@ -1,0 +1,161 @@
+INPUT:
+50
+Book Z:A:43.11
+Book L:C:16.17
+Book Q:D:32.51
+Book O:D:46.15
+Book C:C:40.02
+Book W:D:16.20
+Book G:D:41.55
+Book P:E:31.54
+Book X:C:27.09
+Book I:D:23.25
+Book Q:E:19.69
+Book D:D:9.49
+Book G:D:6.94
+Book J:E:11.16
+Book O:C:31.67
+Book G:E:6.17
+Book O:C:6.53
+Book D:C:27.77
+Book E:B:35.25
+Book X:E:0.81
+Book F:E:16.55
+Book G:D:38.97
+Book V:D:33.62
+Book T:D:8.07
+Book M:D:26.04
+Book W:A:49.79
+Book K:E:48.91
+Book M:A:0.90
+Book S:B:28.95
+Book M:C:42.30
+Book J:E:31.29
+Book M:E:9.83
+Book V:E:19.67
+Book W:C:49.28
+Book U:C:49.39
+Book E:D:22.38
+Book K:E:37.06
+Book P:B:47.52
+Book X:D:34.77
+Book C:B:48.91
+Book C:E:22.85
+Book V:B:45.90
+Book V:D:7.45
+Book L:C:35.15
+Book P:C:35.49
+Book F:C:49.07
+Book V:A:22.40
+Book V:E:17.20
+Book U:E:37.56
+Book N:D:31.67
+
+OUTPUT:
+=== PRINT BY CATEGORY ===
+CATEGORY: A
+Book M (A) 0.90
+Book V (A) 22.40
+Book W (A) 49.79
+Book Z (A) 43.11
+CATEGORY: B
+Book C (B) 48.91
+Book E (B) 35.25
+Book P (B) 47.52
+Book S (B) 28.95
+Book V (B) 45.90
+CATEGORY: C
+Book C (C) 40.02
+Book D (C) 27.77
+Book F (C) 49.07
+Book L (C) 16.17
+Book L (C) 35.15
+Book M (C) 42.30
+Book O (C) 6.53
+Book O (C) 31.67
+Book P (C) 35.49
+Book U (C) 49.39
+Book W (C) 49.28
+Book X (C) 27.09
+CATEGORY: D
+Book D (D) 9.49
+Book E (D) 22.38
+Book G (D) 6.94
+Book G (D) 38.97
+Book G (D) 41.55
+Book I (D) 23.25
+Book M (D) 26.04
+Book N (D) 31.67
+Book O (D) 46.15
+Book Q (D) 32.51
+Book T (D) 8.07
+Book V (D) 7.45
+Book V (D) 33.62
+Book W (D) 16.20
+Book X (D) 34.77
+CATEGORY: E
+Book C (E) 22.85
+Book F (E) 16.55
+Book G (E) 6.17
+Book J (E) 11.16
+Book J (E) 31.29
+Book K (E) 37.06
+Book K (E) 48.91
+Book M (E) 9.83
+Book P (E) 31.54
+Book Q (E) 19.69
+Book U (E) 37.56
+Book V (E) 17.20
+Book V (E) 19.67
+Book X (E) 0.81
+=== TOP N BY PRICE ===
+Book X (E) 0.81
+Book M (A) 0.90
+Book G (E) 6.17
+Book O (C) 6.53
+Book G (D) 6.94
+Book V (D) 7.45
+Book T (D) 8.07
+Book D (D) 9.49
+Book M (E) 9.83
+Book J (E) 11.16
+Book L (C) 16.17
+Book W (D) 16.20
+Book F (E) 16.55
+Book V (E) 17.20
+Book V (E) 19.67
+Book Q (E) 19.69
+Book E (D) 22.38
+Book V (A) 22.40
+Book C (E) 22.85
+Book I (D) 23.25
+Book M (D) 26.04
+Book X (C) 27.09
+Book D (C) 27.77
+Book S (B) 28.95
+Book J (E) 31.29
+Book P (E) 31.54
+Book N (D) 31.67
+Book O (C) 31.67
+Book Q (D) 32.51
+Book V (D) 33.62
+Book X (D) 34.77
+Book L (C) 35.15
+Book E (B) 35.25
+Book P (C) 35.49
+Book K (E) 37.06
+Book U (E) 37.56
+Book G (D) 38.97
+Book C (C) 40.02
+Book G (D) 41.55
+Book M (C) 42.30
+Book Z (A) 43.11
+Book V (B) 45.90
+Book O (D) 46.15
+Book P (B) 47.52
+Book C (B) 48.91
+Book K (E) 48.91
+Book F (C) 49.07
+Book W (C) 49.28
+Book U (C) 49.39
+Book W (A) 49.79

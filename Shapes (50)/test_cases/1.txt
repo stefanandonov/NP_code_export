@@ -1,0 +1,54 @@
+INPUT:
+3 nprogm 2.9957 3.1450
+1 steand 10.8071
+2 stefannn 2.1791
+2 ...... 11.4539
+1 finki1 10.6180
+1 stefan 4.3022
+3 nprogm 12.7360 11.5788
+1 123456 6.1684
+3 123456 2.6958 1.0216
+2 nprogm 4.4466
+
+OUTPUT:
+READ SHAPES AND EXCEPTIONS TESTING
+ID stefannn is not valid
+ID ...... is not valid
+BEFORE SCALING
+Rectangle: -> Sides: 2.70, 1.02 Area: 2.75 Perimeter: 7.43
+Rectangle: -> Sides: 3.00, 3.15 Area: 9.42 Perimeter: 12.28
+Square: -> Side: 4.45 Area: 19.77 Perimeter: 17.79
+Circle -> Radius: 4.30 Area: 58.15 Perimeter: 27.03
+Circle -> Radius: 6.17 Area: 119.53 Perimeter: 38.76
+Rectangle: -> Sides: 12.74, 11.58 Area: 147.47 Perimeter: 48.63
+Circle -> Radius: 10.62 Area: 354.19 Perimeter: 66.71
+Circle -> Radius: 10.81 Area: 366.92 Perimeter: 67.90
+AFTER SCALING
+Rectangle: -> Sides: 4.04, 1.53 Area: 6.20 Perimeter: 11.15
+Rectangle: -> Sides: 3.00, 3.15 Area: 9.42 Perimeter: 12.28
+Square: -> Side: 4.45 Area: 19.77 Perimeter: 17.79
+Circle -> Radius: 4.30 Area: 58.15 Perimeter: 27.03
+Circle -> Radius: 9.25 Area: 268.95 Perimeter: 58.14
+Rectangle: -> Sides: 12.74, 11.58 Area: 147.47 Perimeter: 48.63
+Circle -> Radius: 10.62 Area: 354.19 Perimeter: 66.71
+Circle -> Radius: 10.81 Area: 366.92 Perimeter: 67.90
+PRINT BY USER ID TESTING
+Shapes of user: nprogm
+Rectangle: -> Sides: 3.00, 3.15 Area: 9.42 Perimeter: 12.28
+Square: -> Side: 4.45 Area: 19.77 Perimeter: 17.79
+Rectangle: -> Sides: 12.74, 11.58 Area: 147.47 Perimeter: 48.63
+Shapes of user: 123456
+Rectangle: -> Sides: 4.04, 1.53 Area: 6.20 Perimeter: 11.15
+Circle -> Radius: 9.25 Area: 268.95 Perimeter: 58.14
+Shapes of user: stefan
+Circle -> Radius: 4.30 Area: 58.15 Perimeter: 27.03
+Shapes of user: finki1
+Circle -> Radius: 10.62 Area: 354.19 Perimeter: 66.71
+Shapes of user: steand
+Circle -> Radius: 10.81 Area: 366.92 Perimeter: 67.90
+PRINT STATISTICS
+count: 8
+sum: 1231.07
+min: 6.20
+average: 153.88
+max: 366.92

@@ -1,0 +1,7 @@
+INPUT:
+1
+H;Stefan;level5;45.0 10%
+1
+
+OUTPUT:
+Employee ID: Stefan Level: level5 Salary: 1149.50 Regular hours: 40.00 Overtime hours: 5.00 Bonus: 104.50

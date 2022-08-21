@@ -1,0 +1,10 @@
+INPUT:
+F;bca8f6;level9;3;6;7;1;6;2;7;7;2
+
+OUTPUT:
+READING OF THE EMPLOYEES DATA
+PRINTING EMPLOYEES BY LEVEL
+LEVEL: level9
+Employees: 
+Employee ID: bca8f6 Level: level9 Salary: 1127.50 Tickets count: 9 Tickets points: 41
+------------

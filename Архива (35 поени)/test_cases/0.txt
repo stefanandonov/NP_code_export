@@ -1,0 +1,32 @@
+INPUT:
+Locked Archive Count
+2
+Id Date (Days in future)
+1 -10
+2 -15
+Special Archive Count
+3
+Id MaxOpen
+4 1
+5 5
+6 7
+Opening
+4 4 5 5 5 1 2 6 8 12
+
+OUTPUT:
+Item with id 8 doesn't exist
+Item with id 12 doesn't exist
+Item 1 archived at Thu Nov 07 00:00:00 UTC 2013
+Item 2 archived at Thu Nov 07 00:00:00 UTC 2013
+Item 4 archived at Thu Nov 07 00:00:00 UTC 2013
+Item 5 archived at Thu Nov 07 00:00:00 UTC 2013
+Item 6 archived at Thu Nov 07 00:00:00 UTC 2013
+Item 4 opened at Thu Nov 07 00:00:00 UTC 2013
+Item 4 cannot be opened more than 1 times
+Item 5 opened at Thu Nov 07 00:00:00 UTC 2013
+Item 5 opened at Thu Nov 07 00:00:00 UTC 2013
+Item 5 opened at Thu Nov 07 00:00:00 UTC 2013
+Item 1 opened at Thu Nov 07 00:00:00 UTC 2013
+Item 2 opened at Thu Nov 07 00:00:00 UTC 2013
+Item 6 opened at Thu Nov 07 00:00:00 UTC 2013
+

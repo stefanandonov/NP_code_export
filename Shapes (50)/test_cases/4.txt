@@ -1,0 +1,36 @@
+INPUT:
+1 123456 4.8835
+2 123456 11.6807
+3 123456 12.4201 8.7382
+1 finki1 5.0603
+3 nprogm 6.7953 7.6314
+
+OUTPUT:
+READ SHAPES AND EXCEPTIONS TESTING
+BEFORE SCALING
+Rectangle: -> Sides: 6.80, 7.63 Area: 51.86 Perimeter: 28.85
+Circle -> Radius: 4.88 Area: 74.92 Perimeter: 30.68
+Circle -> Radius: 5.06 Area: 80.45 Perimeter: 31.79
+Rectangle: -> Sides: 12.42, 8.74 Area: 108.53 Perimeter: 42.32
+Square: -> Side: 11.68 Area: 136.44 Perimeter: 46.72
+AFTER SCALING
+Rectangle: -> Sides: 6.80, 7.63 Area: 51.86 Perimeter: 28.85
+Circle -> Radius: 7.33 Area: 168.58 Perimeter: 46.03
+Circle -> Radius: 5.06 Area: 80.45 Perimeter: 31.79
+Rectangle: -> Sides: 18.63, 13.11 Area: 244.19 Perimeter: 63.47
+Square: -> Side: 17.52 Area: 306.99 Perimeter: 70.08
+PRINT BY USER ID TESTING
+Shapes of user: 123456
+Circle -> Radius: 7.33 Area: 168.58 Perimeter: 46.03
+Rectangle: -> Sides: 18.63, 13.11 Area: 244.19 Perimeter: 63.47
+Square: -> Side: 17.52 Area: 306.99 Perimeter: 70.08
+Shapes of user: nprogm
+Rectangle: -> Sides: 6.80, 7.63 Area: 51.86 Perimeter: 28.85
+Shapes of user: finki1
+Circle -> Radius: 5.06 Area: 80.45 Perimeter: 31.79
+PRINT STATISTICS
+count: 5
+sum: 852.06
+min: 51.86
+average: 170.41
+max: 306.99

@@ -1,0 +1,32 @@
+INPUT:
+Locked Archive Count
+2
+Id Date (Days in future)
+1 50
+2 -25
+Special Archive Count
+2
+Id MaxOpen
+3 5
+4 2
+Opening
+1 2 3 7 4 4 4 3 3 3 3 3
+
+OUTPUT:
+Item with id 7 doesn't exist
+Item 1 archived at 2013-10-07
+Item 2 archived at 2013-10-07
+Item 3 archived at 2013-10-07
+Item 4 archived at 2013-10-07
+Item 1 cannot be opened before 2013-11-26
+Item 2 opened at 2013-10-07
+Item 3 opened at 2013-10-07
+Item 4 opened at 2013-10-07
+Item 4 opened at 2013-10-07
+Item 4 cannot be opened more than 2 times
+Item 3 opened at 2013-10-07
+Item 3 opened at 2013-10-07
+Item 3 opened at 2013-10-07
+Item 3 opened at 2013-10-07
+Item 3 cannot be opened more than 5 times
+

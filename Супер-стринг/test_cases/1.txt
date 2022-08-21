@@ -1,0 +1,43 @@
+INPUT:
+0
+1 ej`
+ 	0 Gaj
+ 	1 r
+ 	0 du
+ 	1 d
+ 	1 n
+ 	1 A
+ 	0 K
+ 	2 aj
+ 	2 Gaj
+ 	2 Gajd
+ 	2 Gajdu
+ 	2 GajduK
+ 	2 Gajduk
+ 	2 Gajdur
+ 	2 Gajdun
+ 	2 ej`GajrdudnAK
+ 	2 An
+ 	2 Kassandra
+ 	2 dnA
+ 	2 Kand
+ 	2 ejGaj
+        2 Andrej`GajduK
+ 	6
+
+OUTPUT:
+true
+true
+true
+true
+true
+false
+false
+false
+false
+true
+false
+false
+false
+false
+true

@@ -1,0 +1,16 @@
+INPUT:
+addProduct A 0850b0c4 product0 2018-12-29T05:34:14.409036 1398.19
+addProduct C a1d01500 product1 2018-09-02T21:53:45.409036 2033.37
+addProduct A 0d3b93ce product2 2016-03-20T15:40:49.409036 2414.10
+addProduct C b1637c62 product3 2018-02-05T02:40:53.409036 2791.30
+buyProduct 0850b0c4 4
+buyProduct a1d01500 8
+buyProduct 0d3b93ce 3
+buyProduct b1637c62 3
+listProducts A NEWEST_FIRST 5
+
+OUTPUT:
+PAGE 1
+Product{id='0850b0c4', name='product0', createdAt=2018-12-29T05:34:14.409036, price=1398.19, quantitySold=4}
+Product{id='0d3b93ce', name='product2', createdAt=2016-03-20T15:40:49.409036, price=2414.1, quantitySold=3}
+Total revenue of the online shop is: 37475.92

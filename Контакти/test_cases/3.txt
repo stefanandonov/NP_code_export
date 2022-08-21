@@ -1,0 +1,14 @@
+INPUT:
+4
+CREATE_FACULTY Ekonomski fakultet
+3
+Sanja Mihova Skopje 21 82907017
+Emil Stankov Bitola 29 43009931
+Emil Trajanov Bitola 29 24914336
+ADD_EMAIL_CONTACT 82907017 2012-04-10 sanja@ef.ukim.mk
+ADD_PHONE_CONTACT 82907017 2010-03-05 070/744-235
+CHECK_SIMPLE
+
+OUTPUT:
+Average number of contacts: 0.67
+Number of students from Skopje: 1

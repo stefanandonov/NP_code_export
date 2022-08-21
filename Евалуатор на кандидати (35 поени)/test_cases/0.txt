@@ -1,0 +1,16 @@
+INPUT:
+Александра
+400
+5
+false
+5
+
+OUTPUT:
+Applicant
+Name: Александра
+Credit score: 400
+Experience: 5
+Criminal record: No
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_CREDIT_SCORE
+Applicant is REJECTED

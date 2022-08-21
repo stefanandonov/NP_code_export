@@ -1,0 +1,42 @@
+INPUT:
+Fiat Punto 160 65
+Ford Fiesta 250 75
+VW Polo 160 77
+Renault Clio 450 96
+Mazda 2 300 74
+Citroen C2 300 64
+Ford Focus 400 88
+VW Golf 800 94
+Mazda 3 700 91
+Renault Megan 550 96
+Fiat Stilo 800 92
+vW
+
+OUTPUT:
+=== Sorted By Price ASC ===
+Fiat Punto (65KW) 160
+VW Polo (77KW) 160
+Ford Fiesta (75KW) 250
+Citroen C2 (64KW) 300
+Mazda 2 (74KW) 300
+Ford Focus (88KW) 400
+Renault Clio (96KW) 450
+Renault Megan (96KW) 550
+Mazda 3 (91KW) 700
+Fiat Stilo (92KW) 800
+VW Golf (94KW) 800
+=== Sorted By Price DESC ===
+VW Golf (94KW) 800
+Fiat Stilo (92KW) 800
+Mazda 3 (91KW) 700
+Renault Megan (96KW) 550
+Renault Clio (96KW) 450
+Ford Focus (88KW) 400
+Mazda 2 (74KW) 300
+Citroen C2 (64KW) 300
+Ford Fiesta (75KW) 250
+VW Polo (77KW) 160
+Fiat Punto (65KW) 160
+=== Filtered By Manufacturer: vW ===
+VW Golf (94KW) 800
+VW Polo (77KW) 160

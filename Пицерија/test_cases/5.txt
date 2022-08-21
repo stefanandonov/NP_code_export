@@ -1,0 +1,5 @@
+INPUT:
+0 Pizza Fake
+
+OUTPUT:
+InvalidPizzaTypeException

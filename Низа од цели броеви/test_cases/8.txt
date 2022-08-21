@@ -1,0 +1,7 @@
+INPUT:
+testSorting
+5
+8 12 3 66 17
+
+OUTPUT:
+[3, 8, 12, 17, 66]

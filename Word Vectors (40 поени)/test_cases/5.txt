@@ -1,0 +1,57 @@
+INPUT:
+22
+delectus 9:0:6:1:2
+consequatur 0:8:7:3:5
+est 4:4:7:5:7
+quis 7:0:3:7:0
+sit 9:5:1:2:1
+excepturi 1:1:5:6:6
+id 2:7:3:9:1
+fuga 2:9:5:9:5
+aut 3:4:0:5:0
+officia 5:5:0:6:9
+adipisci 3:1:2:2:7
+voluptas 1:2:2:1:6
+dignissimos 6:7:0:7:2
+mollitia 7:0:4:1:1
+corporis 9:5:5:9:7
+quae 8:2:5:3:9
+vero 9:0:0:3:2
+rerum 1:6:8:9:1
+deleniti 7:2:9:5:9
+porro 3:1:8:5:1
+nulla 4:0:2:8:7
+minus 6:5:0:0:4
+28
+ex
+adipisci
+dignissimos
+fuga
+excepturi
+aut
+tit
+est
+quae
+aut
+demectus
+mollitia
+sint
+sed
+deleniti
+ruae
+voluptas
+nulla
+porro
+officia
+consequarur
+rerum
+corporis
+vero
+quis
+minus
+consequatur
+id
+3
+
+OUTPUT:
+14,18,22,20,16,15,21,16,16,15,17,17,19,19,20,18,14,19,16,20,23,21,25,22,13,20

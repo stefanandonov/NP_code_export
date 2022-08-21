@@ -1,0 +1,98 @@
+INPUT:
+3 steand 11.9212 11.6220
+3 stefan 6.5356 6.8717
+3 finki1 10.8519 11.7579
+3 123456 12.5495 8.8785
+2 finki1 0.0022
+3 nprogm 8.3785 12.2848
+2 finki1 10.9027
+2 123456 9.7090
+3 stefan 1.5893 3.9283
+2 finki1 4.7533
+3 finki1 12.5649 12.3139
+1 steand 10.9493
+3 stefan 5.9058 9.6575
+3 123456 2.1409 0.2953
+3 123456 7.7638 12.0458
+2 steand 5.5074
+2 123456 4.5472
+3 123456 0.7620 7.1188
+2 123456 7.5078
+3 steand 0.4815 11.4842
+
+OUTPUT:
+READ SHAPES AND EXCEPTIONS TESTING
+BEFORE SCALING
+Square: -> Side: 0.00 Area: 0.00 Perimeter: 0.01
+Rectangle: -> Sides: 2.14, 0.30 Area: 0.63 Perimeter: 4.87
+Rectangle: -> Sides: 0.76, 7.12 Area: 5.42 Perimeter: 15.76
+Rectangle: -> Sides: 0.48, 11.48 Area: 5.53 Perimeter: 23.93
+Rectangle: -> Sides: 1.59, 3.93 Area: 6.24 Perimeter: 11.04
+Square: -> Side: 4.55 Area: 20.68 Perimeter: 18.19
+Square: -> Side: 4.75 Area: 22.59 Perimeter: 19.01
+Square: -> Side: 5.51 Area: 30.33 Perimeter: 22.03
+Rectangle: -> Sides: 6.54, 6.87 Area: 44.91 Perimeter: 26.81
+Square: -> Side: 7.51 Area: 56.37 Perimeter: 30.03
+Rectangle: -> Sides: 5.91, 9.66 Area: 57.04 Perimeter: 31.13
+Rectangle: -> Sides: 7.76, 12.05 Area: 93.52 Perimeter: 39.62
+Square: -> Side: 9.71 Area: 94.26 Perimeter: 38.84
+Rectangle: -> Sides: 8.38, 12.28 Area: 102.93 Perimeter: 41.33
+Rectangle: -> Sides: 12.55, 8.88 Area: 111.42 Perimeter: 42.86
+Square: -> Side: 10.90 Area: 118.87 Perimeter: 43.61
+Rectangle: -> Sides: 10.85, 11.76 Area: 127.60 Perimeter: 45.22
+Rectangle: -> Sides: 11.92, 11.62 Area: 138.55 Perimeter: 47.09
+Rectangle: -> Sides: 12.56, 12.31 Area: 154.72 Perimeter: 49.76
+Circle -> Radius: 10.95 Area: 376.64 Perimeter: 68.80
+AFTER SCALING
+Square: -> Side: 0.00 Area: 0.00 Perimeter: 0.01
+Rectangle: -> Sides: 3.21, 0.44 Area: 1.42 Perimeter: 7.31
+Rectangle: -> Sides: 1.14, 10.68 Area: 12.21 Perimeter: 23.64
+Rectangle: -> Sides: 0.48, 11.48 Area: 5.53 Perimeter: 23.93
+Rectangle: -> Sides: 1.59, 3.93 Area: 6.24 Perimeter: 11.04
+Square: -> Side: 6.82 Area: 46.52 Perimeter: 27.28
+Square: -> Side: 4.75 Area: 22.59 Perimeter: 19.01
+Square: -> Side: 5.51 Area: 30.33 Perimeter: 22.03
+Rectangle: -> Sides: 6.54, 6.87 Area: 44.91 Perimeter: 26.81
+Square: -> Side: 11.26 Area: 126.83 Perimeter: 45.05
+Rectangle: -> Sides: 5.91, 9.66 Area: 57.04 Perimeter: 31.13
+Rectangle: -> Sides: 11.65, 18.07 Area: 210.42 Perimeter: 59.43
+Square: -> Side: 14.56 Area: 212.10 Perimeter: 58.25
+Rectangle: -> Sides: 8.38, 12.28 Area: 102.93 Perimeter: 41.33
+Rectangle: -> Sides: 18.82, 13.32 Area: 250.70 Perimeter: 64.28
+Square: -> Side: 10.90 Area: 118.87 Perimeter: 43.61
+Rectangle: -> Sides: 10.85, 11.76 Area: 127.60 Perimeter: 45.22
+Rectangle: -> Sides: 11.92, 11.62 Area: 138.55 Perimeter: 47.09
+Rectangle: -> Sides: 12.56, 12.31 Area: 154.72 Perimeter: 49.76
+Circle -> Radius: 10.95 Area: 376.64 Perimeter: 68.80
+PRINT BY USER ID TESTING
+Shapes of user: 123456
+Rectangle: -> Sides: 3.21, 0.44 Area: 1.42 Perimeter: 7.31
+Rectangle: -> Sides: 1.14, 10.68 Area: 12.21 Perimeter: 23.64
+Square: -> Side: 6.82 Area: 46.52 Perimeter: 27.28
+Square: -> Side: 11.26 Area: 126.83 Perimeter: 45.05
+Square: -> Side: 14.56 Area: 212.10 Perimeter: 58.25
+Rectangle: -> Sides: 11.65, 18.07 Area: 210.42 Perimeter: 59.43
+Rectangle: -> Sides: 18.82, 13.32 Area: 250.70 Perimeter: 64.28
+Shapes of user: finki1
+Square: -> Side: 0.00 Area: 0.00 Perimeter: 0.01
+Square: -> Side: 4.75 Area: 22.59 Perimeter: 19.01
+Square: -> Side: 10.90 Area: 118.87 Perimeter: 43.61
+Rectangle: -> Sides: 10.85, 11.76 Area: 127.60 Perimeter: 45.22
+Rectangle: -> Sides: 12.56, 12.31 Area: 154.72 Perimeter: 49.76
+Shapes of user: steand
+Square: -> Side: 5.51 Area: 30.33 Perimeter: 22.03
+Rectangle: -> Sides: 0.48, 11.48 Area: 5.53 Perimeter: 23.93
+Rectangle: -> Sides: 11.92, 11.62 Area: 138.55 Perimeter: 47.09
+Circle -> Radius: 10.95 Area: 376.64 Perimeter: 68.80
+Shapes of user: stefan
+Rectangle: -> Sides: 1.59, 3.93 Area: 6.24 Perimeter: 11.04
+Rectangle: -> Sides: 6.54, 6.87 Area: 44.91 Perimeter: 26.81
+Rectangle: -> Sides: 5.91, 9.66 Area: 57.04 Perimeter: 31.13
+Shapes of user: nprogm
+Rectangle: -> Sides: 8.38, 12.28 Area: 102.93 Perimeter: 41.33
+PRINT STATISTICS
+count: 20
+sum: 2046.14
+min: 0.00
+average: 102.31
+max: 376.64

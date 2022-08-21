@@ -1,0 +1,7 @@
+INPUT:
+0 test
+
+OUTPUT:
+2016-10-25T10:15 test
+2016-10-25T10:15
+test

@@ -1,0 +1,12 @@
+INPUT:
+0 0
+
+OUTPUT:
+Queue empty? - true
+Queue count? - 0
+Queue enqueue 0
+Queue empty? - false
+Queue count? - 1
+Queue dequeue? - 0
+Queue empty? - true
+Queue count? - 0

@@ -1,0 +1,16 @@
+INPUT:
+Панче
+300
+7
+false
+4
+
+OUTPUT:
+Applicant
+Name: Панче
+Credit score: 300
+Experience: 7
+Criminal record: No
+
+Evaluation type: MORE_EXPERIENCE_AND_MORE_CREDIT_SCORE
+Applicant is REJECTED

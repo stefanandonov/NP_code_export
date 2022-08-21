@@ -1,0 +1,14 @@
+INPUT:
+5
+.:.a.txt:250:10
+A:b.txt:150:15
+A:c.txt:550:133
+B:d.txt:350:117
+.:.e.txt:100:18
+0
+300
+
+OUTPUT:
+== Find all hidden files with size less then 300
+.e.txt       100B 2016-12-11T00:00
+.a.txt       250B 2016-12-19T00:00

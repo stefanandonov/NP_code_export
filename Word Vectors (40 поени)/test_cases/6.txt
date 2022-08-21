@@ -1,0 +1,40 @@
+INPUT:
+14
+reprehenderit 7:0:0:3:1
+unde 2:9:6:2:7
+quidem 3:9:8:5:7
+ut 5:5:4:0:6
+beatae 5:3:1:8:9
+ullam 4:6:5:5:1
+id 5:8:8:3:3
+veniam 6:9:5:4:9
+facilis 9:1:2:6:4
+quia 1:2:8:9:8
+aspernatur 5:0:2:0:7
+et 5:0:3:5:4
+atque 0:4:0:4:8
+odio 7:5:2:5:3
+19
+qoia
+atque
+quia
+ut
+unte
+beatae
+amer
+quae
+et
+reprehenderit
+quidem
+ullam
+veniam
+hic
+et
+odio
+id
+aspernatur
+fatilis
+6
+
+OUTPUT:
+41,41,38,34,32,31,29,30,30,30,34,33,33,32

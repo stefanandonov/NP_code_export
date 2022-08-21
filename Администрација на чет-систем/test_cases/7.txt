@@ -1,0 +1,51 @@
+INPUT:
+0 ChatRoom1
+ 17
+ 0 user1
+ 0 user2
+ 0 user3
+ 0 user4
+ 0 user5
+ 2 user1
+ 2 user2
+ 2 user3
+ 2 user4
+ 2 user5
+ 1 user2
+ 1 user5
+ 2 user1
+ 2 user2
+ 2 user3
+ 2 user4
+ 2 user5
+ 5 ChatRoom2
+ 0 user1
+ 0 user2
+ 0 user3
+ 0 user4
+ 0 user5
+
+OUTPUT:
+true
+true
+true
+true
+true
+true
+false
+true
+true
+false
+
+ChatRoom1
+user1
+user3
+user4
+
+ChatRoom2
+user1
+user2
+user3
+user4
+user5
+

@@ -1,0 +1,28 @@
+INPUT:
+3 nprogm 2.9957 3.1450
+1 steand 0.0
+2 stefannn 2.1791
+2 ...... 11.4539
+1 finki1 10.6180
+1 stefan 4.3022
+3 nprogm 12.7360 11.5788
+1 123456 6.1684
+3 123456 2.6958 1.0216
+2 nprogm 4.4466
+
+OUTPUT:
+READ SHAPES AND EXCEPTIONS TESTING
+Dimension 0 is not allowed!
+BEFORE SCALING
+Rectangle: -> Sides: 3.00, 3.15 Area: 9.42 Perimeter: 12.28
+AFTER SCALING
+Rectangle: -> Sides: 3.00, 3.15 Area: 9.42 Perimeter: 12.28
+PRINT BY USER ID TESTING
+Shapes of user: nprogm
+Rectangle: -> Sides: 3.00, 3.15 Area: 9.42 Perimeter: 12.28
+PRINT STATISTICS
+count: 1
+sum: 9.42
+min: 9.42
+average: 9.42
+max: 9.42

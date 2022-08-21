@@ -1,0 +1,31 @@
+INPUT:
+3
+1 21 9 19 20 32
+1 18 41 18 13 32
+0 13 55 18 4
+
+OUTPUT:
+===COLLECTION CONSTRUCTOR AND ADD METHOD TEST===
+Movable circle with center (21,9) and radius 32 can not be fitted into the collection
+Movable circle with center (18,41) and radius 32 can not be fitted into the collection
+Collection of movable objects with size 1:
+Movable point with coordinates (13,55)
+
+MOVE POINTS TO THE LEFT
+Point (-5,55) is out of bounds
+Collection of movable objects with size 1:
+Movable point with coordinates (13,55)
+
+MOVE CIRCLES DOWN
+Collection of movable objects with size 1:
+Movable point with coordinates (13,55)
+
+CHANGE X_MAX AND Y_MAX
+MOVE POINTS TO THE RIGHT
+Collection of movable objects with size 1:
+Movable point with coordinates (31,55)
+
+MOVE CIRCLES UP
+Collection of movable objects with size 1:
+Movable point with coordinates (31,55)
+

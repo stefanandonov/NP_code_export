@@ -1,0 +1,7 @@
+INPUT:
+2
+1:eden 2:dva 3:tri 4:cetiri 5:eden
+
+OUTPUT:
+{1=eden, 2=dva, 3=tri, 4=cetiri, 5=eden}
+[3=tri, 1=eden, 5=eden, 2=dva, 4=cetiri]

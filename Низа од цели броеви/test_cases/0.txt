@@ -1,0 +1,10 @@
+INPUT:
+testSimpleMethods
+2
+
+OUTPUT:
+7
+7 -5 2 4 5 1 14 
+[7, -5, 2, 4, 5, 1, 14]
+28
+4.00

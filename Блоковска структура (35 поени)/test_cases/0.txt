@@ -1,0 +1,54 @@
+INPUT:
+20 4
+2089
+3816
+483
+3874
+4035
+62
+1883
+678
+232
+2171
+1360
+1515
+1083
+2338
+844
+3967
+2324
+2331
+2804
+1081
+rndvetq
+bwcbpieq
+vtgzlrh
+elfaqqy
+coqasiaqym
+lhrp
+ssamrfugh
+tceg
+xccot
+lbqcaa
+vjhmwwnc
+poiw
+spcuv
+mvpndns
+cnfn
+cpclgf
+qtxtebpxno
+apkcuf
+ajqwy
+ffj
+
+OUTPUT:
++++++ Integer Block Container +++++
+[483, 2089, 3816, 3874],[62, 678, 1883, 4035],[232, 1360, 1515, 2171],[844, 1083, 2338, 3967],[1081, 2324, 2331, 2804]
++++++ Removing element +++++
++++++ Sorting container +++++
+[62, 232, 483, 678],[844, 1083, 1360, 1515],[1883, 2089, 2171, 2324],[2331, 2338, 2804, 3816],[3874, 3967, 4035]
++++++ String Block Container +++++
+[bwcbpieq, elfaqqy, rndvetq, vtgzlrh],[coqasiaqym, lhrp, ssamrfugh, tceg],[lbqcaa, poiw, vjhmwwnc, xccot],[cnfn, cpclgf, mvpndns, spcuv],[ajqwy, apkcuf, ffj, qtxtebpxno]
++++++ Removing element +++++
++++++ Sorting container +++++
+[ajqwy, apkcuf, bwcbpieq, cnfn],[coqasiaqym, cpclgf, elfaqqy, lbqcaa],[lhrp, mvpndns, poiw, qtxtebpxno],[rndvetq, spcuv, ssamrfugh, tceg],[vjhmwwnc, vtgzlrh, xccot]

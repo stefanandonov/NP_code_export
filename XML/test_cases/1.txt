@@ -1,0 +1,18 @@
+INPUT:
+3
+
+OUTPUT:
+<level1 level="1">
+	<level2 level="2">
+		<level3 level="3">
+			<student type="redoven" program="KNI">Trajce Trajkovski</student>
+		</level3>
+		<name type="redoven">
+			<first-name>trajce</first-name>
+			<last-name>trajkovski</last-name>
+		</name>
+		<something>blabla</something>
+	</level2>
+	<course>napredno programiranje</course>
+</level1>
+

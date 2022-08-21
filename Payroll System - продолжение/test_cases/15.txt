@@ -1,0 +1,10 @@
+INPUT:
+3
+H;Stefan;level1;45.0 10%
+F;Gjorgji;level2;1;5;10;6 
+F;Ana;level8;1;2;3;4;5;6;7;8 500
+4
+
+OUTPUT:
+Level: level8 Tickets by level: 8
+Level: level2 Tickets by level: 4

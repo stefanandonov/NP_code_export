@@ -1,0 +1,21 @@
+INPUT:
+6
+abc
+xyz
+abc
+xyz
+zzz
+blatr
+12
+8
+8
+5
+55
+13
+55
+
+OUTPUT:
+abc zzz 3
+
+5 55 4
+

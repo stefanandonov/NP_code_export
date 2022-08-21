@@ -1,0 +1,31 @@
+INPUT:
+10
+2012
+Taksirat 15;Skopje;15.12.2012 22:00
+Rush Premiera;Cineplex;14.02.2013 11:00
+Vinoskop;Vero Centar;01.02.2012 21:00
+Skopje Gori;Kale;19.04.2012 15:30
+Brucoshka Zabava;FINKI;19.04.2012 15:30
+Bela Nokj;Skopje;12.06.2012 18:30
+Stand Up;Expo Center;15.04.2012 19:30
+Cinedays;Kino Milenium;13.01.2012 14:00
+Koncert Arhangel;Boris Trajkovski;19.02.2012 19:45
+Skopje Jazz Festival;Univerzalna Sala;18.08.2012 22:30
+19.04.2012 00:00
+
+OUTPUT:
+Wrong date: Thu Feb 14 11:00:00 UTC 2013
+19 Apr, 2012 15:30 at FINKI, Brucoshka Zabava
+19 Apr, 2012 15:30 at Kale, Skopje Gori
+1 : 1
+2 : 2
+3 : 0
+4 : 3
+5 : 0
+6 : 1
+7 : 0
+8 : 1
+9 : 0
+10 : 0
+11 : 0
+12 : 1

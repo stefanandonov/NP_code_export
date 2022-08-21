@@ -1,0 +1,101 @@
+INPUT:
+299 5C 9C 6C 8C 5C 7C 7C 8C 7C 8C 6C 10C 10C 6C 10C 6C 8C
+64 56F
+270 74F 78F 75F 75F 76F 78F 75F 79F
+227 57F 58F
+28 94F 90F 91F 92F 92F 91F 92F 90F 90F 93F 95F 94F 94F 91F 92F 94F
+345 29C 30C 26C 29C 29C 29C 27C 27C 27C
+95 100F 104F 100F
+54 35F
+178 10C 12C 15C 10C 11C
+335 9C 5C 6C 7C 9C 10C 6C 7C 5C 9C
+296 21C 21C 21C 21C 23C 24C 22C
+274 -12C -16C -12C -16C -16C -13C
+72 97F 95F 97F 96F 96F 98F 94F 97F 97F 99F 94F 94F 98F 96F
+100 96F 93F 91F 93F 94F 93F 91F 91F 95F 96F
+41 32C 34C 37C
+1 6C 5C 6C 9C 5C 7C 10C 9C 7C 6C 8C 7C 7C 7C
+82 -16C -13C -14C -12C -15C -15C
+133 60F 58F 60F 59F 61F 60F 57F 59F 59F 61F 58F 61F 57F 61F 60F 57F 57F 56F
+4 36C 33C 34C 34C 35C 33C 33C 31C
+68 83F 81F 81F 83F 81F
+317 94F 95F 97F 95F 98F 97F 94F 97F 98F 96F 95F 97F 94F 99F 94F 98F 94F 95F
+5 89F 91F 90F 93F 93F 92F 92F 90F 94F 92F 94F 93F 89F 93F 91F 93F 91F 92F
+125 37C 37C 34C 37C 39C 35C 36C 37C 34C 35C 34C 35C 36C
+332 36F 32F 37F 34F 36F 34F 37F 36F 35F 35F 33F
+229 75F 79F 77F 76F 75F 76F 75F 76F 77F 76F 78F 77F 80F 76F 75F 78F 77F
+142 18F 16F 21F 21F 20F 16F 17F 17F 20F 20F 20F 21F 16F 21F 20F
+282 -18C -18C -15C -16C -18C -19C -18C -19C -17C -16C -18C -18C -17C -16C -20C -15C -18C -20C -16C
+71 36C 40C
+135 25C 27C 26C 29C 27C 27C 27C 28C 30C 25C 25C 28C 29C 25C 28C 27C 25C
+16 35C 32C 32C 30C 34C 31C 34C 34C 31C 32C 33C 31C 34C 35C 31C
+180 101F 102F 99F 103F 99F 101F 99F 102F 100F 103F 98F 98F 98F 99F 99F 102F 103F
+311 41C 41C 37C 40C 37C 42C 41C 40C 39C 39C
+
+OUTPUT:
+=== Daily temperatures in Celsius (C) ===
+  1: Count:  14 Min:   5.00C Max:  10.00C Avg:   7.07C
+  4: Count:   8 Min:  31.00C Max:  36.00C Avg:  33.63C
+  5: Count:  18 Min:  31.67C Max:  34.44C Avg:  33.21C
+ 16: Count:  15 Min:  30.00C Max:  35.00C Avg:  32.60C
+ 28: Count:  16 Min:  32.22C Max:  35.00C Avg:  33.44C
+ 41: Count:   3 Min:  32.00C Max:  37.00C Avg:  34.33C
+ 54: Count:   1 Min:   1.67C Max:   1.67C Avg:   1.67C
+ 64: Count:   1 Min:  13.33C Max:  13.33C Avg:  13.33C
+ 68: Count:   5 Min:  27.22C Max:  28.33C Avg:  27.67C
+ 71: Count:   2 Min:  36.00C Max:  40.00C Avg:  38.00C
+ 72: Count:  14 Min:  34.44C Max:  37.22C Avg:  35.71C
+ 82: Count:   6 Min: -16.00C Max: -12.00C Avg: -14.17C
+ 95: Count:   3 Min:  37.78C Max:  40.00C Avg:  38.52C
+100: Count:  10 Min:  32.78C Max:  35.56C Avg:  34.06C
+125: Count:  13 Min:  34.00C Max:  39.00C Avg:  35.85C
+133: Count:  18 Min:  13.33C Max:  16.11C Avg:  14.97C
+135: Count:  17 Min:  25.00C Max:  30.00C Avg:  26.94C
+142: Count:  15 Min:  -8.89C Max:  -6.11C Avg:  -7.26C
+178: Count:   5 Min:  10.00C Max:  15.00C Avg:  11.60C
+180: Count:  17 Min:  36.67C Max:  39.44C Avg:  37.97C
+227: Count:   2 Min:  13.89C Max:  14.44C Avg:  14.17C
+229: Count:  17 Min:  23.89C Max:  26.67C Avg:  24.80C
+270: Count:   8 Min:  23.33C Max:  26.11C Avg:  24.58C
+274: Count:   6 Min: -16.00C Max: -12.00C Avg: -14.17C
+282: Count:  19 Min: -20.00C Max: -15.00C Avg: -17.47C
+296: Count:   7 Min:  21.00C Max:  24.00C Avg:  21.86C
+299: Count:  17 Min:   5.00C Max:  10.00C Avg:   7.41C
+311: Count:  10 Min:  37.00C Max:  42.00C Avg:  39.70C
+317: Count:  18 Min:  34.44C Max:  37.22C Avg:  35.52C
+332: Count:  11 Min:   0.00C Max:   2.78C Avg:   1.67C
+335: Count:  10 Min:   5.00C Max:  10.00C Avg:   7.30C
+345: Count:   9 Min:  26.00C Max:  30.00C Avg:  28.11C
+=== Daily temperatures in Fahrenheit (F) ===
+  1: Count:  14 Min:  41.00F Max:  50.00F Avg:  44.73F
+  4: Count:   8 Min:  87.80F Max:  96.80F Avg:  92.53F
+  5: Count:  18 Min:  89.00F Max:  94.00F Avg:  91.78F
+ 16: Count:  15 Min:  86.00F Max:  95.00F Avg:  90.68F
+ 28: Count:  16 Min:  90.00F Max:  95.00F Avg:  92.19F
+ 41: Count:   3 Min:  89.60F Max:  98.60F Avg:  93.80F
+ 54: Count:   1 Min:  35.00F Max:  35.00F Avg:  35.00F
+ 64: Count:   1 Min:  56.00F Max:  56.00F Avg:  56.00F
+ 68: Count:   5 Min:  81.00F Max:  83.00F Avg:  81.80F
+ 71: Count:   2 Min:  96.80F Max: 104.00F Avg: 100.40F
+ 72: Count:  14 Min:  94.00F Max:  99.00F Avg:  96.29F
+ 82: Count:   6 Min:   3.20F Max:  10.40F Avg:   6.50F
+ 95: Count:   3 Min: 100.00F Max: 104.00F Avg: 101.33F
+100: Count:  10 Min:  91.00F Max:  96.00F Avg:  93.30F
+125: Count:  13 Min:  93.20F Max: 102.20F Avg:  96.52F
+133: Count:  18 Min:  56.00F Max:  61.00F Avg:  58.94F
+135: Count:  17 Min:  77.00F Max:  86.00F Avg:  80.49F
+142: Count:  15 Min:  16.00F Max:  21.00F Avg:  18.93F
+178: Count:   5 Min:  50.00F Max:  59.00F Avg:  52.88F
+180: Count:  17 Min:  98.00F Max: 103.00F Avg: 100.35F
+227: Count:   2 Min:  57.00F Max:  58.00F Avg:  57.50F
+229: Count:  17 Min:  75.00F Max:  80.00F Avg:  76.65F
+270: Count:   8 Min:  74.00F Max:  79.00F Avg:  76.25F
+274: Count:   6 Min:   3.20F Max:  10.40F Avg:   6.50F
+282: Count:  19 Min:  -4.00F Max:   5.00F Avg:   0.55F
+296: Count:   7 Min:  69.80F Max:  75.20F Avg:  71.34F
+299: Count:  17 Min:  41.00F Max:  50.00F Avg:  45.34F
+311: Count:  10 Min:  98.60F Max: 107.60F Avg: 103.46F
+317: Count:  18 Min:  94.00F Max:  99.00F Avg:  95.94F
+332: Count:  11 Min:  32.00F Max:  37.00F Avg:  35.00F
+335: Count:  10 Min:  41.00F Max:  50.00F Avg:  45.14F
+345: Count:   9 Min:  78.80F Max:  86.00F Avg:  82.60F

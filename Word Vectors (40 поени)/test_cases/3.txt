@@ -1,0 +1,17 @@
+INPUT:
+4
+ipsa 7:7:7:4:7
+rerum 9:3:3:9:3
+id 2:5:8:9:5
+fugiat 1:7:8:1:0
+6
+porro
+resum
+id
+illo
+ipsa
+fugiat
+5
+
+OUTPUT:
+30,33

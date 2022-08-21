@@ -1,0 +1,16 @@
+INPUT:
+Ѓорѓи
+1000
+8
+false
+3
+
+OUTPUT:
+Applicant
+Name: Ѓорѓи
+Credit score: 1000
+Experience: 8
+Criminal record: No
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_EXPERIENCE
+Applicant is REJECTED

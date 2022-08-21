@@ -1,0 +1,32 @@
+INPUT:
+10
+2013
+Taksirat 15;Skopje;28.12.2013 22:00
+Rush Premiera;Cineplex;14.02.2013 11:00
+Vinoskop;Vero Centar;15.02.2013 21:00
+Skopje Gori;Kale;14.04.2013 15:30
+Brucoshka Zabava;FINKI;16.04.2014 14:20
+Bela Nokj;Skopje;12.06.2013 18:30
+Stand Up;Expo Center;15.02.2013 19:30
+Cinedays;Kino Milenium;12.01.2013 14:00
+Koncert Arhangel;Boris Trajkovski;15.02.2013 19:45
+Skopje Jazz Festival;Univerzalna Sala;12.08.2013 22:30
+15.02.2013 00:00
+
+OUTPUT:
+Wrong date: Wed Apr 16 14:20:00 UTC 2014
+15 Feb, 2013 19:30 at Expo Center, Stand Up
+15 Feb, 2013 19:45 at Boris Trajkovski, Koncert Arhangel
+15 Feb, 2013 21:00 at Vero Centar, Vinoskop
+1 : 1
+2 : 4
+3 : 0
+4 : 1
+5 : 0
+6 : 1
+7 : 0
+8 : 1
+9 : 0
+10 : 0
+11 : 0
+12 : 1

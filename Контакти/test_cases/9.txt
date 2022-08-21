@@ -1,0 +1,62 @@
+INPUT:
+33
+CREATE_FACULTY FINKI
+3
+Sanja Trajkova Stip 29 93245091
+Petar Petrov Strumica 29 81460497
+Mile Jovanov Skopje 24 81974965
+ADD_PHONE_CONTACT 81460497 2001-03-19 070/748-540
+ADD_EMAIL_CONTACT 93245091 2006-07-13 crxkpbsn@yahoo.com
+ADD_EMAIL_CONTACT 81974965 2010-08-01 eikyqppxexavtua@gmail.com
+ADD_PHONE_CONTACT 81974965 2007-07-27 078/186-236
+ADD_EMAIL_CONTACT 81460497 2003-05-12 oxaazbvw@gmail.com
+ADD_EMAIL_CONTACT 93245091 2010-04-06 ueyjikz@cs.org.mk
+ADD_PHONE_CONTACT 93245091 2000-06-28 070/399-762
+ADD_PHONE_CONTACT 81974965 2001-08-17 077/524-486
+ADD_PHONE_CONTACT 93245091 2009-10-23 077/850-741
+ADD_PHONE_CONTACT 81974965 2000-07-17 077/848-344
+ADD_PHONE_CONTACT 81460497 2005-05-02 071/521-435
+ADD_EMAIL_CONTACT 81974965 2013-01-01 rpzdnz@hotmail.com
+ADD_PHONE_CONTACT 93245091 2000-02-16 075/915-241
+ADD_EMAIL_CONTACT 93245091 2013-04-22 hzmhamihjyf@cs.org.mk
+ADD_EMAIL_CONTACT 81974965 2005-08-30 qtyagx@finki.ukim.mk
+ADD_EMAIL_CONTACT 81460497 2010-05-25 bvmriiamvibscw@finki.ukim.mk
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 81974965 2010-12-25 077/428-158
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 81460497 2011-12-04 076/057-448
+ADD_PHONE_CONTACT 93245091 2002-10-27 078/187-757
+ADD_PHONE_CONTACT 81460497 2005-02-04 077/341-394
+CHECK_DATES
+CHECK_DATES
+ADD_EMAIL_CONTACT 93245091 2003-02-29 maldkektkff@cs.org.mk
+CHECK_DATES
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 81974965 2002-11-03 075/905-387
+CHECK_SIMPLE
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 81974965 2005-11-22 071/160-774
+PRINT_FACULTY_METHODS
+
+OUTPUT:
+Average number of contacts: 5.33
+Number of students from Strumica: 1
+Average number of contacts: 5.67
+Number of students from Strumica: 1
+Latest contact: 076/057-448 (ONE)
+Number of email and phone contacts: 2 4
+Comparing dates: false
+Latest contact: 076/057-448 (ONE)
+Number of email and phone contacts: 2 4
+Comparing dates: true
+Latest contact: hzmhamihjyf@cs.org.mk
+Number of email and phone contacts: 4 4
+Comparing dates: true
+Average number of contacts: 7.00
+Number of students from Stip: 1
+Average number of contacts: 7.33
+Number of students from Skopje: 1
+Average number of contacts: 7.33
+Number of students from Skopje: 1
+Faculty: {"fakultet":"FINKI", "studenti":[{"ime":"Sanja", "prezime":"Trajkova", "vozrast":29, "grad":"Stip", "indeks":93245091, "telefonskiKontakti":["070/399-762", "077/850-741", "075/915-241", "078/187-757"], "emailKontakti":["crxkpbsn@yahoo.com", "ueyjikz@cs.org.mk", "hzmhamihjyf@cs.org.mk", "maldkektkff@cs.org.mk"]}, {"ime":"Petar", "prezime":"Petrov", "vozrast":29, "grad":"Strumica", "indeks":81460497, "telefonskiKontakti":["070/748-540", "071/521-435", "076/057-448", "077/341-394"], "emailKontakti":["oxaazbvw@gmail.com", "bvmriiamvibscw@finki.ukim.mk"]}, {"ime":"Mile", "prezime":"Jovanov", "vozrast":24, "grad":"Skopje", "indeks":81974965, "telefonskiKontakti":["078/186-236", "077/524-486", "077/848-344", "077/428-158", "075/905-387", "071/160-774"], "emailKontakti":["eikyqppxexavtua@gmail.com", "rpzdnz@hotmail.com", "qtyagx@finki.ukim.mk"]}]}
+Student with most contacts: {"ime":"Mile", "prezime":"Jovanov", "vozrast":24, "grad":"Skopje", "indeks":81974965, "telefonskiKontakti":["078/186-236", "077/524-486", "077/848-344", "077/428-158", "075/905-387", "071/160-774"], "emailKontakti":["eikyqppxexavtua@gmail.com", "rpzdnz@hotmail.com", "qtyagx@finki.ukim.mk"]}

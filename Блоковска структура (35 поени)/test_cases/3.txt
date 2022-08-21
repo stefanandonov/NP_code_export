@@ -1,0 +1,52 @@
+INPUT:
+19 3
+4133
+4895
+2431
+944
+132
+3965
+2386
+784
+3446
+3774
+3124
+910
+2304
+220
+4071
+1223
+4523
+1704
+1154
+uehzqjl
+oig
+xihlv
+fxuidjvz
+ezvkidegyh
+vbo
+uyt
+igpg
+gbmtspyitn
+fmyqh
+lvfntsqv
+maywcxyff
+kplprttfd
+wttvdqvftm
+umni
+fdpsht
+ugphkqhees
+ogceuga
+coowk
+
+OUTPUT:
++++++ Integer Block Container +++++
+[2431, 4133, 4895],[132, 944, 3965],[784, 2386, 3446],[910, 3124, 3774],[220, 2304, 4071],[1223, 1704, 4523],[1154]
++++++ Removing element +++++
++++++ Sorting container +++++
+[132, 220, 784],[910, 944, 1223],[1704, 2304, 2386],[2431, 3124, 3446],[3774, 3965, 4071],[4133, 4523, 4895]
++++++ String Block Container +++++
+[oig, uehzqjl, xihlv],[ezvkidegyh, fxuidjvz, vbo],[gbmtspyitn, igpg, uyt],[fmyqh, lvfntsqv, maywcxyff],[kplprttfd, umni, wttvdqvftm],[fdpsht, ogceuga, ugphkqhees],[coowk]
++++++ Removing element +++++
++++++ Sorting container +++++
+[ezvkidegyh, fdpsht, fmyqh],[fxuidjvz, gbmtspyitn, igpg],[kplprttfd, lvfntsqv, maywcxyff],[ogceuga, oig, uehzqjl],[ugphkqhees, umni, uyt],[vbo, wttvdqvftm, xihlv]

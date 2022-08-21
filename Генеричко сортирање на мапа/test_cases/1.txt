@@ -1,0 +1,7 @@
+INPUT:
+1
+eden:1 dva:2 tri:3 cetiri:4 pet:5
+
+OUTPUT:
+{eden=1, tri=3, cetiri=4, dva=2, pet=5}
+[pet=5, cetiri=4, tri=3, dva=2, eden=1]

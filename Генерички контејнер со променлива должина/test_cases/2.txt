@@ -1,0 +1,14 @@
+INPUT:
+0
+	 1
+	 a
+
+OUTPUT:
+0
+1
+1
+true
+true
+true
+false
+0

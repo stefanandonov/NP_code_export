@@ -1,0 +1,16 @@
+INPUT:
+Ристе
+600
+5
+true
+5
+
+OUTPUT:
+Applicant
+Name: Ристе
+Credit score: 600
+Experience: 5
+Criminal record: Yes
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_CREDIT_SCORE
+Applicant is REJECTED

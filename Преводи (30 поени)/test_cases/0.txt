@@ -1,0 +1,86 @@
+INPUT:
+1
+00:00:43,700 --> 00:00:47,973
+Come on ladies, we're pushing pennies
+around like a lot of old 'tards here.
+
+2
+00:00:48,321 --> 00:00:50,837
+Let's see a real bet.
+
+3
+00:01:10,889 --> 00:01:12,216
+Twice.
+
+4
+00:01:12,394 --> 00:01:14,271
+- That's better.
+- Fold.
+
+5
+00:01:18,099 --> 00:01:20,056
+All in.
+
+6
+00:01:23,230 --> 00:01:25,563
+Good morning mate.
+Delivery for you.
+
+OUTPUT:
++++++ ORIGINIAL SUBTITLES +++++
+1
+00:00:43,700 --> 00:00:47,973
+Come on ladies, we're pushing pennies
+around like a lot of old 'tards here.
+
+2
+00:00:48,321 --> 00:00:50,837
+Let's see a real bet.
+
+3
+00:01:10,889 --> 00:01:12,216
+Twice.
+
+4
+00:01:12,394 --> 00:01:14,271
+- That's better.
+- Fold.
+
+5
+00:01:18,099 --> 00:01:20,056
+All in.
+
+6
+00:01:23,230 --> 00:01:25,563
+Good morning mate.
+Delivery for you.
+
+SHIFT FOR 222 ms
++++++ SHIFTED SUBTITLES +++++
+1
+00:00:43,922 --> 00:00:48,195
+Come on ladies, we're pushing pennies
+around like a lot of old 'tards here.
+
+2
+00:00:48,543 --> 00:00:51,059
+Let's see a real bet.
+
+3
+00:01:11,111 --> 00:01:12,438
+Twice.
+
+4
+00:01:12,616 --> 00:01:14,493
+- That's better.
+- Fold.
+
+5
+00:01:18,321 --> 00:01:20,278
+All in.
+
+6
+00:01:23,452 --> 00:01:25,785
+Good morning mate.
+Delivery for you.
+

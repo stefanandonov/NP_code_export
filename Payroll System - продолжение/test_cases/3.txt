@@ -1,0 +1,9 @@
+INPUT:
+3
+H;Stefan;level1;45.0 10%
+H;Gjorgji;level2;50 
+F;Ana;level8;1;2;3;4;5;6;7;8 500
+3
+
+OUTPUT:
+Statistics for overtime salary: Min: 99.00 Average: 165.00 Max: 231.00 Sum: 330.00

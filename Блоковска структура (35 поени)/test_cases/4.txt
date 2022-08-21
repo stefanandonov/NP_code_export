@@ -1,0 +1,64 @@
+INPUT:
+25 4
+1219
+2133
+440
+4153
+1800
+4931
+3955
+4725
+4373
+3800
+1750
+1788
+3301
+4979
+1996
+213
+4020
+837
+4409
+4270
+959
+106
+1870
+1773
+3737
+bdnnd
+qipepdfpt
+hgoyw
+pil
+yjvwd
+hawdign
+bhuppyewq
+xlmdasdqqf
+amhwkp
+vffekfriyd
+hli
+hlnwjmrxx
+oiyimnoikx
+zvcg
+jzbuyap
+ufv
+uhukodyl
+ipfieoyy
+nkyoybdh
+czgm
+hfc
+mfueailf
+ijvxczxua
+ccsrjknr
+sdwml
+
+OUTPUT:
++++++ Integer Block Container +++++
+[440, 1219, 2133, 4153],[1800, 3955, 4725, 4931],[1750, 1788, 3800, 4373],[213, 1996, 3301, 4979],[837, 4020, 4270, 4409],[106, 959, 1773, 1870],[3737]
++++++ Removing element +++++
++++++ Sorting container +++++
+[106, 213, 440, 837],[959, 1219, 1750, 1773],[1788, 1800, 1870, 1996],[2133, 3301, 3800, 3955],[4020, 4153, 4270, 4373],[4409, 4725, 4931, 4979]
++++++ String Block Container +++++
+[bdnnd, hgoyw, pil, qipepdfpt],[bhuppyewq, hawdign, xlmdasdqqf, yjvwd],[amhwkp, hli, hlnwjmrxx, vffekfriyd],[jzbuyap, oiyimnoikx, ufv, zvcg],[czgm, ipfieoyy, nkyoybdh, uhukodyl],[ccsrjknr, hfc, ijvxczxua, mfueailf],[sdwml]
++++++ Removing element +++++
++++++ Sorting container +++++
+[amhwkp, bdnnd, bhuppyewq, ccsrjknr],[czgm, hawdign, hfc, hgoyw],[hli, hlnwjmrxx, ijvxczxua, ipfieoyy],[jzbuyap, mfueailf, nkyoybdh, oiyimnoikx],[pil, qipepdfpt, ufv, uhukodyl],[vffekfriyd, xlmdasdqqf, yjvwd, zvcg]

@@ -1,0 +1,34 @@
+INPUT:
+10 1
+3513
+4602
+3469
+236
+1673
+4558
+2926
+4256
+3731
+4072
+sirruseifa
+twhs
+fxojuphowu
+jeswhtel
+sqktrl
+mqap
+efgytg
+cnewif
+gzwjaxrmq
+gzewycbge
+
+OUTPUT:
++++++ Integer Block Container +++++
+[3513],[4602],[3469],[236],[1673],[4558],[2926],[4256],[3731],[4072]
++++++ Removing element +++++
++++++ Sorting container +++++
+[236],[1673],[2926],[3469],[3513],[3731],[4256],[4558],[4602]
++++++ String Block Container +++++
+[sirruseifa],[twhs],[fxojuphowu],[jeswhtel],[sqktrl],[mqap],[efgytg],[cnewif],[gzwjaxrmq],[gzewycbge]
++++++ Removing element +++++
++++++ Sorting container +++++
+[cnewif],[efgytg],[fxojuphowu],[gzwjaxrmq],[jeswhtel],[mqap],[sirruseifa],[sqktrl],[twhs]

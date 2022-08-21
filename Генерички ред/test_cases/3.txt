@@ -1,0 +1,5 @@
+INPUT:
+2 first second third fourth fifth sixth seventh ninth tenth eleventh twelfhgt stop
+
+OUTPUT:
+first second third fourth fifth sixth seventh ninth tenth eleventh twelfhgt

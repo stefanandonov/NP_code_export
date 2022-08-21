@@ -1,0 +1,6 @@
+INPUT:
+0 whatever whatever first whatever whatever whatever last
+
+OUTPUT:
+first
+last

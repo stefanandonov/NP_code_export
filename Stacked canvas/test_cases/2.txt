@@ -1,0 +1,34 @@
+INPUT:
+1 c1 RED 15
+1 c2 GREEN 7
+1 c3 RED 9
+2 r1 BLUE 4 7
+2 r2 GREEN 10 8
+3 c2 2.4
+3 r1 5.1
+
+OUTPUT:
+ORIGNAL:
+C: c1   RED           706.86
+C: c3   RED           254.47
+C: c2   GREEN         153.94
+R: r2   GREEN          80.00
+R: r1   BLUE           28.00
+AFTER SCALING: c2 2.40
+C: c2   GREEN         886.68
+C: c1   RED           706.86
+C: c3   RED           254.47
+R: r2   GREEN          80.00
+R: r1   BLUE           28.00
+ORIGNAL:
+C: c2   GREEN         886.68
+C: c1   RED           706.86
+C: c3   RED           254.47
+R: r2   GREEN          80.00
+R: r1   BLUE           28.00
+AFTER SCALING: r1 5.10
+C: c2   GREEN         886.68
+R: r1   BLUE          728.28
+C: c1   RED           706.86
+C: c3   RED           254.47
+R: r2   GREEN          80.00

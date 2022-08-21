@@ -1,0 +1,16 @@
+INPUT:
+Боро
+1000
+12
+true
+3
+
+OUTPUT:
+Applicant
+Name: Боро
+Credit score: 1000
+Experience: 12
+Criminal record: Yes
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_EXPERIENCE
+Applicant is REJECTED

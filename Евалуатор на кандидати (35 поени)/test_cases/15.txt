@@ -1,0 +1,16 @@
+INPUT:
+Славе
+600
+12
+true
+1
+
+OUTPUT:
+Applicant
+Name: Славе
+Credit score: 600
+Experience: 12
+Criminal record: Yes
+
+Evaluation type: MORE_EXPERIENCE
+Applicant is ACCEPTED

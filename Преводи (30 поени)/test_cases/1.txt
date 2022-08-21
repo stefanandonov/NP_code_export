@@ -1,0 +1,242 @@
+INPUT:
+38
+00:02:56,001 --> 00:02:57,338
+The two of you?
+
+39
+00:02:57,355 --> 00:03:00,002
+- I trust him with my life.
+- Yeah, well I don't.
+
+40
+00:03:00,179 --> 00:03:04,000
+So you find someone else,
+otherwise, the deal is of, all right?!
+
+41
+00:03:15,741 --> 00:03:17,635
+All right.
+
+42
+00:03:19,782 --> 00:03:21,870
+I'll find another guy.
+
+43
+00:03:22,548 --> 00:03:23,902
+Okay?
+
+44
+00:03:24,873 --> 00:03:26,706
+If..
+
+45
+00:03:26,893 --> 00:03:29,911
+And I mean if this goes according to plan..
+
+46
+00:03:31,126 --> 00:03:32,571
+He's got a ring.
+
+47
+00:03:32,744 --> 00:03:34,034
+You take it!
+
+48
+00:03:34,175 --> 00:03:36,584
+The ring is very important to him.
+
+49
+00:03:36,733 --> 00:03:39,379
+You might say it's his little friend.
+
+50
+00:03:40,138 --> 00:03:41,931
+Adios.
+
+51
+00:03:46,313 --> 00:03:48,515
+Fucking tosser!
+
+52
+00:04:39,987 --> 00:04:43,046
+<i>- Hello?
+- Happy birthday to you</i>
+
+53
+00:04:43,140 --> 00:04:45,670
+<i>happy birthday to you</i>
+
+54
+00:04:45,738 --> 00:04:48,794
+<i>happy birthday dear Michael</i>
+
+55
+00:04:48,901 --> 00:04:51,127
+<i>happy birthday to you.</i>
+
+56
+00:04:51,203 --> 00:04:52,314
+Wow, I'm touched.
+
+OUTPUT:
++++++ ORIGINIAL SUBTITLES +++++
+38
+00:02:56,001 --> 00:02:57,338
+The two of you?
+
+39
+00:02:57,355 --> 00:03:00,002
+- I trust him with my life.
+- Yeah, well I don't.
+
+40
+00:03:00,179 --> 00:03:04,000
+So you find someone else,
+otherwise, the deal is of, all right?!
+
+41
+00:03:15,741 --> 00:03:17,635
+All right.
+
+42
+00:03:19,782 --> 00:03:21,870
+I'll find another guy.
+
+43
+00:03:22,548 --> 00:03:23,902
+Okay?
+
+44
+00:03:24,873 --> 00:03:26,706
+If..
+
+45
+00:03:26,893 --> 00:03:29,911
+And I mean if this goes according to plan..
+
+46
+00:03:31,126 --> 00:03:32,571
+He's got a ring.
+
+47
+00:03:32,744 --> 00:03:34,034
+You take it!
+
+48
+00:03:34,175 --> 00:03:36,584
+The ring is very important to him.
+
+49
+00:03:36,733 --> 00:03:39,379
+You might say it's his little friend.
+
+50
+00:03:40,138 --> 00:03:41,931
+Adios.
+
+51
+00:03:46,313 --> 00:03:48,515
+Fucking tosser!
+
+52
+00:04:39,987 --> 00:04:43,046
+<i>- Hello?
+- Happy birthday to you</i>
+
+53
+00:04:43,140 --> 00:04:45,670
+<i>happy birthday to you</i>
+
+54
+00:04:45,738 --> 00:04:48,794
+<i>happy birthday dear Michael</i>
+
+55
+00:04:48,901 --> 00:04:51,127
+<i>happy birthday to you.</i>
+
+56
+00:04:51,203 --> 00:04:52,314
+Wow, I'm touched.
+
+SHIFT FOR -703 ms
++++++ SHIFTED SUBTITLES +++++
+38
+00:02:55,298 --> 00:02:56,635
+The two of you?
+
+39
+00:02:56,652 --> 00:02:59,299
+- I trust him with my life.
+- Yeah, well I don't.
+
+40
+00:02:59,476 --> 00:03:03,297
+So you find someone else,
+otherwise, the deal is of, all right?!
+
+41
+00:03:15,038 --> 00:03:16,932
+All right.
+
+42
+00:03:19,079 --> 00:03:21,167
+I'll find another guy.
+
+43
+00:03:21,845 --> 00:03:23,199
+Okay?
+
+44
+00:03:24,170 --> 00:03:26,003
+If..
+
+45
+00:03:26,190 --> 00:03:29,208
+And I mean if this goes according to plan..
+
+46
+00:03:30,423 --> 00:03:31,868
+He's got a ring.
+
+47
+00:03:32,041 --> 00:03:33,331
+You take it!
+
+48
+00:03:33,472 --> 00:03:35,881
+The ring is very important to him.
+
+49
+00:03:36,030 --> 00:03:38,676
+You might say it's his little friend.
+
+50
+00:03:39,435 --> 00:03:41,228
+Adios.
+
+51
+00:03:45,610 --> 00:03:47,812
+Fucking tosser!
+
+52
+00:04:39,284 --> 00:04:42,343
+<i>- Hello?
+- Happy birthday to you</i>
+
+53
+00:04:42,437 --> 00:04:44,967
+<i>happy birthday to you</i>
+
+54
+00:04:45,035 --> 00:04:48,091
+<i>happy birthday dear Michael</i>
+
+55
+00:04:48,198 --> 00:04:50,424
+<i>happy birthday to you.</i>
+
+56
+00:04:50,500 --> 00:04:51,611
+Wow, I'm touched.
+

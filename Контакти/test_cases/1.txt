@@ -1,0 +1,60 @@
+INPUT:
+32
+CREATE_FACULTY FEIT
+3
+Stojan Petrov Strumica 21 34284261
+Ina Jovanova Stip 25 39359326
+Sanja Jovanova Ohrid 22 94640743
+ADD_PHONE_CONTACT 39359326 2001-04-22 078/762-239
+ADD_PHONE_CONTACT 94640743 2000-11-17 071/760-859
+ADD_EMAIL_CONTACT 34284261 2008-02-21 zriircujqfiwf@finki.ukim.mk
+ADD_EMAIL_CONTACT 39359326 2007-08-02 bfknhpcejny@gmail.com
+ADD_EMAIL_CONTACT 94640743 2006-03-18 wnqhbi@finki.ukim.mk
+ADD_EMAIL_CONTACT 94640743 2010-12-03 qxuonzbnb@gmail.com
+ADD_EMAIL_CONTACT 94640743 2012-04-17 ysvpwlkxuagbb@yahoo.com
+ADD_EMAIL_CONTACT 34284261 2000-11-26 ssecdsuu@cs.org.mk
+ADD_EMAIL_CONTACT 34284261 2002-07-19 bjeidbsrosignbi@yahoo.com
+ADD_EMAIL_CONTACT 39359326 2005-02-22 tpzypzoxp@hotmail.com
+ADD_PHONE_CONTACT 39359326 2008-08-24 071/113-975
+ADD_PHONE_CONTACT 94640743 2006-02-15 075/446-731
+ADD_EMAIL_CONTACT 94640743 2001-03-08 yhmnhrsgd@cs.org.mk
+ADD_PHONE_CONTACT 34284261 2008-02-03 071/589-923
+ADD_EMAIL_CONTACT 34284261 2004-08-29 dbbkhilvgrklf@finki.ukim.mk
+ADD_EMAIL_CONTACT 94640743 2004-07-08 eivthhzggrenmcj@yahoo.com
+ADD_PHONE_CONTACT 94640743 2006-09-20 077/005-918
+ADD_EMAIL_CONTACT 94640743 2005-08-27 vchmhryaytc@yahoo.com
+CHECK_DATES
+ADD_PHONE_CONTACT 94640743 2009-05-25 078/394-934
+CHECK_DATES
+CHECK_SIMPLE
+CHECK_SIMPLE
+CHECK_SIMPLE
+CHECK_SIMPLE
+ADD_PHONE_CONTACT 39359326 2011-05-24 078/331-265
+CHECK_SIMPLE
+CHECK_SIMPLE
+ADD_EMAIL_CONTACT 34284261 2013-02-30 itpwbn@finki.ukim.mk
+ADD_EMAIL_CONTACT 39359326 2012-06-06 tfybkpkqpjuvsna@yahoo.com
+PRINT_FACULTY_METHODS
+
+OUTPUT:
+Latest contact: ysvpwlkxuagbb@yahoo.com
+Number of email and phone contacts: 6 3
+Comparing dates: true
+Latest contact: ysvpwlkxuagbb@yahoo.com
+Number of email and phone contacts: 6 4
+Comparing dates: false
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.33
+Number of students from Ohrid: 1
+Average number of contacts: 6.67
+Number of students from Ohrid: 1
+Average number of contacts: 6.67
+Number of students from Ohrid: 1
+Faculty: {"fakultet":"FEIT", "studenti":[{"ime":"Stojan", "prezime":"Petrov", "vozrast":21, "grad":"Strumica", "indeks":34284261, "telefonskiKontakti":["071/589-923"], "emailKontakti":["zriircujqfiwf@finki.ukim.mk", "ssecdsuu@cs.org.mk", "bjeidbsrosignbi@yahoo.com", "dbbkhilvgrklf@finki.ukim.mk", "itpwbn@finki.ukim.mk"]}, {"ime":"Ina", "prezime":"Jovanova", "vozrast":25, "grad":"Stip", "indeks":39359326, "telefonskiKontakti":["078/762-239", "071/113-975", "078/331-265"], "emailKontakti":["bfknhpcejny@gmail.com", "tpzypzoxp@hotmail.com", "tfybkpkqpjuvsna@yahoo.com"]}, {"ime":"Sanja", "prezime":"Jovanova", "vozrast":22, "grad":"Ohrid", "indeks":94640743, "telefonskiKontakti":["071/760-859", "075/446-731", "077/005-918", "078/394-934"], "emailKontakti":["wnqhbi@finki.ukim.mk", "qxuonzbnb@gmail.com", "ysvpwlkxuagbb@yahoo.com", "yhmnhrsgd@cs.org.mk", "eivthhzggrenmcj@yahoo.com", "vchmhryaytc@yahoo.com"]}]}
+Student with most contacts: {"ime":"Sanja", "prezime":"Jovanova", "vozrast":22, "grad":"Ohrid", "indeks":94640743, "telefonskiKontakti":["071/760-859", "075/446-731", "077/005-918", "078/394-934"], "emailKontakti":["wnqhbi@finki.ukim.mk", "qxuonzbnb@gmail.com", "ysvpwlkxuagbb@yahoo.com", "yhmnhrsgd@cs.org.mk", "eivthhzggrenmcj@yahoo.com", "vchmhryaytc@yahoo.com"]}

@@ -1,0 +1,34 @@
+INPUT:
+REG Trajce 9be0cc11-d898-4fee-be9f-910f80a0f80a
+REG Anastasija 044290ed-8ae6-4cc1-99dc-232e20fa905b
+REG Anastasija c71708fa-701b-449c-b70b-a4fb759930e6
+REG Gjorgji f4faecb9-9ccb-479e-9d5e-3500283a280c
+REG Sofija 596462ec-43b2-4015-a9a0-aad1a9b7cd93
+LOC 9be0cc11-d898-4fee-be9f-910f80a0f80a 4.18 5.27 2020-06-06T22:54:11.942 2.11 5.32 2020-06-06T23:08:11.951 
+LOC 044290ed-8ae6-4cc1-99dc-232e20fa905b 2.25 5.72 2020-06-06T23:03:11.951 4.96 5.10 2020-06-06T22:46:11.951 
+LOC c71708fa-701b-449c-b70b-a4fb759930e6 0.93 5.76 2020-06-06T23:22:11.951 1.15 5.16 2020-06-06T23:00:11.951 3.94 5.31 2020-06-06T22:50:11.952 
+LOC f4faecb9-9ccb-479e-9d5e-3500283a280c 4.87 5.48 2020-06-06T23:02:11.952 4.52 5.30 2020-06-06T23:07:11.952 3.50 5.05 2020-06-06T22:39:11.952 0.54 5.40 2020-06-06T22:44:11.952 
+LOC 596462ec-43b2-4015-a9a0-aad1a9b7cd93 0.35 5.86 2020-06-06T23:10:11.952 3.05 5.80 2020-06-06T22:52:11.953 3.96 5.77 2020-06-06T23:19:11.953 
+DET 596462ec-43b2-4015-a9a0-aad1a9b7cd93 2020-06-09T22:40:11.953
+DET 044290ed-8ae6-4cc1-99dc-232e20fa905b 2020-06-08T22:58:11.953
+REP
+
+OUTPUT:
+Anastasija 044290ed-8ae6-4cc1-99dc-232e20fa905b 2020-06-08T22:58:11.953
+Direct contacts:
+Anastasija c717*** 2
+Trajce 9be0*** 1
+Count of direct contacts: 3
+Indirect contacts: 
+Sofija 5964***
+Count of indirect contacts: 1
+Sofija 596462ec-43b2-4015-a9a0-aad1a9b7cd93 2020-06-09T22:40:11.953
+Direct contacts:
+Trajce 9be0*** 2
+Anastasija c717*** 1
+Count of direct contacts: 3
+Indirect contacts: 
+Anastasija 0442***
+Count of indirect contacts: 1
+Average direct contacts: 3.0000
+Average indirect contacts: 1.0000

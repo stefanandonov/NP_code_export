@@ -1,0 +1,8 @@
+INPUT:
+6
+
+OUTPUT:
+Testing addGrade and printFirstNStudents (not graduated student)
+Student: student4 Courses passed: 18 Average grade: 10.00
+Student: student8 Courses passed: 18 Average grade: 9.00
+Student: student2 Courses passed: 18 Average grade: 8.00

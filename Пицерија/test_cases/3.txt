@@ -1,0 +1,6 @@
+INPUT:
+3
+
+OUTPUT:
+EmptyOrder
+OrderLockedException

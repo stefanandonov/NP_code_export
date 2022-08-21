@@ -1,0 +1,22 @@
+INPUT:
+1
+10
+63 2006-06-04T00:37:27 cat1
+97 2015-10-01T23:19:12 cat4
+43 2016-06-04T08:14:39 cat3
+85 2012-03-04T05:10:08 cat3
+42 2003-04-08T02:05:15 cat2
+11 2010-03-07T23:50:43 cat5
+46 2018-10-01T07:15:31 cat4
+12 2009-04-08T06:55:42 cat1
+84 2006-09-29T11:23:21 cat4
+6 2007-06-04T11:24:16 cat1
+3
+
+OUTPUT:
+03-04 -> [IntegerElement{value=85, timestamp=2012-03-04T05:10:08}]
+03-07 -> [IntegerElement{value=11, timestamp=2010-03-07T23:50:43}]
+04-08 -> [IntegerElement{value=42, timestamp=2003-04-08T02:05:15}, IntegerElement{value=12, timestamp=2009-04-08T06:55:42}]
+06-04 -> [IntegerElement{value=63, timestamp=2006-06-04T00:37:27}, IntegerElement{value=43, timestamp=2016-06-04T08:14:39}, IntegerElement{value=6, timestamp=2007-06-04T11:24:16}]
+09-29 -> [IntegerElement{value=84, timestamp=2006-09-29T11:23:21}]
+10-01 -> [IntegerElement{value=97, timestamp=2015-10-01T23:19:12}, IntegerElement{value=46, timestamp=2018-10-01T07:15:31}]

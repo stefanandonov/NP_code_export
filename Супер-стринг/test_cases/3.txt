@@ -1,0 +1,47 @@
+INPUT:
+0
+ 	0 `st`
+ 	0 `arz`
+ 	0 `andrej`
+ 	1 `st`
+ 	0 `arz`
+ 	1 `andr`
+ 	1 `ej`
+ 	4
+ 	5 1
+  	4
+ 	0 `asd`
+ 	1 `qwe`
+ 	1 `ert`
+ 	1 `yui`
+ 	4
+ 	5 2
+ 	4
+  	0 `aa`
+ 	0 `aadv`
+ 	0 `vbn`
+ 	1 `123`
+ 	1 `456`
+ 	1 `789`
+ 	0 `147`
+ 	1 `258`
+ 	0 `369`
+ 	0 `723`
+ 	4
+ 	5 5
+ 	4
+ 	3 
+ 	4
+ 	5 8
+ 	4
+ 	6
+
+OUTPUT:
+`ej``andr``st``st``arz``andrej``arz`
+`andr``st``st``arz``andrej``arz`
+`yui``ert``qwe``andr``st``st``arz``andrej``arz``asd`
+`qwe``andr``st``st``arz``andrej``arz``asd`
+`258``789``456``123``qwe``andr``st``st``arz``andrej``arz``asd``aa``aadv``vbn``147``369``723`
+`456``123``qwe``andr``st``st``arz``andrej``arz``asd``aa``aadv``vbn`
+`nbv``vdaa``aa``dsa``zra``jerdna``zra``ts``ts``rdna``ewq``321``654`
+`zra``jerdna``zra``ts``ts`

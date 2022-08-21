@@ -1,0 +1,16 @@
+INPUT:
+Христина
+1000
+12
+false
+4
+
+OUTPUT:
+Applicant
+Name: Христина
+Credit score: 1000
+Experience: 12
+Criminal record: No
+
+Evaluation type: MORE_EXPERIENCE_AND_MORE_CREDIT_SCORE
+Applicant is ACCEPTED

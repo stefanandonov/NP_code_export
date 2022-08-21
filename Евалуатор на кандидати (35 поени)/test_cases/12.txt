@@ -1,0 +1,16 @@
+INPUT:
+Весна
+600
+8
+false
+4
+
+OUTPUT:
+Applicant
+Name: Весна
+Credit score: 600
+Experience: 8
+Criminal record: No
+
+Evaluation type: MORE_EXPERIENCE_AND_MORE_CREDIT_SCORE
+Applicant is REJECTED

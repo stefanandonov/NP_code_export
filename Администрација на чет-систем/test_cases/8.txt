@@ -1,0 +1,94 @@
+INPUT:
+1
+register user1
+register user2
+followFriend user1 user2
+followFriend user1 user2
+register user3
+addRoom room1
+addRoom room2
+print room1
+addRoom room3
+registerAndJoin user4 room3
+print room1
+followFriend user2 user4
+addRoom room4
+followFriend user2 user1
+leaveRoom user1 room3
+joinRoom user1 room4
+leaveRoom user2 room3
+leaveRoom user3 room3
+removeRoom room4
+leaveRoom user3 room2
+removeRoom room3
+print room1
+addRoom room3
+addRoom room4
+joinRoom user1 room3
+registerAndJoin user5 room1
+followFriend user1 user4
+print room3
+joinRoom user1 room3
+removeRoom room4
+print room3
+addRoom room4
+joinRoom user2 room3
+print room3
+addRoom room5
+registerAndJoin user6 room1
+registerAndJoin user7 room3
+removeRoom room5
+followFriend user3 user6
+joinRoom user2 room4
+leaveRoom user3 room1
+joinRoom user4 room2
+leaveRoom user5 room2
+joinRoom user7 room3
+register user8
+print room4
+registerAndJoin user9 room2
+print room4
+removeRoom room4
+print room3
+stop
+
+OUTPUT:
+room1
+EMPTY
+
+
+room1
+EMPTY
+
+
+room1
+EMPTY
+
+
+room3
+user1
+
+
+room3
+user1
+
+
+room3
+user1
+user2
+
+
+room4
+user2
+
+
+room4
+user2
+
+
+room3
+user1
+user2
+user7
+
+

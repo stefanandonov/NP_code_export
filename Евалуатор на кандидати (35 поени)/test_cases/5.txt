@@ -1,0 +1,16 @@
+INPUT:
+Иван
+600
+5
+false
+5
+
+OUTPUT:
+Applicant
+Name: Иван
+Credit score: 600
+Experience: 5
+Criminal record: No
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_CREDIT_SCORE
+Applicant is ACCEPTED

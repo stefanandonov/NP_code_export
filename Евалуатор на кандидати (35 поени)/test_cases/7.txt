@@ -1,0 +1,16 @@
+INPUT:
+Михаела
+499
+12
+false
+2
+
+OUTPUT:
+Applicant
+Name: Михаела
+Credit score: 499
+Experience: 12
+Criminal record: No
+
+Evaluation type: MORE_CREDIT_SCORE
+Applicant is REJECTED

@@ -1,0 +1,26 @@
+INPUT:
+8
+
+OUTPUT:
+TESTING DETAILED REPORT
+Student: student1
+Term 1
+Courses: 2
+Average grade for term: 6.50
+Term 2
+Courses: 2
+Average grade for term: 8.50
+Term 3
+Courses: 2
+Average grade for term: 5.50
+Term 4
+Courses: 2
+Average grade for term: 7.50
+Term 5
+Courses: 2
+Average grade for term: 7.00
+Term 6
+Courses: 0
+Average grade for term: 5.00
+Average grade: 7.00
+Courses attended: course1,course10,course2,course3,course4,course5,course6,course7,course8,course9

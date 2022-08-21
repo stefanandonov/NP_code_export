@@ -1,0 +1,19 @@
+INPUT:
+7
+CREATE_FACULTY Mashinski fakultet
+2
+Ema Trajanova Ohrid 22 5229526
+Marta Nikolova Stip 28 93083935
+ADD_EMAIL_CONTACT 5229526 2004-09-14 jtawgadptsmgdis@finki.ukim.mk
+ADD_EMAIL_CONTACT 5229526 2004-03-22 qqaggihomvgk@finki.ukim.mk
+ADD_PHONE_CONTACT 93083935 2011-05-21 078/786-441
+CHECK_SIMPLE
+CHECK_SIMPLE
+CHECK_DATES
+
+OUTPUT:
+Average number of contacts: 1.50
+Number of students from Stip: 1
+Average number of contacts: 1.50
+Number of students from Stip: 1
+Latest contact: 078/786-441 (VIP)

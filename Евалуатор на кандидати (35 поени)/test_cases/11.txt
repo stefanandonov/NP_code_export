@@ -1,0 +1,16 @@
+INPUT:
+Томче
+1000
+8
+true
+3
+
+OUTPUT:
+Applicant
+Name: Томче
+Credit score: 1000
+Experience: 8
+Criminal record: Yes
+
+Evaluation type: NO_CRIMINAL_RECORD_AND_MORE_EXPERIENCE
+Applicant is REJECTED
